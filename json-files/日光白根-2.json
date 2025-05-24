@@ -1,0 +1,6042 @@
+[
+  {
+    "pass_at": 1747511845,
+    "coord": [139.4230177, 36.8054521],
+    "altitude": 1485.9512223,
+    "time_from_previous": 0,
+    "distance_from_previous": 0,
+    "elevation_from_previous": 0,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747511860,
+    "coord": [139.4228131, 36.8055256],
+    "altitude": 1486.5154979,
+    "time_from_previous": 14.573651,
+    "distance_from_previous": 20.0000002,
+    "elevation_from_previous": 0.5642757,
+    "horizontal_speed": 1.372339724616707,
+    "vertical_speed": 0.03871889755010601
+  },
+  {
+    "pass_at": 1747511872,
+    "coord": [139.4225983, 36.8054786],
+    "altitude": 1487.1342115,
+    "time_from_previous": 12.569826,
+    "distance_from_previous": 19.8639862,
+    "elevation_from_previous": 0.6187135,
+    "horizontal_speed": 1.580291262583905,
+    "vertical_speed": 0.04922212129268933
+  },
+  {
+    "pass_at": 1747511885,
+    "coord": [139.4224109, 36.8053807],
+    "altitude": 1487.5226928,
+    "time_from_previous": 12.907623,
+    "distance_from_previous": 19.9384383,
+    "elevation_from_previous": 0.3884813,
+    "horizontal_speed": 1.544702560649626,
+    "vertical_speed": 0.03009704420403354
+  },
+  {
+    "pass_at": 1747511898,
+    "coord": [139.4222172, 36.8052903],
+    "altitude": 1487.9565478,
+    "time_from_previous": 12.542064,
+    "distance_from_previous": 19.9911863,
+    "elevation_from_previous": 0.433855,
+    "horizontal_speed": 1.593931134460803,
+    "vertical_speed": 0.03459199378985787
+  },
+  {
+    "pass_at": 1747511910,
+    "coord": [139.4220298, 36.8051916],
+    "altitude": 1488.3310127,
+    "time_from_previous": 12.581643,
+    "distance_from_previous": 19.9895685,
+    "elevation_from_previous": 0.3744649,
+    "horizontal_speed": 1.588788403867444,
+    "vertical_speed": 0.02976279807017255
+  },
+  {
+    "pass_at": 1747511923,
+    "coord": [139.4218459, 36.8050886],
+    "altitude": 1488.5946052,
+    "time_from_previous": 12.886303,
+    "distance_from_previous": 19.9995377,
+    "elevation_from_previous": 0.2635925,
+    "horizontal_speed": 1.551999646446308,
+    "vertical_speed": 0.02045524616330999
+  },
+  {
+    "pass_at": 1747511936,
+    "coord": [139.4216503, 36.8050015],
+    "altitude": 1488.6903156,
+    "time_from_previous": 12.975439,
+    "distance_from_previous": 19.9509071,
+    "elevation_from_previous": 0.0957104,
+    "horizontal_speed": 1.537590142422156,
+    "vertical_speed": 0.007376274513717802
+  },
+  {
+    "pass_at": 1747511949,
+    "coord": [139.4214462, 36.8049271],
+    "altitude": 1488.692882,
+    "time_from_previous": 12.902184,
+    "distance_from_previous": 19.9949599,
+    "elevation_from_previous": 0.0025664,
+    "horizontal_speed": 1.549734517814968,
+    "vertical_speed": 0.0001989120601597373
+  },
+  {
+    "pass_at": 1747511962,
+    "coord": [139.4212535, 36.8048363],
+    "altitude": 1488.7720675,
+    "time_from_previous": 12.783698,
+    "distance_from_previous": 19.9345989,
+    "elevation_from_previous": 0.0791855,
+    "horizontal_speed": 1.559376551292122,
+    "vertical_speed": 0.006194256153422899
+  },
+  {
+    "pass_at": 1747511975,
+    "coord": [139.4210503, 36.8047632],
+    "altitude": 1489.1724187,
+    "time_from_previous": 12.87755,
+    "distance_from_previous": 19.8640184,
+    "elevation_from_previous": 0.4003512,
+    "horizontal_speed": 1.542530869614174,
+    "vertical_speed": 0.03108908138582262
+  },
+  {
+    "pass_at": 1747511988,
+    "coord": [139.4208417, 36.8046974],
+    "altitude": 1489.6505149,
+    "time_from_previous": 13.697135,
+    "distance_from_previous": 19.9932863,
+    "elevation_from_previous": 0.4780961,
+    "horizontal_speed": 1.459669215496526,
+    "vertical_speed": 0.03490482498712322
+  },
+  {
+    "pass_at": 1747512001,
+    "coord": [139.420634, 36.8046297],
+    "altitude": 1490.6377409,
+    "time_from_previous": 13.047113,
+    "distance_from_previous": 19.9996401,
+    "elevation_from_previous": 0.987226,
+    "horizontal_speed": 1.532878583944203,
+    "vertical_speed": 0.07566624125965646
+  },
+  {
+    "pass_at": 1747512013,
+    "coord": [139.4204362, 36.8045466],
+    "altitude": 1492.0688162,
+    "time_from_previous": 12.020658,
+    "distance_from_previous": 19.9135394,
+    "elevation_from_previous": 1.4310753,
+    "horizontal_speed": 1.656609762959732,
+    "vertical_speed": 0.1190513281386094
+  },
+  {
+    "pass_at": 1747512027,
+    "coord": [139.4202397, 36.8044612],
+    "altitude": 1493.076853,
+    "time_from_previous": 13.195461,
+    "distance_from_previous": 19.9339861,
+    "elevation_from_previous": 1.0080368,
+    "horizontal_speed": 1.510669926575509,
+    "vertical_speed": 0.07639269291160043
+  },
+  {
+    "pass_at": 1747512041,
+    "coord": [139.4200292, 36.804401],
+    "altitude": 1493.6178883,
+    "time_from_previous": 14.014361,
+    "distance_from_previous": 19.9369957,
+    "elevation_from_previous": 0.5410353,
+    "horizontal_speed": 1.422611826539933,
+    "vertical_speed": 0.03860577731656834
+  },
+  {
+    "pass_at": 1747512053,
+    "coord": [139.419812, 36.8043567],
+    "altitude": 1494.2533508,
+    "time_from_previous": 12.730691,
+    "distance_from_previous": 19.9978263,
+    "elevation_from_previous": 0.6354625,
+    "horizontal_speed": 1.570835887855577,
+    "vertical_speed": 0.04991579011697009
+  },
+  {
+    "pass_at": 1747512067,
+    "coord": [139.4196007, 36.8042988],
+    "altitude": 1495.0074581,
+    "time_from_previous": 13.515527,
+    "distance_from_previous": 19.9223481,
+    "elevation_from_previous": 0.7541074,
+    "horizontal_speed": 1.47403413126251,
+    "vertical_speed": 0.05579563416210111
+  },
+  {
+    "pass_at": 1747512080,
+    "coord": [139.4194019, 36.8042157],
+    "altitude": 1495.4370468,
+    "time_from_previous": 12.902939,
+    "distance_from_previous": 19.9933869,
+    "elevation_from_previous": 0.4295886,
+    "horizontal_speed": 1.549521926748627,
+    "vertical_speed": 0.03329385653919623
+  },
+  {
+    "pass_at": 1747512093,
+    "coord": [139.4192052, 36.8041296],
+    "altitude": 1495.6779412,
+    "time_from_previous": 13.448972,
+    "distance_from_previous": 19.9827146,
+    "elevation_from_previous": 0.2408944,
+    "horizontal_speed": 1.485817250567553,
+    "vertical_speed": 0.01791173332801942
+  },
+  {
+    "pass_at": 1747512108,
+    "coord": [139.4190006, 36.8040561],
+    "altitude": 1496.3541934,
+    "time_from_previous": 14.59488,
+    "distance_from_previous": 19.9999299,
+    "elevation_from_previous": 0.6762523,
+    "horizontal_speed": 1.370338769486286,
+    "vertical_speed": 0.04633489963603675
+  },
+  {
+    "pass_at": 1747512121,
+    "coord": [139.4187966, 36.8039814],
+    "altitude": 1497.6137211,
+    "time_from_previous": 13.509169,
+    "distance_from_previous": 19.9999893,
+    "elevation_from_previous": 1.2595277,
+    "horizontal_speed": 1.480475172084974,
+    "vertical_speed": 0.0932350243009026
+  },
+  {
+    "pass_at": 1747512134,
+    "coord": [139.4185957, 36.803904],
+    "altitude": 1498.4181669,
+    "time_from_previous": 12.2793,
+    "distance_from_previous": 19.8819157,
+    "elevation_from_previous": 0.8044458,
+    "horizontal_speed": 1.619140806072008,
+    "vertical_speed": 0.06551235005252742
+  },
+  {
+    "pass_at": 1747512145,
+    "coord": [139.4184644, 36.803758],
+    "altitude": 1498.2412191,
+    "time_from_previous": 11.938814,
+    "distance_from_previous": 20,
+    "elevation_from_previous": -0.1769478,
+    "horizontal_speed": 1.675208274456742,
+    "vertical_speed": -0.01482122093534584
+  },
+  {
+    "pass_at": 1747512159,
+    "coord": [139.4182883, 36.803647],
+    "altitude": 1498.4997136,
+    "time_from_previous": 13.541369,
+    "distance_from_previous": 19.9657401,
+    "elevation_from_previous": 0.2584945,
+    "horizontal_speed": 1.474425525218314,
+    "vertical_speed": 0.01908924422634078
+  },
+  {
+    "pass_at": 1747512174,
+    "coord": [139.4180798, 36.8035823],
+    "altitude": 1499.7534735,
+    "time_from_previous": 14.799011,
+    "distance_from_previous": 19.9387266,
+    "elevation_from_previous": 1.2537599,
+    "horizontal_speed": 1.347301289255072,
+    "vertical_speed": 0.08471916805791954
+  },
+  {
+    "pass_at": 1747512189,
+    "coord": [139.4178569, 36.8035841],
+    "altitude": 1502.6057986,
+    "time_from_previous": 15.578707,
+    "distance_from_previous": 19.8936048,
+    "elevation_from_previous": 2.8523251,
+    "horizontal_speed": 1.276974064664032,
+    "vertical_speed": 0.1830912603979265
+  },
+  {
+    "pass_at": 1747512204,
+    "coord": [139.4176848, 36.8036934],
+    "altitude": 1505.3349813,
+    "time_from_previous": 14.753834,
+    "distance_from_previous": 19.571901,
+    "elevation_from_previous": 2.7291827,
+    "horizontal_speed": 1.326563725740713,
+    "vertical_speed": 0.18498125300854
+  },
+  {
+    "pass_at": 1747512221,
+    "coord": [139.4175691, 36.8038465],
+    "altitude": 1507.6190324,
+    "time_from_previous": 16.459948,
+    "distance_from_previous": 19.8815397,
+    "elevation_from_previous": 2.284051,
+    "horizontal_speed": 1.207873785506491,
+    "vertical_speed": 0.1387641686352837
+  },
+  {
+    "pass_at": 1747512236,
+    "coord": [139.4174491, 36.8039986],
+    "altitude": 1511.006528,
+    "time_from_previous": 14.897058,
+    "distance_from_previous": 19.9941894,
+    "elevation_from_previous": 3.3874956,
+    "horizontal_speed": 1.342156914472643,
+    "vertical_speed": 0.227393596775954
+  },
+  {
+    "pass_at": 1747512249,
+    "coord": [139.4172786, 36.8041131],
+    "altitude": 1514.5740834,
+    "time_from_previous": 13.929301,
+    "distance_from_previous": 19.8177699,
+    "elevation_from_previous": 3.5675554,
+    "horizontal_speed": 1.422739726853486,
+    "vertical_speed": 0.2561187671944198
+  },
+  {
+    "pass_at": 1747512263,
+    "coord": [139.4170934, 36.8042145],
+    "altitude": 1516.6341121,
+    "time_from_previous": 13.379263,
+    "distance_from_previous": 19.9968594,
+    "elevation_from_previous": 2.0600287,
+    "horizontal_speed": 1.494615914194975,
+    "vertical_speed": 0.1539717621217253
+  },
+  {
+    "pass_at": 1747512277,
+    "coord": [139.4168843, 36.8042743],
+    "altitude": 1518.6622928,
+    "time_from_previous": 14.335777,
+    "distance_from_previous": 19.8090285,
+    "elevation_from_previous": 2.0281807,
+    "horizontal_speed": 1.381789665115466,
+    "vertical_speed": 0.141476858910403
+  },
+  {
+    "pass_at": 1747512292,
+    "coord": [139.4166641, 36.8043068],
+    "altitude": 1521.6162333,
+    "time_from_previous": 14.671912,
+    "distance_from_previous": 19.9758857,
+    "elevation_from_previous": 2.9539405,
+    "horizontal_speed": 1.361505283019691,
+    "vertical_speed": 0.201333030078152
+  },
+  {
+    "pass_at": 1747512307,
+    "coord": [139.4164427, 36.804335],
+    "altitude": 1525.1790664,
+    "time_from_previous": 15.370634,
+    "distance_from_previous": 19.9999317,
+    "elevation_from_previous": 3.5628331,
+    "horizontal_speed": 1.301178058107427,
+    "vertical_speed": 0.2317948043002
+  },
+  {
+    "pass_at": 1747512323,
+    "coord": [139.41622, 36.8043542],
+    "altitude": 1527.6460846,
+    "time_from_previous": 15.652765,
+    "distance_from_previous": 19.9881761,
+    "elevation_from_previous": 2.4670182,
+    "horizontal_speed": 1.276974138434967,
+    "vertical_speed": 0.1576090997341364
+  },
+  {
+    "pass_at": 1747512339,
+    "coord": [139.4160008, 36.8043889],
+    "altitude": 1529.3583249,
+    "time_from_previous": 15.825008,
+    "distance_from_previous": 19.9402228,
+    "elevation_from_previous": 1.7122404,
+    "horizontal_speed": 1.260045037575968,
+    "vertical_speed": 0.1081983908001816
+  },
+  {
+    "pass_at": 1747512354,
+    "coord": [139.4157816, 36.8044262],
+    "altitude": 1533.422879,
+    "time_from_previous": 15.304323,
+    "distance_from_previous": 19.9918351,
+    "elevation_from_previous": 4.0645541,
+    "horizontal_speed": 1.306286798834551,
+    "vertical_speed": 0.2655820907595847
+  },
+  {
+    "pass_at": 1747512369,
+    "coord": [139.4155589, 36.8044423],
+    "altitude": 1536.6947929,
+    "time_from_previous": 14.980982,
+    "distance_from_previous": 19.9521455,
+    "elevation_from_previous": 3.2719139,
+    "horizontal_speed": 1.331831618247722,
+    "vertical_speed": 0.2184045011201536
+  },
+  {
+    "pass_at": 1747512385,
+    "coord": [139.4153352, 36.804453],
+    "altitude": 1537.7808394,
+    "time_from_previous": 15.572873,
+    "distance_from_previous": 19.998412,
+    "elevation_from_previous": 1.0860465,
+    "horizontal_speed": 1.284182565413588,
+    "vertical_speed": 0.06973963635354889
+  },
+  {
+    "pass_at": 1747512400,
+    "coord": [139.4151113, 36.8044573],
+    "altitude": 1540.0915942,
+    "time_from_previous": 15.919598,
+    "distance_from_previous": 19.9899587,
+    "elevation_from_previous": 2.3107548,
+    "horizontal_speed": 1.25568237966813,
+    "vertical_speed": 0.1451515798326063
+  },
+  {
+    "pass_at": 1747512416,
+    "coord": [139.4148872, 36.8044602],
+    "altitude": 1544.1158032,
+    "time_from_previous": 15.923463,
+    "distance_from_previous": 19.9987992,
+    "elevation_from_previous": 4.024209,
+    "horizontal_speed": 1.255932782963103,
+    "vertical_speed": 0.2527219738570686
+  },
+  {
+    "pass_at": 1747512432,
+    "coord": [139.4146632, 36.8044588],
+    "altitude": 1546.631881,
+    "time_from_previous": 15.307302,
+    "distance_from_previous": 19.9944157,
+    "elevation_from_previous": 2.5160779,
+    "horizontal_speed": 1.306201164646781,
+    "vertical_speed": 0.1643710890397276
+  },
+  {
+    "pass_at": 1747512447,
+    "coord": [139.4144395, 36.8044486],
+    "altitude": 1548.3038047,
+    "time_from_previous": 15.215409,
+    "distance_from_previous": 19.9945769,
+    "elevation_from_previous": 1.6719237,
+    "horizontal_speed": 1.314100521385919,
+    "vertical_speed": 0.1098835857780754
+  },
+  {
+    "pass_at": 1747512463,
+    "coord": [139.4142163, 36.8044546],
+    "altitude": 1551.1836846,
+    "time_from_previous": 15.679124,
+    "distance_from_previous": 19.9246869,
+    "elevation_from_previous": 2.8798799,
+    "horizontal_speed": 1.270778067703272,
+    "vertical_speed": 0.1836760714437873
+  },
+  {
+    "pass_at": 1747512478,
+    "coord": [139.4139927, 36.8044628],
+    "altitude": 1554.8952676,
+    "time_from_previous": 15.35437,
+    "distance_from_previous": 19.9774884,
+    "elevation_from_previous": 3.711583,
+    "horizontal_speed": 1.301094632993734,
+    "vertical_speed": 0.2417281203982971
+  },
+  {
+    "pass_at": 1747512494,
+    "coord": [139.4137686, 36.8044655],
+    "altitude": 1556.8361731,
+    "time_from_previous": 16.069295,
+    "distance_from_previous": 19.9995525,
+    "elevation_from_previous": 1.9409055,
+    "horizontal_speed": 1.244581825151632,
+    "vertical_speed": 0.1207834880123864
+  },
+  {
+    "pass_at": 1747512510,
+    "coord": [139.4135474, 36.804445],
+    "altitude": 1557.5753674,
+    "time_from_previous": 16.318231,
+    "distance_from_previous": 19.8699345,
+    "elevation_from_previous": 0.7391944,
+    "horizontal_speed": 1.217652483286944,
+    "vertical_speed": 0.04529868464296161
+  },
+  {
+    "pass_at": 1747512526,
+    "coord": [139.4133258, 36.804423],
+    "altitude": 1560.1444148,
+    "time_from_previous": 15.572774,
+    "distance_from_previous": 19.9275005,
+    "elevation_from_previous": 2.5690474,
+    "horizontal_speed": 1.279637173184431,
+    "vertical_speed": 0.1649704413613143
+  },
+  {
+    "pass_at": 1747512541,
+    "coord": [139.413102, 36.8044248],
+    "altitude": 1563.6400073,
+    "time_from_previous": 15.031523,
+    "distance_from_previous": 19.9708126,
+    "elevation_from_previous": 3.4955926,
+    "horizontal_speed": 1.328595419106899,
+    "vertical_speed": 0.232550793422596
+  },
+  {
+    "pass_at": 1747512556,
+    "coord": [139.4128785, 36.8044253],
+    "altitude": 1566.5123432,
+    "time_from_previous": 14.893723,
+    "distance_from_previous": 19.9498249,
+    "elevation_from_previous": 2.8723359,
+    "horizontal_speed": 1.339478711937908,
+    "vertical_speed": 0.1928554666956006
+  },
+  {
+    "pass_at": 1747512571,
+    "coord": [139.4126551, 36.8044109],
+    "altitude": 1568.4054347,
+    "time_from_previous": 15.414737,
+    "distance_from_previous": 19.9995765,
+    "elevation_from_previous": 1.8930915,
+    "horizontal_speed": 1.297432223462522,
+    "vertical_speed": 0.1228104962154074
+  },
+  {
+    "pass_at": 1747512587,
+    "coord": [139.412432, 36.8044072],
+    "altitude": 1569.9947977,
+    "time_from_previous": 16.241204,
+    "distance_from_previous": 19.9092897,
+    "elevation_from_previous": 1.589363,
+    "horizontal_speed": 1.225850601962761,
+    "vertical_speed": 0.0978599246706094
+  },
+  {
+    "pass_at": 1747512604,
+    "coord": [139.4122107, 36.8044342],
+    "altitude": 1572.7395658,
+    "time_from_previous": 16.719571,
+    "distance_from_previous": 19.9699134,
+    "elevation_from_previous": 2.7447681,
+    "horizontal_speed": 1.194403456882955,
+    "vertical_speed": 0.1641649836589707
+  },
+  {
+    "pass_at": 1747512621,
+    "coord": [139.4119911, 36.8044647],
+    "altitude": 1575.6121471,
+    "time_from_previous": 17.051005,
+    "distance_from_previous": 19.8893939,
+    "elevation_from_previous": 2.8725814,
+    "horizontal_speed": 1.166464610150546,
+    "vertical_speed": 0.1684699171691053
+  },
+  {
+    "pass_at": 1747512638,
+    "coord": [139.4117678, 36.8044711],
+    "altitude": 1578.5262471,
+    "time_from_previous": 16.302673,
+    "distance_from_previous": 19.9393633,
+    "elevation_from_previous": 2.9141,
+    "horizontal_speed": 1.223073253079418,
+    "vertical_speed": 0.1787498283256985
+  },
+  {
+    "pass_at": 1747512654,
+    "coord": [139.4115477, 36.8045048],
+    "altitude": 1581.5419434,
+    "time_from_previous": 16.25784,
+    "distance_from_previous": 19.9986946,
+    "elevation_from_previous": 3.0156963,
+    "horizontal_speed": 1.230095424730468,
+    "vertical_speed": 0.1854918181012976
+  },
+  {
+    "pass_at": 1747512670,
+    "coord": [139.4113282, 36.8045406],
+    "altitude": 1584.7313279,
+    "time_from_previous": 16.0235,
+    "distance_from_previous": 19.9914605,
+    "elevation_from_previous": 3.1893845,
+    "horizontal_speed": 1.247633819078229,
+    "vertical_speed": 0.1990441851031298
+  },
+  {
+    "pass_at": 1747512688,
+    "coord": [139.4111058, 36.80456],
+    "altitude": 1587.6827323,
+    "time_from_previous": 17.686301,
+    "distance_from_previous": 19.9574339,
+    "elevation_from_previous": 2.9514043,
+    "horizontal_speed": 1.128411978287603,
+    "vertical_speed": 0.1668751594807756
+  },
+  {
+    "pass_at": 1747512706,
+    "coord": [139.4108833, 36.8045446],
+    "altitude": 1590.6769195,
+    "time_from_previous": 18.351451,
+    "distance_from_previous": 19.9259782,
+    "elevation_from_previous": 2.9941872,
+    "horizontal_speed": 1.085798512608076,
+    "vertical_speed": 0.1631580630872185
+  },
+  {
+    "pass_at": 1747512724,
+    "coord": [139.4106733, 36.8044824],
+    "altitude": 1594.0293492,
+    "time_from_previous": 17.833109,
+    "distance_from_previous": 19.9752495,
+    "elevation_from_previous": 3.3524298,
+    "horizontal_speed": 1.120121539098987,
+    "vertical_speed": 0.1879890825542534
+  },
+  {
+    "pass_at": 1747512742,
+    "coord": [139.4104747, 36.804402],
+    "altitude": 1597.3848734,
+    "time_from_previous": 17.993759,
+    "distance_from_previous": 19.8429247,
+    "elevation_from_previous": 3.3555242,
+    "horizontal_speed": 1.102767059400985,
+    "vertical_speed": 0.1864826687964422
+  },
+  {
+    "pass_at": 1747512760,
+    "coord": [139.4102512, 36.8043903],
+    "altitude": 1600.7347326,
+    "time_from_previous": 17.908199,
+    "distance_from_previous": 19.9871439,
+    "elevation_from_previous": 3.3498592,
+    "horizontal_speed": 1.116088999234373,
+    "vertical_speed": 0.1870572914674446
+  },
+  {
+    "pass_at": 1747512777,
+    "coord": [139.4100275, 36.8043966],
+    "altitude": 1603.686203,
+    "time_from_previous": 17.25516,
+    "distance_from_previous": 19.9727723,
+    "elevation_from_previous": 2.9514703,
+    "horizontal_speed": 1.15749563029262,
+    "vertical_speed": 0.1710485617056
+  },
+  {
+    "pass_at": 1747512794,
+    "coord": [139.4098075, 36.8043622],
+    "altitude": 1606.6445019,
+    "time_from_previous": 17.203753,
+    "distance_from_previous": 19.9999897,
+    "elevation_from_previous": 2.9582989,
+    "horizontal_speed": 1.162536436090428,
+    "vertical_speed": 0.1719566015624614
+  },
+  {
+    "pass_at": 1747512812,
+    "coord": [139.4095882, 36.804325],
+    "altitude": 1607.5824091,
+    "time_from_previous": 18.220484,
+    "distance_from_previous": 19.9999998,
+    "elevation_from_previous": 0.9379072,
+    "horizontal_speed": 1.097665671230248,
+    "vertical_speed": 0.05147542732673842
+  },
+  {
+    "pass_at": 1747512831,
+    "coord": [139.4093788, 36.804261],
+    "altitude": 1610.5475413,
+    "time_from_previous": 18.32478,
+    "distance_from_previous": 19.9902955,
+    "elevation_from_previous": 2.9651323,
+    "horizontal_speed": 1.090888703711586,
+    "vertical_speed": 0.1618099808019523
+  },
+  {
+    "pass_at": 1747512848,
+    "coord": [139.40917, 36.8041956],
+    "altitude": 1613.7265953,
+    "time_from_previous": 17.827522,
+    "distance_from_previous": 19.999997,
+    "elevation_from_previous": 3.179054,
+    "horizontal_speed": 1.121860738693802,
+    "vertical_speed": 0.1783228201877973
+  },
+  {
+    "pass_at": 1747512865,
+    "coord": [139.4089748, 36.8041074],
+    "altitude": 1616.8095837,
+    "time_from_previous": 16.878134,
+    "distance_from_previous": 19.9811934,
+    "elevation_from_previous": 3.0829884,
+    "horizontal_speed": 1.183850856972696,
+    "vertical_speed": 0.1826616852313176
+  },
+  {
+    "pass_at": 1747512885,
+    "coord": [139.4087663, 36.8040418],
+    "altitude": 1620.0132946,
+    "time_from_previous": 19.372307,
+    "distance_from_previous": 19.9742789,
+    "elevation_from_previous": 3.2037109,
+    "horizontal_speed": 1.03107383648215,
+    "vertical_speed": 0.1653758068153679
+  },
+  {
+    "pass_at": 1747512930,
+    "coord": [139.4085699, 36.8039556],
+    "altitude": 1623.4775221,
+    "time_from_previous": 45.501854,
+    "distance_from_previous": 19.9727,
+    "elevation_from_previous": 3.4642275,
+    "horizontal_speed": 0.438942553857256,
+    "vertical_speed": 0.0761337658900668
+  },
+  {
+    "pass_at": 1747512953,
+    "coord": [139.4083564, 36.8039041],
+    "altitude": 1626.7262697,
+    "time_from_previous": 22.415787,
+    "distance_from_previous": 19.8876727,
+    "elevation_from_previous": 3.2487476,
+    "horizontal_speed": 0.8872172411345628,
+    "vertical_speed": 0.1449312308329839
+  },
+  {
+    "pass_at": 1747512971,
+    "coord": [139.4081406, 36.8038557],
+    "altitude": 1629.8351968,
+    "time_from_previous": 18.313384,
+    "distance_from_previous": 19.9976963,
+    "elevation_from_previous": 3.1089271,
+    "horizontal_speed": 1.09197165854219,
+    "vertical_speed": 0.1697625681851044
+  },
+  {
+    "pass_at": 1747512988,
+    "coord": [139.4079213, 36.8038192],
+    "altitude": 1633.4500751,
+    "time_from_previous": 16.919005,
+    "distance_from_previous": 19.9841483,
+    "elevation_from_previous": 3.6148783,
+    "horizontal_speed": 1.181165695027574,
+    "vertical_speed": 0.213657853993187
+  },
+  {
+    "pass_at": 1747513006,
+    "coord": [139.407701, 36.8037862],
+    "altitude": 1637.054483,
+    "time_from_previous": 18.283324,
+    "distance_from_previous": 19.9999983,
+    "elevation_from_previous": 3.6044079,
+    "horizontal_speed": 1.093892899343686,
+    "vertical_speed": 0.1971418271644697
+  },
+  {
+    "pass_at": 1747513025,
+    "coord": [139.4075077, 36.8037012],
+    "altitude": 1641.4536345,
+    "time_from_previous": 19.291493,
+    "distance_from_previous": 19.6573745,
+    "elevation_from_previous": 4.3991515,
+    "horizontal_speed": 1.018965950432141,
+    "vertical_speed": 0.2280358238732482
+  },
+  {
+    "pass_at": 1747513050,
+    "coord": [139.4073025, 36.803633],
+    "altitude": 1646.4680765,
+    "time_from_previous": 24.122527,
+    "distance_from_previous": 19.8110078,
+    "elevation_from_previous": 5.014442,
+    "horizontal_speed": 0.8212658565995179,
+    "vertical_speed": 0.2078738268175635
+  },
+  {
+    "pass_at": 1747513070,
+    "coord": [139.4070818, 36.8036194],
+    "altitude": 1651.188941,
+    "time_from_previous": 20.947841,
+    "distance_from_previous": 19.7513515,
+    "elevation_from_previous": 4.7208646,
+    "horizontal_speed": 0.9428824431119177,
+    "vertical_speed": 0.2253628237869477
+  },
+  {
+    "pass_at": 1747513089,
+    "coord": [139.4068579, 36.8036253],
+    "altitude": 1655.2696896,
+    "time_from_previous": 18.180875,
+    "distance_from_previous": 19.9999999,
+    "elevation_from_previous": 4.0807486,
+    "horizontal_speed": 1.100057059959985,
+    "vertical_speed": 0.2244528164898554
+  },
+  {
+    "pass_at": 1747513108,
+    "coord": [139.4066386, 36.8036563],
+    "altitude": 1657.4987634,
+    "time_from_previous": 18.915332,
+    "distance_from_previous": 19.8633767,
+    "elevation_from_previous": 2.2290737,
+    "horizontal_speed": 1.050120436691251,
+    "vertical_speed": 0.1178448097025207
+  },
+  {
+    "pass_at": 1747513134,
+    "coord": [139.4063208, 36.8036613],
+    "altitude": 1659.9211065,
+    "time_from_previous": 26.410511,
+    "distance_from_previous": 28.3686038,
+    "elevation_from_previous": 2.4223432,
+    "horizontal_speed": 1.074140663162481,
+    "vertical_speed": 0.09171890691550799
+  },
+  {
+    "pass_at": 1747513640,
+    "coord": [139.406223, 36.803559],
+    "altitude": 1664.3292015,
+    "time_from_previous": 0,
+    "distance_from_previous": 14.3228391,
+    "elevation_from_previous": 4.408095,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747513664,
+    "coord": [139.4061271, 36.8033961],
+    "altitude": 1668.0541974,
+    "time_from_previous": 24.031766,
+    "distance_from_previous": 19.9999999,
+    "elevation_from_previous": 3.7249959,
+    "horizontal_speed": 0.8322318010253594,
+    "vertical_speed": 0.155003003108469
+  },
+  {
+    "pass_at": 1747513697,
+    "coord": [139.4061054, 36.8032172],
+    "altitude": 1673.4904,
+    "time_from_previous": 32.966299,
+    "distance_from_previous": 19.950716,
+    "elevation_from_previous": 5.4362026,
+    "horizontal_speed": 0.6051851923080598,
+    "vertical_speed": 0.1649018168524164
+  },
+  {
+    "pass_at": 1747513730,
+    "coord": [139.4061085, 36.8030371],
+    "altitude": 1679.8449767,
+    "time_from_previous": 32.919699,
+    "distance_from_previous": 19.9906989,
+    "elevation_from_previous": 6.3545766,
+    "horizontal_speed": 0.6072564302607992,
+    "vertical_speed": 0.1930326458938765
+  },
+  {
+    "pass_at": 1747513752,
+    "coord": [139.4060609, 36.8028615],
+    "altitude": 1684.8639912,
+    "time_from_previous": 21.835228,
+    "distance_from_previous": 19.9417867,
+    "elevation_from_previous": 5.0190145,
+    "horizontal_speed": 0.913285022716502,
+    "vertical_speed": 0.2298585799058292
+  },
+  {
+    "pass_at": 1747513783,
+    "coord": [139.4060693, 36.8026822],
+    "altitude": 1690.7495777,
+    "time_from_previous": 31.147315,
+    "distance_from_previous": 19.9074356,
+    "elevation_from_previous": 5.8855865,
+    "horizontal_speed": 0.6391380958519217,
+    "vertical_speed": 0.1889596743732164
+  },
+  {
+    "pass_at": 1747513827,
+    "coord": [139.4060531, 36.8025027],
+    "altitude": 1698.7691275,
+    "time_from_previous": 43.707097,
+    "distance_from_previous": 19.9702579,
+    "elevation_from_previous": 8.0195498,
+    "horizontal_speed": 0.4569111030183496,
+    "vertical_speed": 0.1834839271068495
+  },
+  {
+    "pass_at": 1747513868,
+    "coord": [139.4060501, 36.8023227],
+    "altitude": 1708.2478243,
+    "time_from_previous": 41.506977,
+    "distance_from_previous": 19.9856097,
+    "elevation_from_previous": 9.4786968,
+    "horizontal_speed": 0.481500006613346,
+    "vertical_speed": 0.2283639398744939
+  },
+  {
+    "pass_at": 1747513923,
+    "coord": [139.4060906, 36.8021461],
+    "altitude": 1719.012827,
+    "time_from_previous": 55.213458,
+    "distance_from_previous": 19.9242041,
+    "elevation_from_previous": 10.7650027,
+    "horizontal_speed": 0.3608577477614244,
+    "vertical_speed": 0.1949706301677392
+  },
+  {
+    "pass_at": 1747513992,
+    "coord": [139.406168, 36.8019774],
+    "altitude": 1728.6816785,
+    "time_from_previous": 68.858475,
+    "distance_from_previous": 19.9589659,
+    "elevation_from_previous": 9.6688515,
+    "horizontal_speed": 0.2898548929525378,
+    "vertical_speed": 0.1404162886267812
+  },
+  {
+    "pass_at": 1747514036,
+    "coord": [139.406139, 36.801806],
+    "altitude": 1737.2903484,
+    "time_from_previous": 43.993046,
+    "distance_from_previous": 19.193639,
+    "elevation_from_previous": 8.6086699,
+    "horizontal_speed": 0.4362880215204922,
+    "vertical_speed": 0.1956825153684517
+  },
+  {
+    "pass_at": 1747514115,
+    "coord": [139.4061524, 36.8016297],
+    "altitude": 1750.0104922,
+    "time_from_previous": 79.140831,
+    "distance_from_previous": 19.6007725,
+    "elevation_from_previous": 12.7201437,
+    "horizontal_speed": 0.2476695310414418,
+    "vertical_speed": 0.1607279521742702
+  },
+  {
+    "pass_at": 1747514191,
+    "coord": [139.4061261, 36.8014554],
+    "altitude": 1765.2222831,
+    "time_from_previous": 75.630689,
+    "distance_from_previous": 19.4902252,
+    "elevation_from_previous": 15.211791,
+    "horizontal_speed": 0.2577026000649023,
+    "vertical_speed": 0.2011325191021333
+  },
+  {
+    "pass_at": 1747514262,
+    "coord": [139.4060418, 36.801289],
+    "altitude": 1777.635822,
+    "time_from_previous": 71.340293,
+    "distance_from_previous": 19.9346773,
+    "elevation_from_previous": 12.4135389,
+    "horizontal_speed": 0.2794308302041877,
+    "vertical_speed": 0.1740045965328458
+  },
+  {
+    "pass_at": 1747514314,
+    "coord": [139.4059665, 36.8011202],
+    "altitude": 1787.9584848,
+    "time_from_previous": 52.021479,
+    "distance_from_previous": 19.899627,
+    "elevation_from_previous": 10.3226628,
+    "horizontal_speed": 0.3825271288422999,
+    "vertical_speed": 0.198430782792623
+  },
+  {
+    "pass_at": 1747514379,
+    "coord": [139.4060028, 36.80096],
+    "altitude": 1799.8329137,
+    "time_from_previous": 64.362403,
+    "distance_from_previous": 18.0716564,
+    "elevation_from_previous": 11.8744289,
+    "horizontal_speed": 0.2807797030201001,
+    "vertical_speed": 0.1844932498868944
+  },
+  {
+    "pass_at": 1747514470,
+    "coord": [139.4060897, 36.8007991],
+    "altitude": 1813.5027505,
+    "time_from_previous": 90.992657,
+    "distance_from_previous": 19.4749906,
+    "elevation_from_previous": 13.6698368,
+    "horizontal_speed": 0.2140281561401158,
+    "vertical_speed": 0.1502301092273853
+  },
+  {
+    "pass_at": 1747514748,
+    "coord": [139.4062158, 36.8006964],
+    "altitude": 1821.2750042,
+    "time_from_previous": 278.337122,
+    "distance_from_previous": 16.0094957,
+    "elevation_from_previous": 7.7722537,
+    "horizontal_speed": 0.0575183632889615,
+    "vertical_speed": 0.02792388469116958
+  },
+  {
+    "pass_at": 1747514837,
+    "coord": [139.4061943, 36.8005268],
+    "altitude": 1832.5883938,
+    "time_from_previous": 89.262947,
+    "distance_from_previous": 18.9239276,
+    "elevation_from_previous": 11.3133896,
+    "horizontal_speed": 0.2120020482854997,
+    "vertical_speed": 0.126742281990757
+  },
+  {
+    "pass_at": 1747514853,
+    "coord": [139.4061734, 36.8006399],
+    "altitude": 1827.5049161,
+    "time_from_previous": 16.189319,
+    "distance_from_previous": 12.6934014,
+    "elevation_from_previous": -5.0834777,
+    "horizontal_speed": 0.7840602436705336,
+    "vertical_speed": -0.3140019478274534
+  },
+  {
+    "pass_at": 1747514954,
+    "coord": [139.4061706, 36.8004627],
+    "altitude": 1844.0452393,
+    "time_from_previous": 100.076144,
+    "distance_from_previous": 19.6647662,
+    "elevation_from_previous": 16.5403232,
+    "horizontal_speed": 0.1964980405320173,
+    "vertical_speed": 0.1652773831893443
+  },
+  {
+    "pass_at": 1747515050,
+    "coord": [139.4063016, 36.8003226],
+    "altitude": 1857.5854098,
+    "time_from_previous": 96.529461,
+    "distance_from_previous": 19.4569597,
+    "elevation_from_previous": 13.5401706,
+    "horizontal_speed": 0.2015649885375409,
+    "vertical_speed": 0.1402698249812044
+  },
+  {
+    "pass_at": 1747515111,
+    "coord": [139.4062122, 36.8001573],
+    "altitude": 1870.7231421,
+    "time_from_previous": 61.235092,
+    "distance_from_previous": 19.9979961,
+    "elevation_from_previous": 13.1377323,
+    "horizontal_speed": 0.3265773831122847,
+    "vertical_speed": 0.214545808145434
+  },
+  {
+    "pass_at": 1747515202,
+    "coord": [139.406136, 36.7999878],
+    "altitude": 1875.1645089,
+    "time_from_previous": 90.668587,
+    "distance_from_previous": 20,
+    "elevation_from_previous": 4.4413668,
+    "horizontal_speed": 0.2205835633018081,
+    "vertical_speed": 0.04898462573371745
+  },
+  {
+    "pass_at": 1747515257,
+    "coord": [139.4061011, 36.79981],
+    "altitude": 1888.5738059,
+    "time_from_previous": 55.434482,
+    "distance_from_previous": 19.9831739,
+    "elevation_from_previous": 13.409297,
+    "horizontal_speed": 0.3604827388844366,
+    "vertical_speed": 0.2418945125165957
+  },
+  {
+    "pass_at": 1747515357,
+    "coord": [139.4061147, 36.7996303],
+    "altitude": 1903.7082526,
+    "time_from_previous": 99.49471,
+    "distance_from_previous": 19.9780007,
+    "elevation_from_previous": 15.1344467,
+    "horizontal_speed": 0.2007946020446715,
+    "vertical_speed": 0.1521130791777774
+  },
+  {
+    "pass_at": 1747515431,
+    "coord": [139.4059897, 36.7994854],
+    "altitude": 1915.853836,
+    "time_from_previous": 73.991082,
+    "distance_from_previous": 19.5701279,
+    "elevation_from_previous": 12.1455834,
+    "horizontal_speed": 0.2644930628261389,
+    "vertical_speed": 0.1641492876127963
+  },
+  {
+    "pass_at": 1747515538,
+    "coord": [139.4060156, 36.7993131],
+    "altitude": 1929.3934619,
+    "time_from_previous": 107.31934,
+    "distance_from_previous": 19.2547191,
+    "elevation_from_previous": 13.539626,
+    "horizontal_speed": 0.1794151836938244,
+    "vertical_speed": 0.1261620319319892
+  },
+  {
+    "pass_at": 1747515622,
+    "coord": [139.4060374, 36.7991339],
+    "altitude": 1943.2917852,
+    "time_from_previous": 84.02629,
+    "distance_from_previous": 19.9801975,
+    "elevation_from_previous": 13.8983233,
+    "horizontal_speed": 0.2377850729813252,
+    "vertical_speed": 0.1654044621034678
+  },
+  {
+    "pass_at": 1747515692,
+    "coord": [139.4060046, 36.7989564],
+    "altitude": 1956.084576,
+    "time_from_previous": 69.432808,
+    "distance_from_previous": 19.9198574,
+    "elevation_from_previous": 12.7927908,
+    "horizontal_speed": 0.2868940198990657,
+    "vertical_speed": 0.1842470608419006
+  },
+  {
+    "pass_at": 1747515775,
+    "coord": [139.4058847, 36.7988067],
+    "altitude": 1967.4447359,
+    "time_from_previous": 82.96157,
+    "distance_from_previous": 19.7617013,
+    "elevation_from_previous": 11.3601599,
+    "horizontal_speed": 0.2382030776418527,
+    "vertical_speed": 0.1369327979207722
+  },
+  {
+    "pass_at": 1747515872,
+    "coord": [139.4058911, 36.7986347],
+    "altitude": 1980.2912344,
+    "time_from_previous": 97.15009,
+    "distance_from_previous": 19.0875647,
+    "elevation_from_previous": 12.8464986,
+    "horizontal_speed": 0.1964750078975737,
+    "vertical_speed": 0.1322335223775912
+  },
+  {
+    "pass_at": 1747515970,
+    "coord": [139.4058479, 36.7984609],
+    "altitude": 1995.0542077,
+    "time_from_previous": 98.634635,
+    "distance_from_previous": 19.6717311,
+    "elevation_from_previous": 14.7629733,
+    "horizontal_speed": 0.1994404004232387,
+    "vertical_speed": 0.1496733201273569
+  },
+  {
+    "pass_at": 1747516059,
+    "coord": [139.4058018, 36.7982847],
+    "altitude": 2009.7799498,
+    "time_from_previous": 88.803272,
+    "distance_from_previous": 19.9808982,
+    "elevation_from_previous": 14.7257421,
+    "horizontal_speed": 0.2250018242571062,
+    "vertical_speed": 0.1658243189507702
+  },
+  {
+    "pass_at": 1747516157,
+    "coord": [139.4057363, 36.7981128],
+    "altitude": 2024.483498,
+    "time_from_previous": 97.394928,
+    "distance_from_previous": 19.9564078,
+    "elevation_from_previous": 14.7035482,
+    "horizontal_speed": 0.2049019205599701,
+    "vertical_speed": 0.1509683153110396
+  },
+  {
+    "pass_at": 1747516307,
+    "coord": [139.4056437, 36.7979489],
+    "altitude": 2038.3327943,
+    "time_from_previous": 150.139321,
+    "distance_from_previous": 19.9707312,
+    "elevation_from_previous": 13.8492963,
+    "horizontal_speed": 0.1330146630941537,
+    "vertical_speed": 0.09224296611811639
+  },
+  {
+    "pass_at": 1747516422,
+    "coord": [139.4056588, 36.797779],
+    "altitude": 2050.7990818,
+    "time_from_previous": 114.965466,
+    "distance_from_previous": 18.9080235,
+    "elevation_from_previous": 12.4662875,
+    "horizontal_speed": 0.1644669843725071,
+    "vertical_speed": 0.1084350625778353
+  },
+  {
+    "pass_at": 1747516520,
+    "coord": [139.4056877, 36.7976013],
+    "altitude": 2066.5094628,
+    "time_from_previous": 97.828937,
+    "distance_from_previous": 19.8808085,
+    "elevation_from_previous": 15.710381,
+    "horizontal_speed": 0.2032201218745738,
+    "vertical_speed": 0.1605903271748726
+  },
+  {
+    "pass_at": 1747516840,
+    "coord": [139.4056561, 36.7974249],
+    "altitude": 2083.7745276,
+    "time_from_previous": 320.919634,
+    "distance_from_previous": 19.7811219,
+    "elevation_from_previous": 17.2650648,
+    "horizontal_speed": 0.06163886470093631,
+    "vertical_speed": 0.05379871771884173
+  },
+  {
+    "pass_at": 1747516877,
+    "coord": [139.4055445, 36.7974611],
+    "altitude": 2080.9002413,
+    "time_from_previous": 36.255697,
+    "distance_from_previous": 10.7430282,
+    "elevation_from_previous": -2.8742864,
+    "horizontal_speed": 0.2963128305049548,
+    "vertical_speed": -0.07927820005777299
+  },
+  {
+    "pass_at": 1747516924,
+    "coord": [139.4056711, 36.7973126],
+    "altitude": 2094.7380418,
+    "time_from_previous": 47.535951,
+    "distance_from_previous": 19.9782885,
+    "elevation_from_previous": 13.8378006,
+    "horizontal_speed": 0.4202774548467538,
+    "vertical_speed": 0.2911017936719095
+  },
+  {
+    "pass_at": 1747516998,
+    "coord": [139.4056128, 36.7972575],
+    "altitude": 2098.7100284,
+    "time_from_previous": 74.11937,
+    "distance_from_previous": 8.0301622,
+    "elevation_from_previous": 3.9719866,
+    "horizontal_speed": 0.1083409397570433,
+    "vertical_speed": 0.05358904966407566
+  },
+  {
+    "pass_at": 1747517083,
+    "coord": [139.4054618, 36.79718],
+    "altitude": 2104.6261237,
+    "time_from_previous": 84.970283,
+    "distance_from_previous": 15.9927835,
+    "elevation_from_previous": 5.9160953,
+    "horizontal_speed": 0.1882161967143266,
+    "vertical_speed": 0.06962546305747859
+  },
+  {
+    "pass_at": 1747517153,
+    "coord": [139.4053258, 36.7970451],
+    "altitude": 2117.008911,
+    "time_from_previous": 69.329021,
+    "distance_from_previous": 19.2730287,
+    "elevation_from_previous": 12.3827873,
+    "horizontal_speed": 0.2779936658848825,
+    "vertical_speed": 0.1786090027147506
+  },
+  {
+    "pass_at": 1747517220,
+    "coord": [139.4051559, 36.7969285],
+    "altitude": 2126.1962599,
+    "time_from_previous": 67.650766,
+    "distance_from_previous": 19.9325319,
+    "elevation_from_previous": 9.1873489,
+    "horizontal_speed": 0.2946386726796264,
+    "vertical_speed": 0.1358055413592804
+  },
+  {
+    "pass_at": 1747517300,
+    "coord": [139.4050143, 36.7967898],
+    "altitude": 2137.3524041,
+    "time_from_previous": 80.108906,
+    "distance_from_previous": 19.908598,
+    "elevation_from_previous": 11.1561442,
+    "horizontal_speed": 0.2485191596549827,
+    "vertical_speed": 0.1392622213565118
+  },
+  {
+    "pass_at": 1747517367,
+    "coord": [139.4049429, 36.7966263],
+    "altitude": 2149.5397552,
+    "time_from_previous": 66.225803,
+    "distance_from_previous": 19.2379821,
+    "elevation_from_previous": 12.1873511,
+    "horizontal_speed": 0.2904907336495414,
+    "vertical_speed": 0.1840272302927003
+  },
+  {
+    "pass_at": 1747517427,
+    "coord": [139.4049394, 36.7964461],
+    "altitude": 2159.0527165,
+    "time_from_previous": 60.652806,
+    "distance_from_previous": 19.9984516,
+    "elevation_from_previous": 9.5129613,
+    "horizontal_speed": 0.3297201385868281,
+    "vertical_speed": 0.1568428886867988
+  },
+  {
+    "pass_at": 1747517674,
+    "coord": [139.4048827, 36.7962836],
+    "altitude": 2162.3055362,
+    "time_from_previous": 246.841569,
+    "distance_from_previous": 18.728118,
+    "elevation_from_previous": 3.2528197,
+    "horizontal_speed": 0.07587100534108175,
+    "vertical_speed": 0.01317776302094401
+  },
+  {
+    "pass_at": 1747517820,
+    "coord": [139.4046837, 36.7963033],
+    "altitude": 2162.3668578,
+    "time_from_previous": 145.594593,
+    "distance_from_previous": 17.8932585,
+    "elevation_from_previous": 0.0613216,
+    "horizontal_speed": 0.1228978228607707,
+    "vertical_speed": 0.0004211804761183679
+  },
+  {
+    "pass_at": 1747517851,
+    "coord": [139.4045121, 36.7962166],
+    "altitude": 2165.665021,
+    "time_from_previous": 31.016745,
+    "distance_from_previous": 18.0865919,
+    "elevation_from_previous": 3.2981632,
+    "horizontal_speed": 0.5831234676623869,
+    "vertical_speed": 0.1063349232809568
+  },
+  {
+    "pass_at": 1747517873,
+    "coord": [139.4043154, 36.7961352],
+    "altitude": 2169.7271395,
+    "time_from_previous": 22.481848,
+    "distance_from_previous": 19.7439306,
+    "elevation_from_previous": 4.0621185,
+    "horizontal_speed": 0.87821653273343,
+    "vertical_speed": 0.1806843681177811
+  },
+  {
+    "pass_at": 1747517895,
+    "coord": [139.4040957, 36.79611],
+    "altitude": 2170.975807,
+    "time_from_previous": 21.285638,
+    "distance_from_previous": 19.810338,
+    "elevation_from_previous": 1.2486675,
+    "horizontal_speed": 0.930690355628523,
+    "vertical_speed": 0.0586624417835162
+  },
+  {
+    "pass_at": 1747517912,
+    "coord": [139.4038722, 36.7960969],
+    "altitude": 2170.9224569,
+    "time_from_previous": 17.74616,
+    "distance_from_previous": 19.9997853,
+    "elevation_from_previous": -0.05335,
+    "horizontal_speed": 1.126992278893011,
+    "vertical_speed": -0.003006284176407741
+  },
+  {
+    "pass_at": 1747517932,
+    "coord": [139.4036617, 36.7960415],
+    "altitude": 2172.9277992,
+    "time_from_previous": 19.273897,
+    "distance_from_previous": 19.7674462,
+    "elevation_from_previous": 2.0053423,
+    "horizontal_speed": 1.025607130721929,
+    "vertical_speed": 0.1040444649050475
+  },
+  {
+    "pass_at": 1747517957,
+    "coord": [139.4035116, 36.7959161],
+    "altitude": 2177.1951112,
+    "time_from_previous": 25.412301,
+    "distance_from_previous": 19.3088841,
+    "elevation_from_previous": 4.267312,
+    "horizontal_speed": 0.7598243110688796,
+    "vertical_speed": 0.1679230857528407
+  },
+  {
+    "pass_at": 1747517982,
+    "coord": [139.4033253, 36.7958442],
+    "altitude": 2178.4238869,
+    "time_from_previous": 25.236574,
+    "distance_from_previous": 18.4488488,
+    "elevation_from_previous": 1.2287757,
+    "horizontal_speed": 0.7310361858150793,
+    "vertical_speed": 0.04869027388582935
+  },
+  {
+    "pass_at": 1747518008,
+    "coord": [139.403112, 36.7958756],
+    "altitude": 2177.3465058,
+    "time_from_previous": 25.733596,
+    "distance_from_previous": 19.3522531,
+    "elevation_from_previous": -1.0773811,
+    "horizontal_speed": 0.7520228847923158,
+    "vertical_speed": -0.04186671384753223
+  },
+  {
+    "pass_at": 1747518028,
+    "coord": [139.4029069, 36.795948],
+    "altitude": 2176.9792614,
+    "time_from_previous": 20.222106,
+    "distance_from_previous": 19.9908476,
+    "elevation_from_previous": -0.3672444,
+    "horizontal_speed": 0.9885640793298185,
+    "vertical_speed": -0.01816054173586075
+  },
+  {
+    "pass_at": 1747518050,
+    "coord": [139.4027244, 36.7959109],
+    "altitude": 2180.0952037,
+    "time_from_previous": 21.717748,
+    "distance_from_previous": 16.8007581,
+    "elevation_from_previous": 3.1159423,
+    "horizontal_speed": 0.773595775215736,
+    "vertical_speed": 0.1434744661370967
+  },
+  {
+    "pass_at": 1747518078,
+    "coord": [139.4025257, 36.7958712],
+    "altitude": 2183.682037,
+    "time_from_previous": 28.148123,
+    "distance_from_previous": 18.274876,
+    "elevation_from_previous": 3.5868332,
+    "horizontal_speed": 0.6492395958337968,
+    "vertical_speed": 0.1274270827934069
+  },
+  {
+    "pass_at": 1747518115,
+    "coord": [139.4023055, 36.7959033],
+    "altitude": 2186.2909601,
+    "time_from_previous": 36.650104,
+    "distance_from_previous": 19.9681789,
+    "elevation_from_previous": 2.6089231,
+    "horizontal_speed": 0.5448328032029596,
+    "vertical_speed": 0.07118460291408724
+  },
+  {
+    "pass_at": 1747518158,
+    "coord": [139.4021202, 36.7959908],
+    "altitude": 2189.8722824,
+    "time_from_previous": 43.354364,
+    "distance_from_previous": 19.1845915,
+    "elevation_from_previous": 3.5813223,
+    "horizontal_speed": 0.4425065836509561,
+    "vertical_speed": 0.08260580872550685
+  },
+  {
+    "pass_at": 1747518204,
+    "coord": [139.4019545, 36.7961116],
+    "altitude": 2192.3192426,
+    "time_from_previous": 45.579895,
+    "distance_from_previous": 19.9527557,
+    "elevation_from_previous": 2.4469602,
+    "horizontal_speed": 0.4377534371239776,
+    "vertical_speed": 0.05368507759835778
+  },
+  {
+    "pass_at": 1747518245,
+    "coord": [139.4017642, 36.7961354],
+    "altitude": 2194.5517448,
+    "time_from_previous": 41.444119,
+    "distance_from_previous": 17.1901097,
+    "elevation_from_previous": 2.2325023,
+    "horizontal_speed": 0.414778021943234,
+    "vertical_speed": 0.05386777072037652
+  },
+  {
+    "pass_at": 1747518283,
+    "coord": [139.4015536, 36.7961199],
+    "altitude": 2198.3589391,
+    "time_from_previous": 37.699493,
+    "distance_from_previous": 18.8713876,
+    "elevation_from_previous": 3.8071942,
+    "horizontal_speed": 0.5005740422026366,
+    "vertical_speed": 0.100987941668075
+  },
+  {
+    "pass_at": 1747518329,
+    "coord": [139.4013428, 36.7961795],
+    "altitude": 2203.7776961,
+    "time_from_previous": 46.076814,
+    "distance_from_previous": 19.9441064,
+    "elevation_from_previous": 5.4187571,
+    "horizontal_speed": 0.4328447361833654,
+    "vertical_speed": 0.1176026862447564
+  },
+  {
+    "pass_at": 1747518399,
+    "coord": [139.4011306, 36.796231],
+    "altitude": 2211.3724624,
+    "time_from_previous": 70.657646,
+    "distance_from_previous": 19.7857595,
+    "elevation_from_previous": 7.5947663,
+    "horizontal_speed": 0.2800229079242181,
+    "vertical_speed": 0.1074868288139687
+  },
+  {
+    "pass_at": 1747518488,
+    "coord": [139.4009089, 36.7962569],
+    "altitude": 2221.3340838,
+    "time_from_previous": 88.685378,
+    "distance_from_previous": 19.9931535,
+    "elevation_from_previous": 9.9616214,
+    "horizontal_speed": 0.2254391191747528,
+    "vertical_speed": 0.1123254094942235
+  },
+  {
+    "pass_at": 1747518562,
+    "coord": [139.400705, 36.7963162],
+    "altitude": 2232.9756396,
+    "time_from_previous": 74.089316,
+    "distance_from_previous": 19.3504699,
+    "elevation_from_previous": 11.6415558,
+    "horizontal_speed": 0.26117760217951,
+    "vertical_speed": 0.1571286715617674
+  },
+  {
+    "pass_at": 1747518625,
+    "coord": [139.4005278, 36.7964225],
+    "altitude": 2243.4479232,
+    "time_from_previous": 62.508651,
+    "distance_from_previous": 19.7280963,
+    "elevation_from_previous": 10.4722836,
+    "horizontal_speed": 0.3156058558998498,
+    "vertical_speed": 0.1675333483040612
+  },
+  {
+    "pass_at": 1747518699,
+    "coord": [139.4003232, 36.7964944],
+    "altitude": 2249.4095032,
+    "time_from_previous": 74.303593,
+    "distance_from_previous": 19.9328647,
+    "elevation_from_previous": 5.96158,
+    "horizontal_speed": 0.2682624607399537,
+    "vertical_speed": 0.08023272844961883
+  },
+  {
+    "pass_at": 1747518808,
+    "coord": [139.400139, 36.7965956],
+    "altitude": 2250.5330671,
+    "time_from_previous": 108.586291,
+    "distance_from_previous": 19.9076904,
+    "elevation_from_previous": 1.1235639,
+    "horizontal_speed": 0.1833352094142344,
+    "vertical_speed": 0.01034719843225882
+  },
+  {
+    "pass_at": 1747518956,
+    "coord": [139.3999691, 36.7966962],
+    "altitude": 2253.4615009,
+    "time_from_previous": 148.327897,
+    "distance_from_previous": 18.8280454,
+    "elevation_from_previous": 2.9284338,
+    "horizontal_speed": 0.1269352952533265,
+    "vertical_speed": 0.01974297390598075
+  },
+  {
+    "pass_at": 1747519017,
+    "coord": [139.3997471, 36.7966728],
+    "altitude": 2262.5028333,
+    "time_from_previous": 60.778243,
+    "distance_from_previous": 19.9866943,
+    "elevation_from_previous": 9.0413324,
+    "horizontal_speed": 0.3288462007695747,
+    "vertical_speed": 0.148759357851131
+  },
+  {
+    "pass_at": 1747519081,
+    "coord": [139.3995272, 36.7966397],
+    "altitude": 2270.4751788,
+    "time_from_previous": 63.873953,
+    "distance_from_previous": 19.9689862,
+    "elevation_from_previous": 7.9723455,
+    "horizontal_speed": 0.312631131503635,
+    "vertical_speed": 0.1248137171031203
+  },
+  {
+    "pass_at": 1747519139,
+    "coord": [139.3993037, 36.7966356],
+    "altitude": 2276.9632218,
+    "time_from_previous": 58.793013,
+    "distance_from_previous": 19.9485506,
+    "elevation_from_previous": 6.488043,
+    "horizontal_speed": 0.3393013826319805,
+    "vertical_speed": 0.1103539803275604
+  },
+  {
+    "pass_at": 1747519195,
+    "coord": [139.3990825, 36.7966642],
+    "altitude": 2282.6832434,
+    "time_from_previous": 55.306375,
+    "distance_from_previous": 19.9987828,
+    "elevation_from_previous": 5.7200216,
+    "horizontal_speed": 0.3615999566053642,
+    "vertical_speed": 0.1034242725183128
+  },
+  {
+    "pass_at": 1747519482,
+    "coord": [139.3988609, 36.7966811],
+    "altitude": 2285.9299325,
+    "time_from_previous": 286.929837,
+    "distance_from_previous": 19.8645403,
+    "elevation_from_previous": 3.2466891,
+    "horizontal_speed": 0.06923135114735383,
+    "vertical_speed": 0.01131527182375251
+  },
+  {
+    "pass_at": 1747519574,
+    "coord": [139.3986653, 36.7965933],
+    "altitude": 2291.456873,
+    "time_from_previous": 92.452921,
+    "distance_from_previous": 19.9953105,
+    "elevation_from_previous": 5.5269404,
+    "horizontal_speed": 0.2162755950133798,
+    "vertical_speed": 0.05978113336191941
+  },
+  {
+    "pass_at": 1747519597,
+    "coord": [139.3984501, 36.7966374],
+    "altitude": 2294.9342878,
+    "time_from_previous": 23.164512,
+    "distance_from_previous": 19.8189664,
+    "elevation_from_previous": 3.4774149,
+    "horizontal_speed": 0.8555745271042188,
+    "vertical_speed": 0.1501182023605764
+  },
+  {
+    "pass_at": 1747519653,
+    "coord": [139.3982287, 36.7966171],
+    "altitude": 2300.4300927,
+    "time_from_previous": 55.367948,
+    "distance_from_previous": 19.8822015,
+    "elevation_from_previous": 5.4958048,
+    "horizontal_speed": 0.3590922585753043,
+    "vertical_speed": 0.09925967998669556
+  },
+  {
+    "pass_at": 1747519684,
+    "coord": [139.3980058, 36.796599],
+    "altitude": 2304.8190842,
+    "time_from_previous": 31.363416,
+    "distance_from_previous": 19.9981235,
+    "elevation_from_previous": 4.3889915,
+    "horizontal_speed": 0.637625808999887,
+    "vertical_speed": 0.139939842649793
+  },
+  {
+    "pass_at": 1747519707,
+    "coord": [139.3977859, 36.7965647],
+    "altitude": 2308.6994355,
+    "time_from_previous": 22.696222,
+    "distance_from_previous": 19.9894178,
+    "elevation_from_previous": 3.8803514,
+    "horizontal_speed": 0.8807376751954576,
+    "vertical_speed": 0.1709690449802615
+  },
+  {
+    "pass_at": 1747519740,
+    "coord": [139.3975625, 36.7965671],
+    "altitude": 2312.5059998,
+    "time_from_previous": 32.908604,
+    "distance_from_previous": 19.9459419,
+    "elevation_from_previous": 3.8065643,
+    "horizontal_speed": 0.6061011248000676,
+    "vertical_speed": 0.1156707923557013
+  },
+  {
+    "pass_at": 1747519801,
+    "coord": [139.3973408, 36.7965432],
+    "altitude": 2317.0824361,
+    "time_from_previous": 61.257669,
+    "distance_from_previous": 19.956765,
+    "elevation_from_previous": 4.5764363,
+    "horizontal_speed": 0.3257839438846424,
+    "vertical_speed": 0.07470797329882076
+  },
+  {
+    "pass_at": 1747519832,
+    "coord": [139.3971214, 36.7965067],
+    "altitude": 2321.4162076,
+    "time_from_previous": 31.574431,
+    "distance_from_previous": 19.9965674,
+    "elevation_from_previous": 4.3337715,
+    "horizontal_speed": 0.6333152100191449,
+    "vertical_speed": 0.1372557275853997
+  },
+  {
+    "pass_at": 1747519857,
+    "coord": [139.3969192, 36.7965689],
+    "altitude": 2322.3300607,
+    "time_from_previous": 24.576935,
+    "distance_from_previous": 19.3263692,
+    "elevation_from_previous": 0.9138531,
+    "horizontal_speed": 0.7863620585723973,
+    "vertical_speed": 0.03718336318177999
+  },
+  {
+    "pass_at": 1747519884,
+    "coord": [139.3967131, 36.7966393],
+    "altitude": 2322.9864796,
+    "time_from_previous": 27.39,
+    "distance_from_previous": 19.9840872,
+    "elevation_from_previous": 0.6564189,
+    "horizontal_speed": 0.729612530120482,
+    "vertical_speed": 0.02396564074479737
+  },
+  {
+    "pass_at": 1747519918,
+    "coord": [139.3965077, 36.7967113],
+    "altitude": 2326.0841055,
+    "time_from_previous": 33.222653,
+    "distance_from_previous": 19.9972947,
+    "elevation_from_previous": 3.0976259,
+    "horizontal_speed": 0.6019174537325481,
+    "vertical_speed": 0.09323836660485844
+  },
+  {
+    "pass_at": 1747519948,
+    "coord": [139.3963009, 36.7967806],
+    "altitude": 2330.2859291,
+    "time_from_previous": 30.841462,
+    "distance_from_previous": 19.9979081,
+    "elevation_from_previous": 4.2018236,
+    "horizontal_speed": 0.6484098613742759,
+    "vertical_speed": 0.1362394428642844
+  },
+  {
+    "pass_at": 1747520011,
+    "coord": [139.3960915, 36.7968449],
+    "altitude": 2335.5357026,
+    "time_from_previous": 62.43827,
+    "distance_from_previous": 19.9983221,
+    "elevation_from_previous": 5.2497735,
+    "horizontal_speed": 0.3202894971305258,
+    "vertical_speed": 0.08407941956111212
+  },
+  {
+    "pass_at": 1747520088,
+    "coord": [139.3958833, 36.7969115],
+    "altitude": 2342.1698379,
+    "time_from_previous": 77.261609,
+    "distance_from_previous": 19.998344,
+    "elevation_from_previous": 6.6341353,
+    "horizontal_speed": 0.258839341541541,
+    "vertical_speed": 0.08586587033153813
+  },
+  {
+    "pass_at": 1747520163,
+    "coord": [139.3957726, 36.7970525],
+    "altitude": 2346.1681855,
+    "time_from_previous": 74.706993,
+    "distance_from_previous": 18.5046373,
+    "elevation_from_previous": 3.9983475,
+    "horizontal_speed": 0.2476961868884215,
+    "vertical_speed": 0.05352039132400899
+  },
+  {
+    "pass_at": 1747520219,
+    "coord": [139.3956323, 36.7971858],
+    "altitude": 2350.1420369,
+    "time_from_previous": 56.484513,
+    "distance_from_previous": 19.3873398,
+    "elevation_from_previous": 3.9738514,
+    "horizontal_speed": 0.3432328397697259,
+    "vertical_speed": 0.07035293727326639
+  },
+  {
+    "pass_at": 1747520270,
+    "coord": [139.395486, 36.797321],
+    "altitude": 2354.5096539,
+    "time_from_previous": 50.681713,
+    "distance_from_previous": 19.8891032,
+    "elevation_from_previous": 4.367617,
+    "horizontal_speed": 0.3924315502122038,
+    "vertical_speed": 0.08617737525959314
+  },
+  {
+    "pass_at": 1747520317,
+    "coord": [139.3953156, 36.7974338],
+    "altitude": 2358.5434231,
+    "time_from_previous": 46.580418,
+    "distance_from_previous": 19.6902257,
+    "elevation_from_previous": 4.0337692,
+    "horizontal_speed": 0.4227146630586269,
+    "vertical_speed": 0.08659796054213167
+  },
+  {
+    "pass_at": 1747520403,
+    "coord": [139.3951093, 36.7974994],
+    "altitude": 2360.8718709,
+    "time_from_previous": 86.818997,
+    "distance_from_previous": 19.8024109,
+    "elevation_from_previous": 2.3284477,
+    "horizontal_speed": 0.2280884551108095,
+    "vertical_speed": 0.02681956461671632
+  },
+  {
+    "pass_at": 1747520466,
+    "coord": [139.3949039, 36.7975688],
+    "altitude": 2361.0902339,
+    "time_from_previous": 62.37539,
+    "distance_from_previous": 19.8825166,
+    "elevation_from_previous": 0.2183631,
+    "horizontal_speed": 0.3187557881401623,
+    "vertical_speed": 0.003500789333742042
+  },
+  {
+    "pass_at": 1747520602,
+    "coord": [139.3947069, 36.7976547],
+    "altitude": 2360.7415835,
+    "time_from_previous": 136.273685,
+    "distance_from_previous": 19.9994827,
+    "elevation_from_previous": -0.3486504,
+    "horizontal_speed": 0.146759682179285,
+    "vertical_speed": -0.0025584572692813
+  },
+  {
+    "pass_at": 1747520722,
+    "coord": [139.3945025, 36.7977271],
+    "altitude": 2357.5852747,
+    "time_from_previous": 120.251363,
+    "distance_from_previous": 19.9304357,
+    "elevation_from_previous": -3.1563088,
+    "horizontal_speed": 0.1657397904088621,
+    "vertical_speed": -0.02624759271959354
+  },
+  {
+    "pass_at": 1747520747,
+    "coord": [139.3943023, 36.7978053],
+    "altitude": 2351.5545577,
+    "time_from_previous": 24.260732,
+    "distance_from_previous": 19.8637108,
+    "elevation_from_previous": -6.030717,
+    "horizontal_speed": 0.8187597472326885,
+    "vertical_speed": -0.2485793503674992
+  },
+  {
+    "pass_at": 1747520766,
+    "coord": [139.394157, 36.7979332],
+    "altitude": 2347.4234912,
+    "time_from_previous": 19.079654,
+    "distance_from_previous": 19.2307806,
+    "elevation_from_previous": -4.1310665,
+    "horizontal_speed": 1.007920824979321,
+    "vertical_speed": -0.2165168456409115
+  },
+  {
+    "pass_at": 1747520782,
+    "coord": [139.3940194, 36.7980659],
+    "altitude": 2344.4439307,
+    "time_from_previous": 16.721134,
+    "distance_from_previous": 19.1709301,
+    "elevation_from_previous": -2.9795605,
+    "horizontal_speed": 1.146508968829506,
+    "vertical_speed": -0.1781912937244567
+  },
+  {
+    "pass_at": 1747520815,
+    "coord": [139.3938407, 36.7981725],
+    "altitude": 2343.5440111,
+    "time_from_previous": 32.185061,
+    "distance_from_previous": 19.8564396,
+    "elevation_from_previous": -0.8999196,
+    "horizontal_speed": 0.6169458432904633,
+    "vertical_speed": -0.02796078590623147
+  },
+  {
+    "pass_at": 1747520871,
+    "coord": [139.3936831, 36.7983006],
+    "altitude": 2346.1927171,
+    "time_from_previous": 56.707381,
+    "distance_from_previous": 20.0000069,
+    "elevation_from_previous": 2.648706,
+    "horizontal_speed": 0.3526878961311932,
+    "vertical_speed": 0.04670831121613604
+  },
+  {
+    "pass_at": 1747520928,
+    "coord": [139.3935256, 36.7984288],
+    "altitude": 2348.1541954,
+    "time_from_previous": 56.707381,
+    "distance_from_previous": 19.9999906,
+    "elevation_from_previous": 1.9614782,
+    "horizontal_speed": 0.3526876086906571,
+    "vertical_speed": 0.03458946904989317
+  },
+  {
+    "pass_at": 1747520974,
+    "coord": [139.3933194, 36.7984822],
+    "altitude": 2352.1700625,
+    "time_from_previous": 46.057742,
+    "distance_from_previous": 19.337177,
+    "elevation_from_previous": 4.0158671,
+    "horizontal_speed": 0.4198463962909862,
+    "vertical_speed": 0.08719200997738882
+  },
+  {
+    "pass_at": 1747521011,
+    "coord": [139.3930961, 36.7984918],
+    "altitude": 2357.9960773,
+    "time_from_previous": 37.117704,
+    "distance_from_previous": 19.9505127,
+    "elevation_from_previous": 5.8260148,
+    "horizontal_speed": 0.5374931784573744,
+    "vertical_speed": 0.1569605382919159
+  },
+  {
+    "pass_at": 1747521063,
+    "coord": [139.3928819, 36.7985362],
+    "altitude": 2362.6040908,
+    "time_from_previous": 51.676019,
+    "distance_from_previous": 19.7461868,
+    "elevation_from_previous": 4.6080135,
+    "horizontal_speed": 0.3821150928828322,
+    "vertical_speed": 0.08917121692365661
+  },
+  {
+    "pass_at": 1747521098,
+    "coord": [139.3926729, 36.7986013],
+    "altitude": 2366.9000178,
+    "time_from_previous": 34.67562,
+    "distance_from_previous": 19.9994243,
+    "elevation_from_previous": 4.2959271,
+    "horizontal_speed": 0.5767575114734791,
+    "vertical_speed": 0.1238889773275864
+  },
+  {
+    "pass_at": 1747521121,
+    "coord": [139.3924867, 36.7986985],
+    "altitude": 2369.7214865,
+    "time_from_previous": 23.287837,
+    "distance_from_previous": 19.8173243,
+    "elevation_from_previous": 2.8214687,
+    "horizontal_speed": 0.8509731625139767,
+    "vertical_speed": 0.1211563229337272
+  },
+  {
+    "pass_at": 1747521148,
+    "coord": [139.3922251, 36.7988236],
+    "altitude": 2370.426349,
+    "time_from_previous": 27.166579,
+    "distance_from_previous": 27.154664,
+    "elevation_from_previous": 0.7048625,
+    "horizontal_speed": 0.9995614096276164,
+    "vertical_speed": 0.02594594262310319
+  },
+  {
+    "pass_at": 1747521767,
+    "coord": [139.3921697, 36.7989439],
+    "altitude": 2371.1107018,
+    "time_from_previous": 0,
+    "distance_from_previous": 14.2393113,
+    "elevation_from_previous": 0.6843528,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747521787,
+    "coord": [139.391992, 36.7990536],
+    "altitude": 2370.9822947,
+    "time_from_previous": 20.000686,
+    "distance_from_previous": 20.0000004,
+    "elevation_from_previous": -0.1284071,
+    "horizontal_speed": 0.9999657211757637,
+    "vertical_speed": -0.006420134789376724
+  },
+  {
+    "pass_at": 1747521808,
+    "coord": [139.3918716, 36.799205],
+    "altitude": 2371.3973327,
+    "time_from_previous": 20.717604,
+    "distance_from_previous": 19.9374068,
+    "elevation_from_previous": 0.415038,
+    "horizontal_speed": 0.9623413402437849,
+    "vertical_speed": 0.02003310807562496
+  },
+  {
+    "pass_at": 1747521825,
+    "coord": [139.391791, 36.7993728],
+    "altitude": 2371.9103963,
+    "time_from_previous": 17.105206,
+    "distance_from_previous": 19.959004,
+    "elevation_from_previous": 0.5130636,
+    "horizontal_speed": 1.166837979033985,
+    "vertical_speed": 0.02999458761268353
+  },
+  {
+    "pass_at": 1747521854,
+    "coord": [139.3915876, 36.7993765],
+    "altitude": 2371.7020918,
+    "time_from_previous": 29.271489,
+    "distance_from_previous": 18.1567933,
+    "elevation_from_previous": -0.2083045,
+    "horizontal_speed": 0.6202893641659295,
+    "vertical_speed": -0.007116293264070031
+  },
+  {
+    "pass_at": 1747521878,
+    "coord": [139.391369, 36.7993375],
+    "altitude": 2368.2083144,
+    "time_from_previous": 24.112267,
+    "distance_from_previous": 19.9812939,
+    "elevation_from_previous": -3.4937774,
+    "horizontal_speed": 0.8286775316481026,
+    "vertical_speed": -0.1448962637980079
+  },
+  {
+    "pass_at": 1747521902,
+    "coord": [139.3911463, 36.7993271],
+    "altitude": 2361.9296223,
+    "time_from_previous": 23.910844,
+    "distance_from_previous": 19.9150036,
+    "elevation_from_previous": -6.2786921,
+    "horizontal_speed": 0.8328858487805783,
+    "vertical_speed": -0.2625876401518909
+  },
+  {
+    "pass_at": 1747521942,
+    "coord": [139.3909374, 36.7992717],
+    "altitude": 2353.5751993,
+    "time_from_previous": 39.979935,
+    "distance_from_previous": 19.6272362,
+    "elevation_from_previous": -8.3544229,
+    "horizontal_speed": 0.4909271663398152,
+    "vertical_speed": -0.2089653947661496
+  },
+  {
+    "pass_at": 1747521985,
+    "coord": [139.3907202, 36.7992443],
+    "altitude": 2343.3477833,
+    "time_from_previous": 42.462581,
+    "distance_from_previous": 19.6203455,
+    "elevation_from_previous": -10.2274161,
+    "horizontal_speed": 0.4620620093724401,
+    "vertical_speed": -0.2408571466722666
+  },
+  {
+    "pass_at": 1747522038,
+    "coord": [139.3905176, 36.799182],
+    "altitude": 2332.4951011,
+    "time_from_previous": 52.994478,
+    "distance_from_previous": 19.360453,
+    "elevation_from_previous": -10.8526821,
+    "horizontal_speed": 0.3653296292492965,
+    "vertical_speed": -0.2047889234799143
+  },
+  {
+    "pass_at": 1747522100,
+    "coord": [139.3903641, 36.7990555],
+    "altitude": 2323.1136384,
+    "time_from_previous": 62.167537,
+    "distance_from_previous": 19.6149227,
+    "elevation_from_previous": -9.3814628,
+    "horizontal_speed": 0.3155171275323325,
+    "vertical_speed": -0.1509061361076602
+  },
+  {
+    "pass_at": 1747522138,
+    "coord": [139.3901953, 36.7989459],
+    "altitude": 2316.0737187,
+    "time_from_previous": 37.800941,
+    "distance_from_previous": 19.3604953,
+    "elevation_from_previous": -7.0399197,
+    "horizontal_speed": 0.512169665300131,
+    "vertical_speed": -0.1862366256966989
+  },
+  {
+    "pass_at": 1747522157,
+    "coord": [139.3900103, 36.7988478],
+    "altitude": 2311.6633288,
+    "time_from_previous": 19.353489,
+    "distance_from_previous": 19.7827565,
+    "elevation_from_previous": -4.4103899,
+    "horizontal_speed": 1.022180367581267,
+    "vertical_speed": -0.2278860364660863
+  },
+  {
+    "pass_at": 1747522179,
+    "coord": [139.3898403, 36.7987305],
+    "altitude": 2307.5408641,
+    "time_from_previous": 21.920695,
+    "distance_from_previous": 19.9861913,
+    "elevation_from_previous": -4.1224647,
+    "horizontal_speed": 0.9117498920540614,
+    "vertical_speed": -0.1880626823191509
+  },
+  {
+    "pass_at": 1747522198,
+    "coord": [139.3896589, 36.798625],
+    "altitude": 2305.9045676,
+    "time_from_previous": 18.865106,
+    "distance_from_previous": 19.9783474,
+    "elevation_from_previous": -1.6362965,
+    "horizontal_speed": 1.059010609322842,
+    "vertical_speed": -0.08673667139744669
+  },
+  {
+    "pass_at": 1747522222,
+    "coord": [139.3894575, 36.7985537],
+    "altitude": 2310.8357773,
+    "time_from_previous": 24.660331,
+    "distance_from_previous": 19.6372844,
+    "elevation_from_previous": 4.9312097,
+    "horizontal_speed": 0.7963106577928739,
+    "vertical_speed": 0.1999652681060932
+  },
+  {
+    "pass_at": 1747522260,
+    "coord": [139.3892364, 36.7985436],
+    "altitude": 2317.8190631,
+    "time_from_previous": 38.135403,
+    "distance_from_previous": 19.7603463,
+    "elevation_from_previous": 6.9832858,
+    "horizontal_speed": 0.5181627764625957,
+    "vertical_speed": 0.1831181854823981
+  },
+  {
+    "pass_at": 1747522294,
+    "coord": [139.3890564, 36.7984986],
+    "altitude": 2322.0803378,
+    "time_from_previous": 33.122374,
+    "distance_from_previous": 16.8195227,
+    "elevation_from_previous": 4.2612748,
+    "horizontal_speed": 0.5077994318885476,
+    "vertical_speed": 0.1286524570974291
+  },
+  {
+    "pass_at": 1747522311,
+    "coord": [139.3889565, 36.7983379],
+    "altitude": 2323.4705236,
+    "time_from_previous": 17.400376,
+    "distance_from_previous": 19.9425402,
+    "elevation_from_previous": 1.3901857,
+    "horizontal_speed": 1.146098233739317,
+    "vertical_speed": 0.07989400343992566
+  },
+  {
+    "pass_at": 1747522333,
+    "coord": [139.3888571, 36.7981789],
+    "altitude": 2325.4552721,
+    "time_from_previous": 22.368901,
+    "distance_from_previous": 19.7468979,
+    "elevation_from_previous": 1.9847485,
+    "horizontal_speed": 0.8827835529336019,
+    "vertical_speed": 0.08872802915082864
+  },
+  {
+    "pass_at": 1747522364,
+    "coord": [139.3887061, 36.7980462],
+    "altitude": 2328.9207304,
+    "time_from_previous": 30.15693,
+    "distance_from_previous": 19.964838,
+    "elevation_from_previous": 3.4654583,
+    "horizontal_speed": 0.6620315131546879,
+    "vertical_speed": 0.1149141606920864
+  },
+  {
+    "pass_at": 1747522391,
+    "coord": [139.3885434, 36.7979224],
+    "altitude": 2331.7650725,
+    "time_from_previous": 27.101107,
+    "distance_from_previous": 19.9927197,
+    "elevation_from_previous": 2.8443421,
+    "horizontal_speed": 0.7377085998737984,
+    "vertical_speed": 0.104952985868806
+  },
+  {
+    "pass_at": 1747522611,
+    "coord": [139.3884027, 36.7977842],
+    "altitude": 2332.6916117,
+    "time_from_previous": 220.373331,
+    "distance_from_previous": 19.8157929,
+    "elevation_from_previous": 0.9265392,
+    "horizontal_speed": 0.0899191967107853,
+    "vertical_speed": 0.004204407111312394
+  },
+  {
+    "pass_at": 1747522838,
+    "coord": [139.3882828, 36.7976753],
+    "altitude": 2332.1671311,
+    "time_from_previous": 227.113217,
+    "distance_from_previous": 16.1436687,
+    "elevation_from_previous": -0.5244805,
+    "horizontal_speed": 0.07108203086216686,
+    "vertical_speed": -0.002309334995681912
+  },
+  {
+    "pass_at": 1747522850,
+    "coord": [139.3883957, 36.7975272],
+    "altitude": 2332.4932298,
+    "time_from_previous": 11.44538,
+    "distance_from_previous": 19.2744602,
+    "elevation_from_previous": 0.3260986,
+    "horizontal_speed": 1.684038467923302,
+    "vertical_speed": 0.02849172329795953
+  },
+  {
+    "pass_at": 1747522866,
+    "coord": [139.3883832, 36.7973474],
+    "altitude": 2331.6953939,
+    "time_from_previous": 16.254709,
+    "distance_from_previous": 19.9939121,
+    "elevation_from_previous": -0.7978359,
+    "horizontal_speed": 1.230038144638578,
+    "vertical_speed": -0.04908337024058691
+  },
+  {
+    "pass_at": 1747522893,
+    "coord": [139.3883501, 36.7971707],
+    "altitude": 2331.1605068,
+    "time_from_previous": 27.32341,
+    "distance_from_previous": 19.8237374,
+    "elevation_from_previous": -0.5348871,
+    "horizontal_speed": 0.7255220852741294,
+    "vertical_speed": -0.01957614734032099
+  },
+  {
+    "pass_at": 1747522912,
+    "coord": [139.3882079, 36.7970314],
+    "altitude": 2329.3163792,
+    "time_from_previous": 18.96317,
+    "distance_from_previous": 19.999485,
+    "elevation_from_previous": -1.8441276,
+    "horizontal_speed": 1.054648827173938,
+    "vertical_speed": -0.09724785465721184
+  },
+  {
+    "pass_at": 1747522930,
+    "coord": [139.3880846, 36.7968809],
+    "altitude": 2327.855925,
+    "time_from_previous": 17.437014,
+    "distance_from_previous": 19.9999999,
+    "elevation_from_previous": -1.4604542,
+    "horizontal_speed": 1.146985366875315,
+    "vertical_speed": -0.08375598023835962
+  },
+  {
+    "pass_at": 1747522945,
+    "coord": [139.387942, 36.7967419],
+    "altitude": 2324.6830441,
+    "time_from_previous": 15.618088,
+    "distance_from_previous": 19.9967318,
+    "elevation_from_previous": -3.1728808,
+    "horizontal_speed": 1.280357224264583,
+    "vertical_speed": -0.2031542401349
+  },
+  {
+    "pass_at": 1747522970,
+    "coord": [139.3877725, 36.7966243],
+    "altitude": 2323.417742,
+    "time_from_previous": 25.146529,
+    "distance_from_previous": 19.9838857,
+    "elevation_from_previous": -1.2653021,
+    "horizontal_speed": 0.7946975783417265,
+    "vertical_speed": -0.05031716703327127
+  },
+  {
+    "pass_at": 1747523001,
+    "coord": [139.3875545, 36.7966426],
+    "altitude": 2319.579741,
+    "time_from_previous": 30.522646,
+    "distance_from_previous": 19.5637491,
+    "elevation_from_previous": -3.838001,
+    "horizontal_speed": 0.6409584902960247,
+    "vertical_speed": -0.1257427354102918
+  },
+  {
+    "pass_at": 1747523026,
+    "coord": [139.387331, 36.7966549],
+    "altitude": 2311.4332483,
+    "time_from_previous": 25.353744,
+    "distance_from_previous": 19.9941136,
+    "elevation_from_previous": -8.1464927,
+    "horizontal_speed": 0.7886059589463394,
+    "vertical_speed": -0.3213132032886346
+  },
+  {
+    "pass_at": 1747523055,
+    "coord": [139.387117, 36.7966041],
+    "altitude": 2305.2587736,
+    "time_from_previous": 28.756816,
+    "distance_from_previous": 19.9046098,
+    "elevation_from_previous": -6.1744747,
+    "horizontal_speed": 0.6921701554163715,
+    "vertical_speed": -0.2147134335039039
+  },
+  {
+    "pass_at": 1747523150,
+    "coord": [139.3868942, 36.7966021],
+    "altitude": 2298.2070286,
+    "time_from_previous": 95.447063,
+    "distance_from_previous": 19.892528,
+    "elevation_from_previous": -7.051745,
+    "horizontal_speed": 0.2084142494777445,
+    "vertical_speed": -0.07388121518207429
+  },
+  {
+    "pass_at": 1747523218,
+    "coord": [139.3866916, 36.7965307],
+    "altitude": 2294.4375201,
+    "time_from_previous": 67.906537,
+    "distance_from_previous": 19.7396854,
+    "elevation_from_previous": -3.7695085,
+    "horizontal_speed": 0.2906890304242727,
+    "vertical_speed": -0.055510244912062
+  },
+  {
+    "pass_at": 1747523267,
+    "coord": [139.3864863, 36.7964585],
+    "altitude": 2290.7638457,
+    "time_from_previous": 48.778642,
+    "distance_from_previous": 19.9935008,
+    "elevation_from_previous": -3.6736744,
+    "horizontal_speed": 0.4098822759354391,
+    "vertical_speed": -0.0753131749752279
+  },
+  {
+    "pass_at": 1747523307,
+    "coord": [139.3862941, 36.7963665],
+    "altitude": 2284.9246496,
+    "time_from_previous": 39.937306,
+    "distance_from_previous": 19.9621283,
+    "elevation_from_previous": -5.8391961,
+    "horizontal_speed": 0.4998366264364452,
+    "vertical_speed": -0.1462090632753246
+  },
+  {
+    "pass_at": 1747523349,
+    "coord": [139.3861378, 36.7962391],
+    "altitude": 2280.5152098,
+    "time_from_previous": 41.891253,
+    "distance_from_previous": 19.8655031,
+    "elevation_from_previous": -4.4094398,
+    "horizontal_speed": 0.474216015930581,
+    "vertical_speed": -0.1052592005304783
+  },
+  {
+    "pass_at": 1747523406,
+    "coord": [139.3859431, 36.7961565],
+    "altitude": 2275.6998493,
+    "time_from_previous": 57.589743,
+    "distance_from_previous": 19.6442707,
+    "elevation_from_previous": -4.8153605,
+    "horizontal_speed": 0.3411071082571075,
+    "vertical_speed": -0.08361489822936004
+  },
+  {
+    "pass_at": 1747523482,
+    "coord": [139.3857591, 36.7960556],
+    "altitude": 2272.3948271,
+    "time_from_previous": 75.614248,
+    "distance_from_previous": 19.8774953,
+    "elevation_from_previous": -3.3050222,
+    "horizontal_speed": 0.2628802881171284,
+    "vertical_speed": -0.04370898722685174
+  },
+  {
+    "pass_at": 1747523549,
+    "coord": [139.3855486, 36.7960045],
+    "altitude": 2266.4653309,
+    "time_from_previous": 66.756212,
+    "distance_from_previous": 19.6230031,
+    "elevation_from_previous": -5.9294962,
+    "horizontal_speed": 0.2939502184455882,
+    "vertical_speed": -0.08882313753812154
+  },
+  {
+    "pass_at": 1747523593,
+    "coord": [139.3853317, 36.7960298],
+    "altitude": 2258.0502151,
+    "time_from_previous": 44.091342,
+    "distance_from_previous": 19.5562944,
+    "elevation_from_previous": -8.4151158,
+    "horizontal_speed": 0.4435404665160793,
+    "vertical_speed": -0.1908564225602387
+  },
+  {
+    "pass_at": 1747523623,
+    "coord": [139.3851555, 36.7961332],
+    "altitude": 2249.433887,
+    "time_from_previous": 30.370097,
+    "distance_from_previous": 19.4651434,
+    "elevation_from_previous": -8.6163281,
+    "horizontal_speed": 0.6409312225772608,
+    "vertical_speed": -0.2837109180125437
+  },
+  {
+    "pass_at": 1747523674,
+    "coord": [139.3849568, 36.796176],
+    "altitude": 2244.2770248,
+    "time_from_previous": 50.275784,
+    "distance_from_previous": 18.3659113,
+    "elevation_from_previous": -5.1568622,
+    "horizontal_speed": 0.3653033297302734,
+    "vertical_speed": -0.1025714924704108
+  },
+  {
+    "pass_at": 1747524151,
+    "coord": [139.3849181, 36.7962227],
+    "altitude": 2242.5017879,
+    "time_from_previous": 477.384006,
+    "distance_from_previous": 6.2256014,
+    "elevation_from_previous": -1.7752368,
+    "horizontal_speed": 0.01304107662123896,
+    "vertical_speed": -0.003718676741759128
+  },
+  {
+    "pass_at": 1747524170,
+    "coord": [139.3847195, 36.7961468],
+    "altitude": 2243.7304556,
+    "time_from_previous": 19.258965,
+    "distance_from_previous": 19.6227614,
+    "elevation_from_previous": 1.2286677,
+    "horizontal_speed": 1.01888971707462,
+    "vertical_speed": 0.0637971822473326
+  },
+  {
+    "pass_at": 1747524185,
+    "coord": [139.384611, 36.7959897],
+    "altitude": 2245.6405567,
+    "time_from_previous": 14.498526,
+    "distance_from_previous": 19.9502983,
+    "elevation_from_previous": 1.9101011,
+    "horizontal_speed": 1.376022521185947,
+    "vertical_speed": 0.1317445028549799
+  },
+  {
+    "pass_at": 1747524206,
+    "coord": [139.3844582, 36.795858],
+    "altitude": 2246.9911285,
+    "time_from_previous": 20.956705,
+    "distance_from_previous": 19.9871429,
+    "elevation_from_previous": 1.3505717,
+    "horizontal_speed": 0.9537349931680577,
+    "vertical_speed": 0.06444580386086457
+  },
+  {
+    "pass_at": 1747524226,
+    "coord": [139.3842786, 36.7957507],
+    "altitude": 2248.2523134,
+    "time_from_previous": 19.936166,
+    "distance_from_previous": 19.963085,
+    "elevation_from_previous": 1.2611849,
+    "horizontal_speed": 1.001350259623641,
+    "vertical_speed": 0.06326115563042563
+  },
+  {
+    "pass_at": 1747524244,
+    "coord": [139.3841515, 36.7956023],
+    "altitude": 2248.3658363,
+    "time_from_previous": 18.280558,
+    "distance_from_previous": 20.0000002,
+    "elevation_from_previous": 0.1135229,
+    "horizontal_speed": 1.094058518345009,
+    "vertical_speed": 0.006210034726511084
+  },
+  {
+    "pass_at": 1747524264,
+    "coord": [139.3840279, 36.795452],
+    "altitude": 2249.7409696,
+    "time_from_previous": 19.661412,
+    "distance_from_previous": 19.9999783,
+    "elevation_from_previous": 1.3751333,
+    "horizontal_speed": 1.017219836500044,
+    "vertical_speed": 0.06994071941526885
+  },
+  {
+    "pass_at": 1747524283,
+    "coord": [139.3838675, 36.7953263],
+    "altitude": 2252.5937413,
+    "time_from_previous": 19.474406,
+    "distance_from_previous": 19.9892994,
+    "elevation_from_previous": 2.8527717,
+    "horizontal_speed": 1.026439491915697,
+    "vertical_speed": 0.1464882523246152
+  },
+  {
+    "pass_at": 1747524302,
+    "coord": [139.3837062, 36.7952012],
+    "altitude": 2254.9583488,
+    "time_from_previous": 18.919437,
+    "distance_from_previous": 19.9999995,
+    "elevation_from_previous": 2.3646075,
+    "horizontal_speed": 1.057113882405698,
+    "vertical_speed": 0.1249829738591059
+  },
+  {
+    "pass_at": 1747524321,
+    "coord": [139.3835206, 36.7951007],
+    "altitude": 2256.1509534,
+    "time_from_previous": 18.866451,
+    "distance_from_previous": 19.9629129,
+    "elevation_from_previous": 1.1926046,
+    "horizontal_speed": 1.058117019464869,
+    "vertical_speed": 0.06321298054414154
+  },
+  {
+    "pass_at": 1747524349,
+    "coord": [139.3833404, 36.7949937],
+    "altitude": 2256.0189837,
+    "time_from_previous": 27.82853,
+    "distance_from_previous": 19.9944748,
+    "elevation_from_previous": -0.1319697,
+    "horizontal_speed": 0.7184883570925233,
+    "vertical_speed": -0.004742244739481388
+  },
+  {
+    "pass_at": 1747524384,
+    "coord": [139.3831469, 36.7950591],
+    "altitude": 2258.3528028,
+    "time_from_previous": 34.935317,
+    "distance_from_previous": 18.7367021,
+    "elevation_from_previous": 2.3338191,
+    "horizontal_speed": 0.5363255212483116,
+    "vertical_speed": 0.06680400524203058
+  },
+  {
+    "pass_at": 1747524419,
+    "coord": [139.3829439, 36.7951353],
+    "altitude": 2262.8518184,
+    "time_from_previous": 35.81543,
+    "distance_from_previous": 19.9920616,
+    "elevation_from_previous": 4.4990156,
+    "horizontal_speed": 0.5581968888828084,
+    "vertical_speed": 0.1256166853224993
+  },
+  {
+    "pass_at": 1747524463,
+    "coord": [139.3827828, 36.7953118],
+    "altitude": 2270.8126544,
+    "time_from_previous": 43.60953,
+    "distance_from_previous": 24.298093,
+    "elevation_from_previous": 7.960836,
+    "horizontal_speed": 0.5571739250572065,
+    "vertical_speed": 0.1825480806603511
+  },
+  {
+    "pass_at": 1747525005,
+    "coord": [139.3827335, 36.7952982],
+    "altitude": 2271.3783046,
+    "time_from_previous": 0,
+    "distance_from_previous": 4.6534253,
+    "elevation_from_previous": 0.5656502,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747525034,
+    "coord": [139.3825537, 36.7954058],
+    "altitude": 2273.9194614,
+    "time_from_previous": 29.425944,
+    "distance_from_previous": 20.0000002,
+    "elevation_from_previous": 2.5411567,
+    "horizontal_speed": 0.6796723394838241,
+    "vertical_speed": 0.08635769510062277
+  },
+  {
+    "pass_at": 1747525071,
+    "coord": [139.3823486, 36.7954782],
+    "altitude": 2277.0610192,
+    "time_from_previous": 36.132193,
+    "distance_from_previous": 19.989872,
+    "elevation_from_previous": 3.1415578,
+    "horizontal_speed": 0.5532426996612134,
+    "vertical_speed": 0.0869462254892749
+  },
+  {
+    "pass_at": 1747525111,
+    "coord": [139.3821315, 36.7955222],
+    "altitude": 2282.5231635,
+    "time_from_previous": 40.457295,
+    "distance_from_previous": 19.9890562,
+    "elevation_from_previous": 5.4621443,
+    "horizontal_speed": 0.4940779209287225,
+    "vertical_speed": 0.1350101211660344
+  },
+  {
+    "pass_at": 1747525155,
+    "coord": [139.3819083, 36.7955348],
+    "altitude": 2289.1272314,
+    "time_from_previous": 44.425289,
+    "distance_from_previous": 19.9686966,
+    "elevation_from_previous": 6.6040679,
+    "horizontal_speed": 0.4494894023086716,
+    "vertical_speed": 0.1486555979410736
+  },
+  {
+    "pass_at": 1747525261,
+    "coord": [139.3816857, 36.7955551],
+    "altitude": 2296.1895112,
+    "time_from_previous": 106.022454,
+    "distance_from_previous": 19.9946626,
+    "elevation_from_previous": 7.0622798,
+    "horizontal_speed": 0.1885889436213201,
+    "vertical_speed": 0.06661117087518084
+  },
+  {
+    "pass_at": 1747525371,
+    "coord": [139.381609, 36.7957072],
+    "altitude": 2302.9506988,
+    "time_from_previous": 109.797901,
+    "distance_from_previous": 18.2128741,
+    "elevation_from_previous": 6.7611876,
+    "horizontal_speed": 0.1658763412972712,
+    "vertical_speed": 0.06157847771607219
+  },
+  {
+    "pass_at": 1747525500,
+    "coord": [139.381398, 36.7958159],
+    "altitude": 2314.5029961,
+    "time_from_previous": 128.738924,
+    "distance_from_previous": 22.368939,
+    "elevation_from_previous": 11.5522973,
+    "horizontal_speed": 0.1737542796303005,
+    "vertical_speed": 0.089734300560101
+  },
+  {
+    "pass_at": 1747527191,
+    "coord": [139.3813352, 36.7957699],
+    "altitude": 2316.39,
+    "time_from_previous": 0,
+    "distance_from_previous": 7.5833064,
+    "elevation_from_previous": 1.8870039,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747527236,
+    "coord": [139.3811304, 36.7958433],
+    "altitude": 2325.05,
+    "time_from_previous": 45,
+    "distance_from_previous": 20.0105142,
+    "elevation_from_previous": 8.66,
+    "horizontal_speed": 0.4446780933333333,
+    "vertical_speed": 0.1924444444444444
+  },
+  {
+    "pass_at": 1747527296,
+    "coord": [139.3809047, 36.7958369],
+    "altitude": 2333,
+    "time_from_previous": 60,
+    "distance_from_previous": 20.1563692,
+    "elevation_from_previous": 7.95,
+    "horizontal_speed": 0.3359394866666667,
+    "vertical_speed": 0.1325
+  },
+  {
+    "pass_at": 1747527403,
+    "coord": [139.3808519, 36.7960122],
+    "altitude": 2339.55,
+    "time_from_previous": 107,
+    "distance_from_previous": 20.0163126,
+    "elevation_from_previous": 6.55,
+    "horizontal_speed": 0.1870683420560748,
+    "vertical_speed": 0.06121495327102804
+  },
+  {
+    "pass_at": 1747528187,
+    "coord": [139.3805393, 36.796195],
+    "altitude": 2357.45,
+    "time_from_previous": 0,
+    "distance_from_previous": 34.4950903,
+    "elevation_from_previous": 17.9,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747528189,
+    "coord": [139.3804691, 36.7962289],
+    "altitude": 2361.67,
+    "time_from_previous": 2,
+    "distance_from_previous": 7.3113139,
+    "elevation_from_previous": 4.22,
+    "horizontal_speed": 3.65565695,
+    "vertical_speed": 2.11
+  },
+  {
+    "pass_at": 1747528301,
+    "coord": [139.3802591, 36.7961631],
+    "altitude": 2370.97,
+    "time_from_previous": 112,
+    "distance_from_previous": 20.1154798,
+    "elevation_from_previous": 9.3,
+    "horizontal_speed": 0.1796024982142857,
+    "vertical_speed": 0.0830357142857143
+  },
+  {
+    "pass_at": 1747528891,
+    "coord": [139.3800543, 36.7962439],
+    "altitude": 2389.0997874,
+    "time_from_previous": 0,
+    "distance_from_previous": 20.3574521,
+    "elevation_from_previous": 18.1297874,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747528980,
+    "coord": [139.3798364, 36.796286],
+    "altitude": 2400.0030204,
+    "time_from_previous": 89.482061,
+    "distance_from_previous": 20.0000001,
+    "elevation_from_previous": 10.903233,
+    "horizontal_speed": 0.2235084873603884,
+    "vertical_speed": 0.1218482551491522
+  },
+  {
+    "pass_at": 1747529075,
+    "coord": [139.3796596, 36.796396],
+    "altitude": 2412.0431902,
+    "time_from_previous": 94.5935,
+    "distance_from_previous": 19.9492631,
+    "elevation_from_previous": 12.0401698,
+    "horizontal_speed": 0.2108946502666673,
+    "vertical_speed": 0.127283267877814
+  },
+  {
+    "pass_at": 1747529417,
+    "coord": [139.379498, 36.7965188],
+    "altitude": 2425.3365586,
+    "time_from_previous": 341.813608,
+    "distance_from_previous": 19.8395535,
+    "elevation_from_previous": 13.2933684,
+    "horizontal_speed": 0.05804202359316251,
+    "vertical_speed": 0.03889069390122116
+  },
+  {
+    "pass_at": 1747529604,
+    "coord": [139.3792992, 36.7965905],
+    "altitude": 2439.0799769,
+    "time_from_previous": 187.138841,
+    "distance_from_previous": 19.4508053,
+    "elevation_from_previous": 13.7434183,
+    "horizontal_speed": 0.1039378313772927,
+    "vertical_speed": 0.07343968909158735
+  },
+  {
+    "pass_at": 1747529798,
+    "coord": [139.379077, 36.7966116],
+    "altitude": 2452.8392882,
+    "time_from_previous": 194.078744,
+    "distance_from_previous": 19.9644309,
+    "elevation_from_previous": 13.7593114,
+    "horizontal_speed": 0.1028676839540965,
+    "vertical_speed": 0.07089550929905028
+  },
+  {
+    "pass_at": 1747530102,
+    "coord": [139.3788532, 36.7966216],
+    "altitude": 2466.0508827,
+    "time_from_previous": 303.737375,
+    "distance_from_previous": 19.9999111,
+    "elevation_from_previous": 13.2115944,
+    "horizontal_speed": 0.06584606553605726,
+    "vertical_speed": 0.04349676887804801
+  },
+  {
+    "pass_at": 1747530245,
+    "coord": [139.3785956, 36.7966935],
+    "altitude": 2490.3819395,
+    "time_from_previous": 143.155871,
+    "distance_from_previous": 24.3435109,
+    "elevation_from_previous": 24.3310569,
+    "horizontal_speed": 0.170048987372652,
+    "vertical_speed": 0.1699619912898997
+  },
+  {
+    "pass_at": 1747530659,
+    "coord": [139.3783702, 36.7967342],
+    "altitude": 2506.7278197,
+    "time_from_previous": 0,
+    "distance_from_previous": 20.6117224,
+    "elevation_from_previous": 16.3458802,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747530705,
+    "coord": [139.3781495, 36.7967032],
+    "altitude": 2513.8245148,
+    "time_from_previous": 46.377586,
+    "distance_from_previous": 19.9999999,
+    "elevation_from_previous": 7.0966951,
+    "horizontal_speed": 0.431242796897622,
+    "vertical_speed": 0.1530199329477821
+  },
+  {
+    "pass_at": 1747530777,
+    "coord": [139.3779268, 36.7967226],
+    "altitude": 2523.3898622,
+    "time_from_previous": 71.864288,
+    "distance_from_previous": 19.9893758,
+    "elevation_from_previous": 9.5653474,
+    "horizontal_speed": 0.2781545097893407,
+    "vertical_speed": 0.1331029314588075
+  },
+  {
+    "pass_at": 1747531140,
+    "coord": [139.3777503, 36.796832],
+    "altitude": 2532.1124171,
+    "time_from_previous": 362.356014,
+    "distance_from_previous": 19.8852091,
+    "elevation_from_previous": 8.722555,
+    "horizontal_speed": 0.05487754675433647,
+    "vertical_speed": 0.02407178206789745
+  },
+  {
+    "pass_at": 1747531189,
+    "coord": [139.3775566, 36.7969223],
+    "altitude": 2538.2708886,
+    "time_from_previous": 48.921285,
+    "distance_from_previous": 19.9874732,
+    "elevation_from_previous": 6.1584715,
+    "horizontal_speed": 0.408563945121229,
+    "vertical_speed": 0.125885317607663
+  },
+  {
+    "pass_at": 1747531219,
+    "coord": [139.3773525, 36.7969966],
+    "altitude": 2539.7167301,
+    "time_from_previous": 30.762031,
+    "distance_from_previous": 19.9926129,
+    "elevation_from_previous": 1.4458415,
+    "horizontal_speed": 0.6499119937822051,
+    "vertical_speed": 0.04700084659559702
+  },
+  {
+    "pass_at": 1747531251,
+    "coord": [139.3771412, 36.7970565],
+    "altitude": 2540.9861819,
+    "time_from_previous": 32.117003,
+    "distance_from_previous": 19.9940782,
+    "elevation_from_previous": 1.2694518,
+    "horizontal_speed": 0.6225387281621515,
+    "vertical_speed": 0.03952584866028751
+  },
+  {
+    "pass_at": 1747531272,
+    "coord": [139.3769185, 36.7970652],
+    "altitude": 2544.1827557,
+    "time_from_previous": 20.284092,
+    "distance_from_previous": 19.9000346,
+    "elevation_from_previous": 3.1965738,
+    "horizontal_speed": 0.9810660787773986,
+    "vertical_speed": 0.157590184465738
+  },
+  {
+    "pass_at": 1747531291,
+    "coord": [139.3767477, 36.7971736],
+    "altitude": 2545.1093543,
+    "time_from_previous": 19.799943,
+    "distance_from_previous": 19.4237982,
+    "elevation_from_previous": 0.9265986,
+    "horizontal_speed": 0.9810027331896866,
+    "vertical_speed": 0.04679804381255037
+  },
+  {
+    "pass_at": 1747531314,
+    "coord": [139.3765619, 36.7972735],
+    "altitude": 2542.2351339,
+    "time_from_previous": 22.425726,
+    "distance_from_previous": 19.9418636,
+    "elevation_from_previous": -2.8742203,
+    "horizontal_speed": 0.8892404910324866,
+    "vertical_speed": -0.1281662096469028
+  },
+  {
+    "pass_at": 1747531331,
+    "coord": [139.3763592, 36.7973494],
+    "altitude": 2541.3842083,
+    "time_from_previous": 17.453925,
+    "distance_from_previous": 19.959959,
+    "elevation_from_previous": -0.8509256,
+    "horizontal_speed": 1.143579968402523,
+    "vertical_speed": -0.04875267883871392
+  },
+  {
+    "pass_at": 1747531358,
+    "coord": [139.376141, 36.7973855],
+    "altitude": 2545.738257,
+    "time_from_previous": 27.045705,
+    "distance_from_previous": 19.8834271,
+    "elevation_from_previous": 4.3540486,
+    "horizontal_speed": 0.7351787317061987,
+    "vertical_speed": 0.1609885414338432
+  },
+  {
+    "pass_at": 1747531388,
+    "coord": [139.3759681, 36.7974887],
+    "altitude": 2550.4932705,
+    "time_from_previous": 29.320276,
+    "distance_from_previous": 19.2122844,
+    "elevation_from_previous": 4.7550135,
+    "horizontal_speed": 0.6552559191461909,
+    "vertical_speed": 0.1621749229100026
+  },
+  {
+    "pass_at": 1747531417,
+    "coord": [139.3758996, 36.7976529],
+    "altitude": 2553.5831465,
+    "time_from_previous": 29.481683,
+    "distance_from_previous": 19.2163227,
+    "elevation_from_previous": 3.089876,
+    "horizontal_speed": 0.6518054854602432,
+    "vertical_speed": 0.1048066353606746
+  },
+  {
+    "pass_at": 1747531446,
+    "coord": [139.3757787, 36.7977939],
+    "altitude": 2557.9860915,
+    "time_from_previous": 28.77508,
+    "distance_from_previous": 19.0134655,
+    "elevation_from_previous": 4.402945,
+    "horizontal_speed": 0.6607615165622476,
+    "vertical_speed": 0.1530124329802037
+  },
+  {
+    "pass_at": 1747531484,
+    "coord": [139.375627, 36.7979262],
+    "altitude": 2561.5797785,
+    "time_from_previous": 37.658689,
+    "distance_from_previous": 19.9678368,
+    "elevation_from_previous": 3.593687,
+    "horizontal_speed": 0.5302318622934536,
+    "vertical_speed": 0.09542783074578087
+  },
+  {
+    "pass_at": 1747531613,
+    "coord": [139.3756953, 36.7980386],
+    "altitude": 2559.2110849,
+    "time_from_previous": 129.605607,
+    "distance_from_previous": 13.8823972,
+    "elevation_from_previous": -2.3686936,
+    "horizontal_speed": 0.1071126282368324,
+    "vertical_speed": -0.01827616609210433
+  },
+  {
+    "pass_at": 1747531706,
+    "coord": [139.3758059, 36.7981829],
+    "altitude": 2558.5056098,
+    "time_from_previous": 92.281045,
+    "distance_from_previous": 18.810813,
+    "elevation_from_previous": -0.7054751,
+    "horizontal_speed": 0.2038426526270915,
+    "vertical_speed": -0.007644853826698646
+  },
+  {
+    "pass_at": 1747531774,
+    "coord": [139.3758108, 36.7984336],
+    "altitude": 2568.978496,
+    "time_from_previous": 68.470022,
+    "distance_from_previous": 27.8326981,
+    "elevation_from_previous": 10.4728862,
+    "horizontal_speed": 0.4064946568879443,
+    "vertical_speed": 0.1529557884470959
+  },
+  {
+    "pass_at": 1747532298,
+    "coord": [139.3759035, 36.7985976],
+    "altitude": 2571.8472088,
+    "time_from_previous": 0,
+    "distance_from_previous": 19.9924126,
+    "elevation_from_previous": 2.8687128,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747532355,
+    "coord": [139.3760122, 36.7987552],
+    "altitude": 2564.61446,
+    "time_from_previous": 56.763715,
+    "distance_from_previous": 20.0000002,
+    "elevation_from_previous": -7.2327488,
+    "horizontal_speed": 0.3523377601342689,
+    "vertical_speed": -0.1274185243161058
+  },
+  {
+    "pass_at": 1747532404,
+    "coord": [139.3760838, 36.7989259],
+    "altitude": 2567.0699655,
+    "time_from_previous": 49.299181,
+    "distance_from_previous": 19.9865722,
+    "elevation_from_previous": 2.4555055,
+    "horizontal_speed": 0.4054138789851296,
+    "vertical_speed": 0.04980824123629965
+  },
+  {
+    "pass_at": 1747532431,
+    "coord": [139.3759678, 36.7990715],
+    "altitude": 2569.7282895,
+    "time_from_previous": 27.249719,
+    "distance_from_previous": 19.1887535,
+    "elevation_from_previous": 2.6583241,
+    "horizontal_speed": 0.7041817018369988,
+    "vertical_speed": 0.09755418395323637
+  },
+  {
+    "pass_at": 1747532450,
+    "coord": [139.3757732, 36.7991571],
+    "altitude": 2569.7751343,
+    "time_from_previous": 18.202263,
+    "distance_from_previous": 19.7963173,
+    "elevation_from_previous": 0.0468448,
+    "horizontal_speed": 1.087574512026334,
+    "vertical_speed": 0.002573570110485713
+  },
+  {
+    "pass_at": 1747532468,
+    "coord": [139.3755867, 36.7992565],
+    "altitude": 2565.444332,
+    "time_from_previous": 18.535844,
+    "distance_from_previous": 19.970611,
+    "elevation_from_previous": -4.3308024,
+    "horizontal_speed": 1.077404999739963,
+    "vertical_speed": -0.2336447371913574
+  },
+  {
+    "pass_at": 1747532523,
+    "coord": [139.3755035, 36.7994181],
+    "altitude": 2558.9828471,
+    "time_from_previous": 55.138017,
+    "distance_from_previous": 19.4129729,
+    "elevation_from_previous": -6.4614848,
+    "horizontal_speed": 0.3520796350002939,
+    "vertical_speed": -0.1171874715770065
+  },
+  {
+    "pass_at": 1747532588,
+    "coord": [139.3753528, 36.799546],
+    "altitude": 2547.2509044,
+    "time_from_previous": 64.353171,
+    "distance_from_previous": 19.5507754,
+    "elevation_from_previous": -11.7319427,
+    "horizontal_speed": 0.3038043828485157,
+    "vertical_speed": -0.1823055883291283
+  },
+  {
+    "pass_at": 1747532632,
+    "coord": [139.3751714, 36.7996515],
+    "altitude": 2536.0523091,
+    "time_from_previous": 44.236815,
+    "distance_from_previous": 19.9783776,
+    "elevation_from_previous": -11.1985954,
+    "horizontal_speed": 0.4516233277644424,
+    "vertical_speed": -0.2531510326862366
+  },
+  {
+    "pass_at": 1747532697,
+    "coord": [139.3751271, 36.7998151],
+    "altitude": 2525.946005,
+    "time_from_previous": 65.612368,
+    "distance_from_previous": 18.5850572,
+    "elevation_from_previous": -10.1063041,
+    "horizontal_speed": 0.2832553947755704,
+    "vertical_speed": -0.1540304733400264
+  },
+  {
+    "pass_at": 1747532800,
+    "coord": [139.375273, 36.7999264],
+    "altitude": 2515.9198013,
+    "time_from_previous": 102.997692,
+    "distance_from_previous": 17.9483392,
+    "elevation_from_previous": -10.0262037,
+    "horizontal_speed": 0.1742596251574259,
+    "vertical_speed": -0.09734396475602579
+  },
+  {
+    "pass_at": 1747532903,
+    "coord": [139.3754185, 36.8000593],
+    "altitude": 2502.467795,
+    "time_from_previous": 103.005039,
+    "distance_from_previous": 19.6506035,
+    "elevation_from_previous": -13.4520063,
+    "horizontal_speed": 0.1907732251817311,
+    "vertical_speed": -0.1305956138708904
+  },
+  {
+    "pass_at": 1747532980,
+    "coord": [139.375465, 36.8002306],
+    "altitude": 2486.7192076,
+    "time_from_previous": 76.651169,
+    "distance_from_previous": 19.4567801,
+    "elevation_from_previous": -15.7485874,
+    "horizontal_speed": 0.2538353994314164,
+    "vertical_speed": -0.2054578893636965
+  },
+  {
+    "pass_at": 1747533162,
+    "coord": [139.3755145, 36.8004057],
+    "altitude": 2471.2176151,
+    "time_from_previous": 181.890437,
+    "distance_from_previous": 19.9266993,
+    "elevation_from_previous": -15.5015926,
+    "horizontal_speed": 0.109553309281455,
+    "vertical_speed": -0.08522489063017645
+  },
+  {
+    "pass_at": 1747533282,
+    "coord": [139.3754125, 36.8005438],
+    "altitude": 2461.2970581,
+    "time_from_previous": 120.202007,
+    "distance_from_previous": 17.8298944,
+    "elevation_from_previous": -9.920557,
+    "horizontal_speed": 0.1483327512160425,
+    "vertical_speed": -0.08253237402267335
+  },
+  {
+    "pass_at": 1747533387,
+    "coord": [139.3753669, 36.800709],
+    "altitude": 2449.7183723,
+    "time_from_previous": 104.410425,
+    "distance_from_previous": 18.7747558,
+    "elevation_from_previous": -11.5786858,
+    "horizontal_speed": 0.1798168698192733,
+    "vertical_speed": -0.1108958784527503
+  },
+  {
+    "pass_at": 1747533463,
+    "coord": [139.3754223, 36.8008808],
+    "altitude": 2436.2747471,
+    "time_from_previous": 76.754537,
+    "distance_from_previous": 19.698022,
+    "elevation_from_previous": -13.4436252,
+    "horizontal_speed": 0.2566365816264386,
+    "vertical_speed": -0.1751508865202327
+  },
+  {
+    "pass_at": 1747533522,
+    "coord": [139.3754352, 36.8010569],
+    "altitude": 2422.9093132,
+    "time_from_previous": 58.477064,
+    "distance_from_previous": 19.5810455,
+    "elevation_from_previous": -13.3654339,
+    "horizontal_speed": 0.3348500105956072,
+    "vertical_speed": -0.2285585661414191
+  },
+  {
+    "pass_at": 1747533786,
+    "coord": [139.3755338, 36.8012041],
+    "altitude": 2413.0044543,
+    "time_from_previous": 264.633008,
+    "distance_from_previous": 18.5554059,
+    "elevation_from_previous": -9.904859,
+    "horizontal_speed": 0.07011750363356033,
+    "vertical_speed": -0.03742866044888852
+  },
+  {
+    "pass_at": 1747533938,
+    "coord": [139.3756694, 36.8013471],
+    "altitude": 2406.1280024,
+    "time_from_previous": 151.497523,
+    "distance_from_previous": 19.9511809,
+    "elevation_from_previous": -6.8764519,
+    "horizontal_speed": 0.1316931161970219,
+    "vertical_speed": -0.04538986356892449
+  },
+  {
+    "pass_at": 1747533978,
+    "coord": [139.3756709, 36.8015107],
+    "altitude": 2398.567846,
+    "time_from_previous": 39.80374,
+    "distance_from_previous": 18.1546602,
+    "elevation_from_previous": -7.5601564,
+    "horizontal_speed": 0.4561043811460933,
+    "vertical_speed": -0.1899358301506341
+  },
+  {
+    "pass_at": 1747534007,
+    "coord": [139.3755745, 36.8016721],
+    "altitude": 2391.3802764,
+    "time_from_previous": 29.659984,
+    "distance_from_previous": 19.8679791,
+    "elevation_from_previous": -7.1875696,
+    "horizontal_speed": 0.6698580518452066,
+    "vertical_speed": -0.2423322143396975
+  },
+  {
+    "pass_at": 1747534041,
+    "coord": [139.3754394, 36.801815],
+    "altitude": 2385.153459,
+    "time_from_previous": 34.060978,
+    "distance_from_previous": 19.9199131,
+    "elevation_from_previous": -6.2268174,
+    "horizontal_speed": 0.5848309200047045,
+    "vertical_speed": -0.1828138170313254
+  },
+  {
+    "pass_at": 1747534080,
+    "coord": [139.375314, 36.8019632],
+    "altitude": 2379.1309248,
+    "time_from_previous": 38.310182,
+    "distance_from_previous": 19.8922392,
+    "elevation_from_previous": -6.0225342,
+    "horizontal_speed": 0.519241573950236,
+    "vertical_speed": -0.1572045311609326
+  },
+  {
+    "pass_at": 1747534116,
+    "coord": [139.3752518, 36.8021329],
+    "altitude": 2371.5941273,
+    "time_from_previous": 35.798703,
+    "distance_from_previous": 19.6379668,
+    "elevation_from_previous": -7.5367975,
+    "horizontal_speed": 0.5485664327000896,
+    "vertical_speed": -0.2105326972320757
+  },
+  {
+    "pass_at": 1747534154,
+    "coord": [139.3752482, 36.8023123],
+    "altitude": 2363.0192986,
+    "time_from_previous": 38.823374,
+    "distance_from_previous": 19.9067408,
+    "elevation_from_previous": -8.5748287,
+    "horizontal_speed": 0.5127514368019637,
+    "vertical_speed": -0.2208676839885168
+  },
+  {
+    "pass_at": 1747534190,
+    "coord": [139.3752246, 36.8024892],
+    "altitude": 2355.3930063,
+    "time_from_previous": 35.74601,
+    "distance_from_previous": 19.749389,
+    "elevation_from_previous": -7.6262922,
+    "horizontal_speed": 0.5524921242958305,
+    "vertical_speed": -0.2133466700199547
+  },
+  {
+    "pass_at": 1747534218,
+    "coord": [139.375126, 36.8026473],
+    "altitude": 2349.1272773,
+    "time_from_previous": 27.730374,
+    "distance_from_previous": 19.6258502,
+    "elevation_from_previous": -6.2657291,
+    "horizontal_speed": 0.7077383882381102,
+    "vertical_speed": -0.225951842553584
+  },
+  {
+    "pass_at": 1747534245,
+    "coord": [139.3749851, 36.8027873],
+    "altitude": 2343.3186819,
+    "time_from_previous": 27.599797,
+    "distance_from_previous": 19.9840056,
+    "elevation_from_previous": -5.8085953,
+    "horizontal_speed": 0.7240634994525503,
+    "vertical_speed": -0.2104578993823759
+  },
+  {
+    "pass_at": 1747534278,
+    "coord": [139.3748104, 36.8028936],
+    "altitude": 2339.6121923,
+    "time_from_previous": 32.261459,
+    "distance_from_previous": 19.552814,
+    "elevation_from_previous": -3.7064897,
+    "horizontal_speed": 0.6060734574961412,
+    "vertical_speed": -0.1148890910358394
+  },
+  {
+    "pass_at": 1747534314,
+    "coord": [139.3746304, 36.8029946],
+    "altitude": 2336.3838012,
+    "time_from_previous": 36.335299,
+    "distance_from_previous": 19.5865032,
+    "elevation_from_previous": -3.228391,
+    "horizontal_speed": 0.5390489066843788,
+    "vertical_speed": -0.08884999129909457
+  },
+  {
+    "pass_at": 1747534348,
+    "coord": [139.3744534, 36.8030949],
+    "altitude": 2333.116758,
+    "time_from_previous": 33.486699,
+    "distance_from_previous": 19.3264277,
+    "elevation_from_previous": -3.2670432,
+    "horizontal_speed": 0.5771374389574798,
+    "vertical_speed": -0.09756241425886737
+  },
+  {
+    "pass_at": 1747534387,
+    "coord": [139.3742677, 36.8031841],
+    "altitude": 2329.7248076,
+    "time_from_previous": 39.23757,
+    "distance_from_previous": 19.3032485,
+    "elevation_from_previous": -3.3919504,
+    "horizontal_speed": 0.491958306796267,
+    "vertical_speed": -0.08644649503014586
+  },
+  {
+    "pass_at": 1747534464,
+    "coord": [139.3741725, 36.8033378],
+    "altitude": 2320.8569051,
+    "time_from_previous": 77.08077,
+    "distance_from_previous": 19.0543711,
+    "elevation_from_previous": -8.8679025,
+    "horizontal_speed": 0.2472000617015113,
+    "vertical_speed": -0.1150468852347998
+  },
+  {
+    "pass_at": 1747534558,
+    "coord": [139.3741806, 36.8035154],
+    "altitude": 2309.7128945,
+    "time_from_previous": 94.198942,
+    "distance_from_previous": 19.7213582,
+    "elevation_from_previous": -11.1440106,
+    "horizontal_speed": 0.2093585955562006,
+    "vertical_speed": -0.1183029274362763
+  },
+  {
+    "pass_at": 1747534624,
+    "coord": [139.3742607, 36.8036812],
+    "altitude": 2296.2718918,
+    "time_from_previous": 66.208657,
+    "distance_from_previous": 19.7326119,
+    "elevation_from_previous": -13.4410027,
+    "horizontal_speed": 0.2980367340784453,
+    "vertical_speed": -0.2030097468975998
+  },
+  {
+    "pass_at": 1747534664,
+    "coord": [139.3744055, 36.8038147],
+    "altitude": 2283.5229397,
+    "time_from_previous": 39.250565,
+    "distance_from_previous": 19.6578805,
+    "elevation_from_previous": -12.7489521,
+    "horizontal_speed": 0.5008305103378766,
+    "vertical_speed": -0.3248093906418927
+  },
+  {
+    "pass_at": 1747534682,
+    "coord": [139.3746019, 36.8038926],
+    "altitude": 2278.5269891,
+    "time_from_previous": 18.861175,
+    "distance_from_previous": 19.5489114,
+    "elevation_from_previous": -4.9959505,
+    "horizontal_speed": 1.036463072952772,
+    "vertical_speed": -0.2648801307447707
+  },
+  {
+    "pass_at": 1747534701,
+    "coord": [139.3748241, 36.8039076],
+    "altitude": 2274.5504429,
+    "time_from_previous": 18.912622,
+    "distance_from_previous": 19.8939882,
+    "elevation_from_previous": -3.9765462,
+    "horizontal_speed": 1.051889484176229,
+    "vertical_speed": -0.2102588525271641
+  },
+  {
+    "pass_at": 1747534717,
+    "coord": [139.3750473, 36.8038985],
+    "altitude": 2269.1635688,
+    "time_from_previous": 15.97816,
+    "distance_from_previous": 19.9476374,
+    "elevation_from_previous": -5.3868741,
+    "horizontal_speed": 1.248431446424369,
+    "vertical_speed": -0.3371398271140106
+  },
+  {
+    "pass_at": 1747534734,
+    "coord": [139.3752706, 36.8039126],
+    "altitude": 2264.3619744,
+    "time_from_previous": 16.593149,
+    "distance_from_previous": 19.9869884,
+    "elevation_from_previous": -4.8015944,
+    "horizontal_speed": 1.204532569435735,
+    "vertical_speed": -0.2893721017029378
+  },
+  {
+    "pass_at": 1747534754,
+    "coord": [139.3754947, 36.803911],
+    "altitude": 2259.5838951,
+    "time_from_previous": 20.564998,
+    "distance_from_previous": 19.9979769,
+    "elevation_from_previous": -4.7780792,
+    "horizontal_speed": 0.972427855329721,
+    "vertical_speed": -0.2323403678424865
+  },
+  {
+    "pass_at": 1747534770,
+    "coord": [139.3757184, 36.8039189],
+    "altitude": 2259.311139,
+    "time_from_previous": 15.526035,
+    "distance_from_previous": 19.979865,
+    "elevation_from_previous": -0.2727561,
+    "horizontal_speed": 1.286862035284604,
+    "vertical_speed": -0.01756765974055836
+  },
+  {
+    "pass_at": 1747534796,
+    "coord": [139.3759345, 36.8039646],
+    "altitude": 2258.9717489,
+    "time_from_previous": 26.289977,
+    "distance_from_previous": 19.9366296,
+    "elevation_from_previous": -0.3393901,
+    "horizontal_speed": 0.7583357566269456,
+    "vertical_speed": -0.01290948637954305
+  },
+  {
+    "pass_at": 1747534857,
+    "coord": [139.3761555, 36.8039358],
+    "altitude": 2258.9627552,
+    "time_from_previous": 61.087167,
+    "distance_from_previous": 19.9849455,
+    "elevation_from_previous": -0.0089937,
+    "horizontal_speed": 0.327154564231142,
+    "vertical_speed": -0.0001472273219021599
+  },
+  {
+    "pass_at": 1747534891,
+    "coord": [139.3763452, 36.8038398],
+    "altitude": 2259.2072636,
+    "time_from_previous": 33.694187,
+    "distance_from_previous": 19.9997118,
+    "elevation_from_previous": 0.2445084,
+    "horizontal_speed": 0.5935656438304922,
+    "vertical_speed": 0.007256693862356732
+  },
+  {
+    "pass_at": 1747534914,
+    "coord": [139.3764991, 36.8037088],
+    "altitude": 2259.3649834,
+    "time_from_previous": 23.253949,
+    "distance_from_previous": 19.9999998,
+    "elevation_from_previous": 0.1577198,
+    "horizontal_speed": 0.8600689629103427,
+    "vertical_speed": 0.006782495308646286
+  },
+  {
+    "pass_at": 1747534956,
+    "coord": [139.3765252, 36.803531],
+    "altitude": 2259.5735888,
+    "time_from_previous": 42.096932,
+    "distance_from_previous": 19.8714193,
+    "elevation_from_previous": 0.2086054,
+    "horizontal_speed": 0.4720396084921343,
+    "vertical_speed": 0.004955358742057497
+  },
+  {
+    "pass_at": 1747534996,
+    "coord": [139.3767112, 36.8034483],
+    "altitude": 2261.5036256,
+    "time_from_previous": 39.730885,
+    "distance_from_previous": 18.9687597,
+    "elevation_from_previous": 1.9300368,
+    "horizontal_speed": 0.4774310891891786,
+    "vertical_speed": 0.04857774499611574
+  },
+  {
+    "pass_at": 1747535044,
+    "coord": [139.376927, 36.8034004],
+    "altitude": 2266.0384703,
+    "time_from_previous": 48.393666,
+    "distance_from_previous": 19.9743824,
+    "elevation_from_previous": 4.5348446,
+    "horizontal_speed": 0.4127478666319679,
+    "vertical_speed": 0.09370739964192833
+  },
+  {
+    "pass_at": 1747535081,
+    "coord": [139.3769892, 36.8032425],
+    "altitude": 2268.4365221,
+    "time_from_previous": 36.144299,
+    "distance_from_previous": 18.3798768,
+    "elevation_from_previous": 2.3980518,
+    "horizontal_speed": 0.5085138544255625,
+    "vertical_speed": 0.06634661250450591
+  },
+  {
+    "pass_at": 1747535109,
+    "coord": [139.3771708, 36.8031604],
+    "altitude": 2272.267039,
+    "time_from_previous": 28.188469,
+    "distance_from_previous": 18.5985994,
+    "elevation_from_previous": 3.8305169,
+    "horizontal_speed": 0.659794591895005,
+    "vertical_speed": 0.1358894979361951
+  },
+  {
+    "pass_at": 1747535133,
+    "coord": [139.3773654, 36.8030719],
+    "altitude": 2275.5867953,
+    "time_from_previous": 24.289656,
+    "distance_from_previous": 19.9455167,
+    "elevation_from_previous": 3.3197563,
+    "horizontal_speed": 0.8211527038505608,
+    "vertical_speed": 0.1366736647073141
+  },
+  {
+    "pass_at": 1747535161,
+    "coord": [139.3775698, 36.8029991],
+    "altitude": 2276.6103117,
+    "time_from_previous": 27.503357,
+    "distance_from_previous": 19.9531901,
+    "elevation_from_previous": 1.0235164,
+    "horizontal_speed": 0.7254819875261045,
+    "vertical_speed": 0.03721423533861703
+  },
+  {
+    "pass_at": 1747535208,
+    "coord": [139.3777636, 36.8029096],
+    "altitude": 2276.8287353,
+    "time_from_previous": 47.310395,
+    "distance_from_previous": 19.9440772,
+    "elevation_from_previous": 0.2184236,
+    "horizontal_speed": 0.4215580360299253,
+    "vertical_speed": 0.00461682046831357
+  },
+  {
+    "pass_at": 1747535234,
+    "coord": [139.3779728, 36.8028489],
+    "altitude": 2277.2383458,
+    "time_from_previous": 25.749627,
+    "distance_from_previous": 19.8491363,
+    "elevation_from_previous": 0.4096105,
+    "horizontal_speed": 0.7708514107796591,
+    "vertical_speed": 0.01590743430963097
+  },
+  {
+    "pass_at": 1747535252,
+    "coord": [139.3781832, 36.8027872],
+    "altitude": 2277.811852,
+    "time_from_previous": 18.315909,
+    "distance_from_previous": 19.9814326,
+    "elevation_from_previous": 0.5735062,
+    "horizontal_speed": 1.090933166352814,
+    "vertical_speed": 0.03131191577769905
+  },
+  {
+    "pass_at": 1747535276,
+    "coord": [139.3783639, 36.8026847],
+    "altitude": 2277.0479499,
+    "time_from_previous": 24.187088,
+    "distance_from_previous": 19.7336665,
+    "elevation_from_previous": -0.7639021,
+    "horizontal_speed": 0.8158760781785721,
+    "vertical_speed": -0.03158305373511686
+  },
+  {
+    "pass_at": 1747535366,
+    "coord": [139.3785607, 36.8026048],
+    "altitude": 2273.6192024,
+    "time_from_previous": 89.500118,
+    "distance_from_previous": 19.6731312,
+    "elevation_from_previous": -3.4287475,
+    "horizontal_speed": 0.2198112319807221,
+    "vertical_speed": -0.03830997742371692
+  },
+  {
+    "pass_at": 1747535486,
+    "coord": [139.378772, 36.8025447],
+    "altitude": 2270.0574868,
+    "time_from_previous": 120.494922,
+    "distance_from_previous": 19.9999985,
+    "elevation_from_previous": -3.5617156,
+    "horizontal_speed": 0.1659820859504768,
+    "vertical_speed": -0.02955905145944656
+  },
+  {
+    "pass_at": 1747535595,
+    "coord": [139.3789827, 36.8024835],
+    "altitude": 2265.3337571,
+    "time_from_previous": 108.80552,
+    "distance_from_previous": 19.9973595,
+    "elevation_from_previous": -4.7237297,
+    "horizontal_speed": 0.183789935473862,
+    "vertical_speed": -0.04341443062815195
+  },
+  {
+    "pass_at": 1747535612,
+    "coord": [139.3791906, 36.8024163],
+    "altitude": 2260.6183787,
+    "time_from_previous": 17.389155,
+    "distance_from_previous": 19.9897203,
+    "elevation_from_previous": -4.7153784,
+    "horizontal_speed": 1.149550987382653,
+    "vertical_speed": -0.2711677709468919
+  },
+  {
+    "pass_at": 1747535631,
+    "coord": [139.3794061, 36.8023671],
+    "altitude": 2254.7129917,
+    "time_from_previous": 18.431239,
+    "distance_from_previous": 19.996827,
+    "elevation_from_previous": -5.9053869,
+    "horizontal_speed": 1.084942092064456,
+    "vertical_speed": -0.320400972501089
+  },
+  {
+    "pass_at": 1747535705,
+    "coord": [139.3796135, 36.8022987],
+    "altitude": 2252.4105999,
+    "time_from_previous": 73.705281,
+    "distance_from_previous": 19.9999998,
+    "elevation_from_previous": -2.3023918,
+    "horizontal_speed": 0.2713509741588259,
+    "vertical_speed": -0.03123781320364276
+  },
+  {
+    "pass_at": 1747535752,
+    "coord": [139.3798348, 36.8023187],
+    "altitude": 2241.1577255,
+    "time_from_previous": 47.563617,
+    "distance_from_previous": 19.8777707,
+    "elevation_from_previous": -11.2528744,
+    "horizontal_speed": 0.4179196611561312,
+    "vertical_speed": -0.2365857583959605
+  },
+  {
+    "pass_at": 1747535800,
+    "coord": [139.3800383, 36.802393],
+    "altitude": 2231.4327899,
+    "time_from_previous": 48.375989,
+    "distance_from_previous": 19.9434388,
+    "elevation_from_previous": -9.7249356,
+    "horizontal_speed": 0.4122590403268034,
+    "vertical_speed": -0.2010281505562605
+  },
+  {
+    "pass_at": 1747535865,
+    "coord": [139.3802596, 36.8024144],
+    "altitude": 2222.4928447,
+    "time_from_previous": 64.839876,
+    "distance_from_previous": 19.891253,
+    "elevation_from_previous": -8.9399452,
+    "horizontal_speed": 0.3067750006184465,
+    "vertical_speed": -0.1378772716962013
+  },
+  {
+    "pass_at": 1747535929,
+    "coord": [139.3804831, 36.8024278],
+    "altitude": 2211.9971938,
+    "time_from_previous": 63.327026,
+    "distance_from_previous": 19.9998387,
+    "elevation_from_previous": -10.4956509,
+    "horizontal_speed": 0.3158183790282525,
+    "vertical_speed": -0.1657373093756211
+  },
+  {
+    "pass_at": 1747536001,
+    "coord": [139.3807025, 36.8024635],
+    "altitude": 2202.7733352,
+    "time_from_previous": 72.293915,
+    "distance_from_previous": 19.9788939,
+    "elevation_from_previous": -9.2238586,
+    "horizontal_speed": 0.2763565080131571,
+    "vertical_speed": -0.1275883122390038
+  },
+  {
+    "pass_at": 1747536047,
+    "coord": [139.3808907, 36.8025582],
+    "altitude": 2194.2505529,
+    "time_from_previous": 45.789299,
+    "distance_from_previous": 19.8147119,
+    "elevation_from_previous": -8.5227823,
+    "horizontal_speed": 0.4327367383370512,
+    "vertical_speed": -0.1861304384677302
+  },
+  {
+    "pass_at": 1747536080,
+    "coord": [139.3810876, 36.8025093],
+    "altitude": 2190.0340077,
+    "time_from_previous": 33.390785,
+    "distance_from_previous": 18.3874692,
+    "elevation_from_previous": -4.2165452,
+    "horizontal_speed": 0.5506749601723949,
+    "vertical_speed": -0.1262787083322539
+  },
+  {
+    "pass_at": 1747536122,
+    "coord": [139.3812742, 36.8025728],
+    "altitude": 2187.6085859,
+    "time_from_previous": 42.146795,
+    "distance_from_previous": 18.0851798,
+    "elevation_from_previous": -2.4254218,
+    "horizontal_speed": 0.4290997642881268,
+    "vertical_speed": -0.05754700446380324
+  },
+  {
+    "pass_at": 1747536149,
+    "coord": [139.3814569, 36.8026772],
+    "altitude": 2185.3569895,
+    "time_from_previous": 27.032521,
+    "distance_from_previous": 19.9999803,
+    "elevation_from_previous": -2.2515964,
+    "horizontal_speed": 0.7398488768398627,
+    "vertical_speed": -0.0832921354245873
+  },
+  {
+    "pass_at": 1747536174,
+    "coord": [139.3816632, 36.8027403],
+    "altitude": 2184.1641881,
+    "time_from_previous": 24.799961,
+    "distance_from_previous": 19.7009612,
+    "elevation_from_previous": -1.1928015,
+    "horizontal_speed": 0.794394846024153,
+    "vertical_speed": -0.04809691031368961
+  },
+  {
+    "pass_at": 1747536198,
+    "coord": [139.3818769, 36.8027161],
+    "altitude": 2181.751226,
+    "time_from_previous": 23.792776,
+    "distance_from_previous": 19.2538965,
+    "elevation_from_previous": -2.4129621,
+    "horizontal_speed": 0.8092328738773483,
+    "vertical_speed": -0.1014157448462508
+  },
+  {
+    "pass_at": 1747536235,
+    "coord": [139.3820888, 36.802732],
+    "altitude": 2181.4616598,
+    "time_from_previous": 36.725669,
+    "distance_from_previous": 18.989774,
+    "elevation_from_previous": -0.2895662,
+    "horizontal_speed": 0.5170708803153456,
+    "vertical_speed": -0.007884572504315714
+  },
+  {
+    "pass_at": 1747536315,
+    "coord": [139.3821537, 36.8029367],
+    "altitude": 2195.2786094,
+    "time_from_previous": 80.420737,
+    "distance_from_previous": 23.4434366,
+    "elevation_from_previous": 13.8169497,
+    "horizontal_speed": 0.2915098452778417,
+    "vertical_speed": 0.1718082949177648
+  },
+  {
+    "pass_at": 1747537277,
+    "coord": [139.3820073, 36.8038572],
+    "altitude": 2255.8302092,
+    "time_from_previous": 0,
+    "distance_from_previous": 102.9854818,
+    "elevation_from_previous": 60.5515998,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747537343,
+    "coord": [139.382015, 36.8040374],
+    "altitude": 2263.805735,
+    "time_from_previous": 66.400827,
+    "distance_from_previous": 20,
+    "elevation_from_previous": 7.9755258,
+    "horizontal_speed": 0.301201067872242,
+    "vertical_speed": 0.1201118443901309
+  },
+  {
+    "pass_at": 1747537403,
+    "coord": [139.3820714, 36.8042115],
+    "altitude": 2272.3625897,
+    "time_from_previous": 59.29534,
+    "distance_from_previous": 19.9723475,
+    "elevation_from_previous": 8.5568548,
+    "horizontal_speed": 0.3368282819526796,
+    "vertical_speed": 0.1443090603747276
+  },
+  {
+    "pass_at": 1747537433,
+    "coord": [139.3821866, 36.8043656],
+    "altitude": 2280.003656,
+    "time_from_previous": 30.689213,
+    "distance_from_previous": 19.9555874,
+    "elevation_from_previous": 7.6410663,
+    "horizontal_speed": 0.6502476098034837,
+    "vertical_speed": 0.248982152132738
+  },
+  {
+    "pass_at": 1747537673,
+    "coord": [139.3822104, 36.8045428],
+    "altitude": 2278.6920907,
+    "time_from_previous": 239.706195,
+    "distance_from_previous": 19.7775129,
+    "elevation_from_previous": -1.3115653,
+    "horizontal_speed": 0.08250730816531462,
+    "vertical_speed": -0.005471553624219016
+  },
+  {
+    "pass_at": 1747537714,
+    "coord": [139.3822625, 36.8047156],
+    "altitude": 2283.4614366,
+    "time_from_previous": 41.150389,
+    "distance_from_previous": 19.725411,
+    "elevation_from_previous": 4.769346,
+    "horizontal_speed": 0.4793493203672996,
+    "vertical_speed": 0.1159003867496854
+  },
+  {
+    "pass_at": 1747537751,
+    "coord": [139.382377, 36.8048704],
+    "altitude": 2292.0752791,
+    "time_from_previous": 36.92948,
+    "distance_from_previous": 19.9926855,
+    "elevation_from_previous": 8.6138425,
+    "horizontal_speed": 0.5413746822321897,
+    "vertical_speed": 0.2332511180769402
+  },
+  {
+    "pass_at": 1747537825,
+    "coord": [139.3824975, 36.8050222],
+    "altitude": 2300.6997101,
+    "time_from_previous": 73.965655,
+    "distance_from_previous": 19.9878397,
+    "elevation_from_previous": 8.624431,
+    "horizontal_speed": 0.2702313621098874,
+    "vertical_speed": 0.1166004816694992
+  },
+  {
+    "pass_at": 1747537986,
+    "coord": [139.3826043, 36.8051807],
+    "altitude": 2306.6525842,
+    "time_from_previous": 161.154059,
+    "distance_from_previous": 19.9994624,
+    "elevation_from_previous": 5.9528741,
+    "horizontal_speed": 0.1241015120816783,
+    "vertical_speed": 0.03693902677313266
+  },
+  {
+    "pass_at": 1747538246,
+    "coord": [139.382751, 36.8053129],
+    "altitude": 2311.3734963,
+    "time_from_previous": 259.254011,
+    "distance_from_previous": 19.6656562,
+    "elevation_from_previous": 4.720912,
+    "horizontal_speed": 0.07585478089285956,
+    "vertical_speed": 0.01820960062214814
+  },
+  {
+    "pass_at": 1747538299,
+    "coord": [139.3829437, 36.8054015],
+    "altitude": 2316.5259703,
+    "time_from_previous": 53.621947,
+    "distance_from_previous": 19.8049876,
+    "elevation_from_previous": 5.1524741,
+    "horizontal_speed": 0.3693448057751428,
+    "vertical_speed": 0.09608890367222213
+  },
+  {
+    "pass_at": 1747538345,
+    "coord": [139.3831332, 36.8054955],
+    "altitude": 2321.6046722,
+    "time_from_previous": 46.330737,
+    "distance_from_previous": 19.8744519,
+    "elevation_from_previous": 5.0787019,
+    "horizontal_speed": 0.4289690427329054,
+    "vertical_speed": 0.1096184137973027
+  },
+  {
+    "pass_at": 1747538392,
+    "coord": [139.3833222, 36.8055917],
+    "altitude": 2326.844755,
+    "time_from_previous": 46.565103,
+    "distance_from_previous": 19.9579409,
+    "elevation_from_previous": 5.2400828,
+    "horizontal_speed": 0.4286029583140834,
+    "vertical_speed": 0.1125324000679221
+  },
+  {
+    "pass_at": 1747538454,
+    "coord": [139.3835347, 36.8056326],
+    "altitude": 2332.4647477,
+    "time_from_previous": 61.86406,
+    "distance_from_previous": 19.4980297,
+    "elevation_from_previous": 5.6199926,
+    "horizontal_speed": 0.3151753974763376,
+    "vertical_speed": 0.09084422522543784
+  },
+  {
+    "pass_at": 1747538570,
+    "coord": [139.3837547, 36.8056106],
+    "altitude": 2336.0034857,
+    "time_from_previous": 116.108446,
+    "distance_from_previous": 19.7825419,
+    "elevation_from_previous": 3.538738,
+    "horizontal_speed": 0.1703798696952675,
+    "vertical_speed": 0.03047786893987023
+  },
+  {
+    "pass_at": 1747538705,
+    "coord": [139.383975, 36.8055798],
+    "altitude": 2337.8205964,
+    "time_from_previous": 134.701223,
+    "distance_from_previous": 19.9587479,
+    "elevation_from_previous": 1.8171108,
+    "horizontal_speed": 0.1481705025053855,
+    "vertical_speed": 0.01348993542545638
+  },
+  {
+    "pass_at": 1747538811,
+    "coord": [139.384197, 36.8055554],
+    "altitude": 2340.0970489,
+    "time_from_previous": 105.812994,
+    "distance_from_previous": 19.9973889,
+    "elevation_from_previous": 2.2764525,
+    "horizontal_speed": 0.1889880263665916,
+    "vertical_speed": 0.02151392200470199
+  },
+  {
+    "pass_at": 1747539008,
+    "coord": [139.3844199, 36.8055407],
+    "altitude": 2343.6591444,
+    "time_from_previous": 197.288517,
+    "distance_from_previous": 19.9533234,
+    "elevation_from_previous": 3.5620955,
+    "horizontal_speed": 0.1011377839086296,
+    "vertical_speed": 0.01805526015485229
+  },
+  {
+    "pass_at": 1747539218,
+    "coord": [139.3846438, 36.8055444],
+    "altitude": 2347.3716712,
+    "time_from_previous": 210.428811,
+    "distance_from_previous": 19.9875988,
+    "elevation_from_previous": 3.7125268,
+    "horizontal_speed": 0.09498508642906318,
+    "vertical_speed": 0.01764267346451908
+  },
+  {
+    "pass_at": 1747539291,
+    "coord": [139.3848677, 36.8055526],
+    "altitude": 2350.349676,
+    "time_from_previous": 72.510274,
+    "distance_from_previous": 19.9983872,
+    "elevation_from_previous": 2.9780048,
+    "horizontal_speed": 0.2758007396303592,
+    "vertical_speed": 0.04107010821666458
+  },
+  {
+    "pass_at": 1747539326,
+    "coord": [139.3850842, 36.8055266],
+    "altitude": 2352.9262261,
+    "time_from_previous": 35.601186,
+    "distance_from_previous": 19.5327417,
+    "elevation_from_previous": 2.5765501,
+    "horizontal_speed": 0.5486542414626299,
+    "vertical_speed": 0.07237259174455593
+  },
+  {
+    "pass_at": 1747539367,
+    "coord": [139.3852876, 36.8054512],
+    "altitude": 2354.616315,
+    "time_from_previous": 40.605113,
+    "distance_from_previous": 19.9898681,
+    "elevation_from_previous": 1.6900889,
+    "horizontal_speed": 0.4922992850678681,
+    "vertical_speed": 0.04162256364118479
+  },
+  {
+    "pass_at": 1747539410,
+    "coord": [139.3854779, 36.8053578],
+    "altitude": 2356.1623386,
+    "time_from_previous": 43.204388,
+    "distance_from_previous": 19.8916826,
+    "elevation_from_previous": 1.5460236,
+    "horizontal_speed": 0.4604088501380924,
+    "vertical_speed": 0.03578394861188636
+  },
+  {
+    "pass_at": 1747539437,
+    "coord": [139.3856276, 36.8052278],
+    "altitude": 2356.1945357,
+    "time_from_previous": 26.585453,
+    "distance_from_previous": 19.6587962,
+    "elevation_from_previous": 0.0321971,
+    "horizontal_speed": 0.7394568826794112,
+    "vertical_speed": 0.001211079608084918
+  },
+  {
+    "pass_at": 1747539509,
+    "coord": [139.3857469, 36.8050781],
+    "altitude": 2354.9594268,
+    "time_from_previous": 72.300789,
+    "distance_from_previous": 19.7375337,
+    "elevation_from_previous": -1.2351089,
+    "horizontal_speed": 0.2729919544861399,
+    "vertical_speed": -0.01708292422645623
+  },
+  {
+    "pass_at": 1747539710,
+    "coord": [139.3859069, 36.8049525],
+    "altitude": 2353.7162898,
+    "time_from_previous": 200.551974,
+    "distance_from_previous": 19.9479399,
+    "elevation_from_previous": -1.243137,
+    "horizontal_speed": 0.0994651885101864,
+    "vertical_speed": -0.006198577731276781
+  },
+  {
+    "pass_at": 1747539878,
+    "coord": [139.3860531, 36.804816],
+    "altitude": 2352.2157816,
+    "time_from_previous": 168.05716,
+    "distance_from_previous": 19.9999994,
+    "elevation_from_previous": -1.5005082,
+    "horizontal_speed": 0.1190071247187564,
+    "vertical_speed": -0.008928558592802591
+  },
+  {
+    "pass_at": 1747539960,
+    "coord": [139.3860444, 36.8048174],
+    "altitude": 2352.1670624,
+    "time_from_previous": 81.879525,
+    "distance_from_previous": 0.7977437,
+    "elevation_from_previous": -0.0487192,
+    "horizontal_speed": 0.009742896041470684,
+    "vertical_speed": -0.0005950107795569161
+  },
+  {
+    "pass_at": 1747539961,
+    "coord": [139.3858903, 36.8049484],
+    "altitude": 2353.376229,
+    "time_from_previous": 1.090541,
+    "distance_from_previous": 19.9999984,
+    "elevation_from_previous": 1.2091666,
+    "horizontal_speed": 18.33951992634848,
+    "vertical_speed": 1.108776836450899
+  },
+  {
+    "pass_at": 1747539980,
+    "coord": [139.3859935, 36.8050026],
+    "altitude": 2355.7110993,
+    "time_from_previous": 18.915301,
+    "distance_from_previous": 10.9994149,
+    "elevation_from_previous": 2.3348703,
+    "horizontal_speed": 0.5815088483128025,
+    "vertical_speed": 0.1234381784355427
+  },
+  {
+    "pass_at": 1747540011,
+    "coord": [139.3862135, 36.8050355],
+    "altitude": 2358.9829075,
+    "time_from_previous": 31.39506,
+    "distance_from_previous": 19.9659479,
+    "elevation_from_previous": 3.2718081,
+    "horizontal_speed": 0.6359582654086343,
+    "vertical_speed": 0.1042141056586609
+  },
+  {
+    "pass_at": 1747540039,
+    "coord": [139.3864317, 36.8050233],
+    "altitude": 2361.0529223,
+    "time_from_previous": 28.534873,
+    "distance_from_previous": 19.5204334,
+    "elevation_from_previous": 2.0700148,
+    "horizontal_speed": 0.6840904250739087,
+    "vertical_speed": 0.0725433332049524
+  },
+  {
+    "pass_at": 1747540061,
+    "coord": [139.3866534, 36.8050026],
+    "altitude": 2361.8104225,
+    "time_from_previous": 21.883599,
+    "distance_from_previous": 19.9209707,
+    "elevation_from_previous": 0.7575003,
+    "horizontal_speed": 0.9103151040192247,
+    "vertical_speed": 0.03461497809386838
+  },
+  {
+    "pass_at": 1747540090,
+    "coord": [139.3868755, 36.8050177],
+    "altitude": 2363.0166125,
+    "time_from_previous": 28.379214,
+    "distance_from_previous": 19.8894162,
+    "elevation_from_previous": 1.20619,
+    "horizontal_speed": 0.700844505418649,
+    "vertical_speed": 0.04250258657621737
+  },
+  {
+    "pass_at": 1747540118,
+    "coord": [139.3870875, 36.8050725],
+    "altitude": 2362.8689168,
+    "time_from_previous": 28.321233,
+    "distance_from_previous": 19.8695979,
+    "elevation_from_previous": -0.1476957,
+    "horizontal_speed": 0.7015795498734112,
+    "vertical_speed": -0.005215016591968295
+  },
+  {
+    "pass_at": 1747540142,
+    "coord": [139.3872832, 36.8051591],
+    "altitude": 2363.0439176,
+    "time_from_previous": 24.23066,
+    "distance_from_previous": 19.9323723,
+    "elevation_from_previous": 0.1750008,
+    "horizontal_speed": 0.8226095492239996,
+    "vertical_speed": 0.007222287795710064
+  },
+  {
+    "pass_at": 1747540170,
+    "coord": [139.3874915, 36.8052139],
+    "altitude": 2364.6156713,
+    "time_from_previous": 27.199584,
+    "distance_from_previous": 19.562136,
+    "elevation_from_previous": 1.5717537,
+    "horizontal_speed": 0.7192071761097522,
+    "vertical_speed": 0.05778594628506083
+  },
+  {
+    "pass_at": 1747540207,
+    "coord": [139.3877126, 36.8052432],
+    "altitude": 2366.6441643,
+    "time_from_previous": 37.199947,
+    "distance_from_previous": 19.9965026,
+    "elevation_from_previous": 2.028493,
+    "horizontal_speed": 0.5375411583247686,
+    "vertical_speed": 0.05452945941025131
+  },
+  {
+    "pass_at": 1747540248,
+    "coord": [139.3879259, 36.805223],
+    "altitude": 2369.1623612,
+    "time_from_previous": 41.668816,
+    "distance_from_previous": 19.164428,
+    "elevation_from_previous": 2.5181968,
+    "horizontal_speed": 0.4599225473553172,
+    "vertical_speed": 0.06043360579287878
+  },
+  {
+    "pass_at": 1747540283,
+    "coord": [139.3881336, 36.8051553],
+    "altitude": 2371.8171546,
+    "time_from_previous": 34.757201,
+    "distance_from_previous": 19.9975038,
+    "elevation_from_previous": 2.6547934,
+    "horizontal_speed": 0.5753485097951356,
+    "vertical_speed": 0.07638110445084459
+  },
+  {
+    "pass_at": 1747540309,
+    "coord": [139.3882944, 36.8050474],
+    "altitude": 2373.8570402,
+    "time_from_previous": 25.36581,
+    "distance_from_previous": 18.6926637,
+    "elevation_from_previous": 2.0398856,
+    "horizontal_speed": 0.7369235873011744,
+    "vertical_speed": 0.08041870533604091
+  },
+  {
+    "pass_at": 1747540332,
+    "coord": [139.3884186, 36.8048997],
+    "altitude": 2375.4487188,
+    "time_from_previous": 23.866154,
+    "distance_from_previous": 19.7819836,
+    "elevation_from_previous": 1.5916786,
+    "horizontal_speed": 0.8288718659906409,
+    "vertical_speed": 0.06669187670539627
+  },
+  {
+    "pass_at": 1747540349,
+    "coord": [139.388512, 36.8048226],
+    "altitude": 2376.553586,
+    "time_from_previous": 16.629138,
+    "distance_from_previous": 11.9425799,
+    "elevation_from_previous": 1.1048672,
+    "horizontal_speed": 0.718171916066846,
+    "vertical_speed": 0.06644163996955223
+  },
+  {
+    "pass_at": 1747541770,
+    "coord": [139.3885491, 36.8047989],
+    "altitude": 2375.9680563,
+    "time_from_previous": 0,
+    "distance_from_previous": 4.2246888,
+    "elevation_from_previous": -0.5855297,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747541802,
+    "coord": [139.3886425, 36.8049627],
+    "altitude": 2374.5549623,
+    "time_from_previous": 31.922501,
+    "distance_from_previous": 20.0000001,
+    "elevation_from_previous": -1.413094,
+    "horizontal_speed": 0.6265173302054248,
+    "vertical_speed": -0.04426639378913325
+  },
+  {
+    "pass_at": 1747541820,
+    "coord": [139.3887129, 36.8051338],
+    "altitude": 2372.2394831,
+    "time_from_previous": 18.256062,
+    "distance_from_previous": 19.9957135,
+    "elevation_from_previous": -2.3154792,
+    "horizontal_speed": 1.095291717348462,
+    "vertical_speed": -0.1268334430503139
+  },
+  {
+    "pass_at": 1747541836,
+    "coord": [139.3888098, 36.8052962],
+    "altitude": 2368.676342,
+    "time_from_previous": 15.983619,
+    "distance_from_previous": 19.9915561,
+    "elevation_from_previous": -3.563141,
+    "horizontal_speed": 1.250752792593467,
+    "vertical_speed": -0.2229245454361744
+  },
+  {
+    "pass_at": 1747541854,
+    "coord": [139.3889039, 36.8054598],
+    "altitude": 2365.4999451,
+    "time_from_previous": 17.431887,
+    "distance_from_previous": 19.9997668,
+    "elevation_from_previous": -3.1763969,
+    "horizontal_speed": 1.147309341782677,
+    "vertical_speed": -0.182217616486385
+  },
+  {
+    "pass_at": 1747541871,
+    "coord": [139.3890436, 36.8055996],
+    "altitude": 2363.1996029,
+    "time_from_previous": 17.815627,
+    "distance_from_previous": 19.9055393,
+    "elevation_from_previous": -2.3003422,
+    "horizontal_speed": 1.117307816334502,
+    "vertical_speed": -0.129119351230243
+  },
+  {
+    "pass_at": 1747541894,
+    "coord": [139.3890932, 36.8057701],
+    "altitude": 2360.7948321,
+    "time_from_previous": 22.558364,
+    "distance_from_previous": 19.4243688,
+    "elevation_from_previous": -2.4047708,
+    "horizontal_speed": 0.8610716982845033,
+    "vertical_speed": -0.106602180902835
+  },
+  {
+    "pass_at": 1747541924,
+    "coord": [139.3891512, 36.8059436],
+    "altitude": 2355.3363025,
+    "time_from_previous": 29.888981,
+    "distance_from_previous": 19.9387959,
+    "elevation_from_previous": -5.4585296,
+    "horizontal_speed": 0.6670952047512091,
+    "vertical_speed": -0.1826268215701298
+  },
+  {
+    "pass_at": 1747541952,
+    "coord": [139.3891757, 36.8061215],
+    "altitude": 2347.7519489,
+    "time_from_previous": 28.047255,
+    "distance_from_previous": 19.870799,
+    "elevation_from_previous": -7.5843535,
+    "horizontal_speed": 0.7084757135769615,
+    "vertical_speed": -0.2704133969616634
+  },
+  {
+    "pass_at": 1747541974,
+    "coord": [139.3891751, 36.8063017],
+    "altitude": 2340.5645086,
+    "time_from_previous": 21.811295,
+    "distance_from_previous": 19.9923511,
+    "elevation_from_previous": -7.1874404,
+    "horizontal_speed": 0.9166054147633141,
+    "vertical_speed": -0.3295283659223351
+  },
+  {
+    "pass_at": 1747541995,
+    "coord": [139.3892436, 36.8064684],
+    "altitude": 2333.9137405,
+    "time_from_previous": 21.428452,
+    "distance_from_previous": 19.4834026,
+    "elevation_from_previous": -6.6507681,
+    "horizontal_speed": 0.9092305221114433,
+    "vertical_speed": -0.3103709078005261
+  },
+  {
+    "pass_at": 1747542020,
+    "coord": [139.389351, 36.8066265],
+    "altitude": 2327.369307,
+    "time_from_previous": 24.509391,
+    "distance_from_previous": 19.9957577,
+    "elevation_from_previous": -6.5444335,
+    "horizontal_speed": 0.8158406587907467,
+    "vertical_speed": -0.2670173852952936
+  },
+  {
+    "pass_at": 1747542051,
+    "coord": [139.3894926, 36.8067642],
+    "altitude": 2320.8429305,
+    "time_from_previous": 31.627549,
+    "distance_from_previous": 19.8256981,
+    "elevation_from_previous": -6.5263764,
+    "horizontal_speed": 0.6268490201374758,
+    "vertical_speed": -0.2063510011477652
+  },
+  {
+    "pass_at": 1747542085,
+    "coord": [139.389662, 36.8068818],
+    "altitude": 2314.3879126,
+    "time_from_previous": 33.670679,
+    "distance_from_previous": 19.9730366,
+    "elevation_from_previous": -6.4550179,
+    "horizontal_speed": 0.5931878178043276,
+    "vertical_speed": -0.1917103572517798
+  },
+  {
+    "pass_at": 1747542111,
+    "coord": [139.3898086, 36.8070157],
+    "altitude": 2309.1890878,
+    "time_from_previous": 25.557822,
+    "distance_from_previous": 19.7970812,
+    "elevation_from_previous": -5.1988248,
+    "horizontal_speed": 0.7745996978928799,
+    "vertical_speed": -0.2034142345932294
+  },
+  {
+    "pass_at": 1747542162,
+    "coord": [139.3899238, 36.80717],
+    "altitude": 2303.071278,
+    "time_from_previous": 51.263826,
+    "distance_from_previous": 19.9701189,
+    "elevation_from_previous": -6.1178098,
+    "horizontal_speed": 0.3895557639416145,
+    "vertical_speed": -0.1193397035952798
+  },
+  {
+    "pass_at": 1747542221,
+    "coord": [139.3900746, 36.8072956],
+    "altitude": 2296.3970648,
+    "time_from_previous": 58.884769,
+    "distance_from_previous": 19.3776294,
+    "elevation_from_previous": -6.6742132,
+    "horizontal_speed": 0.3290771065094948,
+    "vertical_speed": -0.1133436254118616
+  },
+  {
+    "pass_at": 1747542257,
+    "coord": [139.3902478, 36.8074079],
+    "altitude": 2293.0730761,
+    "time_from_previous": 36.189228,
+    "distance_from_previous": 19.8490317,
+    "elevation_from_previous": -3.3239887,
+    "horizontal_speed": 0.5484790031995156,
+    "vertical_speed": -0.0918502240500958
+  },
+  {
+    "pass_at": 1747542279,
+    "coord": [139.3904173, 36.8075207],
+    "altitude": 2294.4505586,
+    "time_from_previous": 22.196878,
+    "distance_from_previous": 19.6398293,
+    "elevation_from_previous": 1.3774825,
+    "horizontal_speed": 0.8848014256779714,
+    "vertical_speed": 0.06205748844499662
+  },
+  {
+    "pass_at": 1747542303,
+    "coord": [139.3906071, 36.8076112],
+    "altitude": 2298.3013321,
+    "time_from_previous": 24.106911,
+    "distance_from_previous": 19.6912737,
+    "elevation_from_previous": 3.8507735,
+    "horizontal_speed": 0.8168310614329641,
+    "vertical_speed": 0.1597373259477334
+  },
+  {
+    "pass_at": 1747542331,
+    "coord": [139.3907604, 36.8077426],
+    "altitude": 2299.9972953,
+    "time_from_previous": 28.06786,
+    "distance_from_previous": 19.9874836,
+    "elevation_from_previous": 1.6959632,
+    "horizontal_speed": 0.7121128436581913,
+    "vertical_speed": 0.0604236731977429
+  },
+  {
+    "pass_at": 1747542391,
+    "coord": [139.3909118, 36.8078749],
+    "altitude": 2298.9850417,
+    "time_from_previous": 60.017633,
+    "distance_from_previous": 19.9489151,
+    "elevation_from_previous": -1.0122536,
+    "horizontal_speed": 0.3323842361460673,
+    "vertical_speed": -0.01686593671563156
+  },
+  {
+    "pass_at": 1747542476,
+    "coord": [139.3910749, 36.8079979],
+    "altitude": 2298.1302579,
+    "time_from_previous": 84.798011,
+    "distance_from_previous": 19.9552844,
+    "elevation_from_previous": -0.8547838,
+    "horizontal_speed": 0.2353272696455109,
+    "vertical_speed": -0.0100802340753016
+  },
+  {
+    "pass_at": 1747542504,
+    "coord": [139.3912219, 36.8081339],
+    "altitude": 2299.0577446,
+    "time_from_previous": 28.12323,
+    "distance_from_previous": 19.9991054,
+    "elevation_from_previous": 0.9274867,
+    "horizontal_speed": 0.7111240565184014,
+    "vertical_speed": 0.03297938039122818
+  },
+  {
+    "pass_at": 1747542548,
+    "coord": [139.3913644, 36.8082724],
+    "altitude": 2300.6216997,
+    "time_from_previous": 43.345079,
+    "distance_from_previous": 19.9500957,
+    "elevation_from_previous": 1.5639551,
+    "horizontal_speed": 0.4602620680423722,
+    "vertical_speed": 0.03608149151141241
+  },
+  {
+    "pass_at": 1747542583,
+    "coord": [139.3915073, 36.8083988],
+    "altitude": 2298.9511558,
+    "time_from_previous": 35.360725,
+    "distance_from_previous": 18.9528326,
+    "elevation_from_previous": -1.6705438,
+    "horizontal_speed": 0.5359854075390139,
+    "vertical_speed": -0.047242917106479
+  },
+  {
+    "pass_at": 1747542624,
+    "coord": [139.3917036, 36.808465],
+    "altitude": 2292.6960476,
+    "time_from_previous": 41.246751,
+    "distance_from_previous": 18.9933242,
+    "elevation_from_previous": -6.2551083,
+    "horizontal_speed": 0.4604804921483391,
+    "vertical_speed": -0.1516509336699029
+  },
+  {
+    "pass_at": 1747542689,
+    "coord": [139.3918375, 36.8086069],
+    "altitude": 2282.372111,
+    "time_from_previous": 65.340205,
+    "distance_from_previous": 19.7665451,
+    "elevation_from_previous": -10.3239366,
+    "horizontal_speed": 0.3025173413520817,
+    "vertical_speed": -0.1580028192442922
+  },
+  {
+    "pass_at": 1747542746,
+    "coord": [139.3920253, 36.8087018],
+    "altitude": 2274.3120977,
+    "time_from_previous": 56.051461,
+    "distance_from_previous": 19.79941,
+    "elevation_from_previous": -8.0600133,
+    "horizontal_speed": 0.3532362876321815,
+    "vertical_speed": -0.1437966674945368
+  },
+  {
+    "pass_at": 1747542787,
+    "coord": [139.3922423, 36.8087469],
+    "altitude": 2269.8916848,
+    "time_from_previous": 41.567893,
+    "distance_from_previous": 19.9995811,
+    "elevation_from_previous": -4.420413,
+    "horizontal_speed": 0.4811304989646697,
+    "vertical_speed": -0.1063420029492474
+  },
+  {
+    "pass_at": 1747542819,
+    "coord": [139.3924551, 36.8088008],
+    "altitude": 2265.5597973,
+    "time_from_previous": 32.234334,
+    "distance_from_previous": 19.9077717,
+    "elevation_from_previous": -4.3318875,
+    "horizontal_speed": 0.6175952541783554,
+    "vertical_speed": -0.1343873740341587
+  },
+  {
+    "pass_at": 1747542861,
+    "coord": [139.3926435, 36.8088982],
+    "altitude": 2260.1823361,
+    "time_from_previous": 41.35111,
+    "distance_from_previous": 19.9869293,
+    "elevation_from_previous": -5.3774612,
+    "horizontal_speed": 0.4833468629983573,
+    "vertical_speed": -0.1300439383610259
+  },
+  {
+    "pass_at": 1747542891,
+    "coord": [139.3928175, 36.8090117],
+    "altitude": 2254.9900516,
+    "time_from_previous": 30.800203,
+    "distance_from_previous": 19.989561,
+    "elevation_from_previous": -5.1922845,
+    "horizontal_speed": 0.6490074432301631,
+    "vertical_speed": -0.1685795544918973
+  },
+  {
+    "pass_at": 1747542921,
+    "coord": [139.3930058, 36.8091075],
+    "altitude": 2249.0718975,
+    "time_from_previous": 29.448104,
+    "distance_from_previous": 19.8826533,
+    "elevation_from_previous": -5.9181541,
+    "horizontal_speed": 0.675176007935859,
+    "vertical_speed": -0.2009689350458692
+  },
+  {
+    "pass_at": 1747542964,
+    "coord": [139.3931149, 36.8092638],
+    "altitude": 2243.6579931,
+    "time_from_previous": 42.99127,
+    "distance_from_previous": 19.8910427,
+    "elevation_from_previous": -5.4139044,
+    "horizontal_speed": 0.4626763224254599,
+    "vertical_speed": -0.1259303202719994
+  },
+  {
+    "pass_at": 1747543004,
+    "coord": [139.3933255, 36.8093255],
+    "altitude": 2242.6198139,
+    "time_from_previous": 40.433135,
+    "distance_from_previous": 20,
+    "elevation_from_previous": -1.0381792,
+    "horizontal_speed": 0.4946438113196021,
+    "vertical_speed": -0.02567644581603678
+  },
+  {
+    "pass_at": 1747543065,
+    "coord": [139.3934854, 36.8094514],
+    "altitude": 2237.7810591,
+    "time_from_previous": 60.598458,
+    "distance_from_previous": 19.9699966,
+    "elevation_from_previous": -4.8387549,
+    "horizontal_speed": 0.3295462831744003,
+    "vertical_speed": -0.07984947240736719
+  },
+  {
+    "pass_at": 1747543098,
+    "coord": [139.3937015, 36.8094218],
+    "altitude": 2232.0078208,
+    "time_from_previous": 32.753899,
+    "distance_from_previous": 19.5602198,
+    "elevation_from_previous": -5.7732383,
+    "horizontal_speed": 0.5971875226213527,
+    "vertical_speed": -0.1762611010066313
+  },
+  {
+    "pass_at": 1747543131,
+    "coord": [139.3938693, 36.8093062],
+    "altitude": 2222.3742232,
+    "time_from_previous": 33.180802,
+    "distance_from_previous": 19.7151693,
+    "elevation_from_previous": -9.6335976,
+    "horizontal_speed": 0.5941739834980481,
+    "vertical_speed": -0.2903364903596966
+  },
+  {
+    "pass_at": 1747543172,
+    "coord": [139.3940831, 36.8093165],
+    "altitude": 2215.9309583,
+    "time_from_previous": 41.371258,
+    "distance_from_previous": 19.1099898,
+    "elevation_from_previous": -6.443265,
+    "horizontal_speed": 0.4619146413193431,
+    "vertical_speed": -0.1557425447396354
+  },
+  {
+    "pass_at": 1747543208,
+    "coord": [139.3942685, 36.8092296],
+    "altitude": 2208.961873,
+    "time_from_previous": 35.940175,
+    "distance_from_previous": 19.1465564,
+    "elevation_from_previous": -6.9690853,
+    "horizontal_speed": 0.5327340893582182,
+    "vertical_speed": -0.1939079400698522
+  },
+  {
+    "pass_at": 1747543243,
+    "coord": [139.3944756, 36.8091664],
+    "altitude": 2201.0280666,
+    "time_from_previous": 34.370258,
+    "distance_from_previous": 19.7656548,
+    "elevation_from_previous": -7.9338064,
+    "horizontal_speed": 0.5750801986997014,
+    "vertical_speed": -0.2308334839965414
+  },
+  {
+    "pass_at": 1747543279,
+    "coord": [139.3946731, 36.8090837],
+    "altitude": 2195.0334521,
+    "time_from_previous": 36.562911,
+    "distance_from_previous": 19.8714149,
+    "elevation_from_previous": -5.9946145,
+    "horizontal_speed": 0.5434855802373066,
+    "vertical_speed": -0.1639534253714098
+  },
+  {
+    "pass_at": 1747543311,
+    "coord": [139.3948731, 36.8090027],
+    "altitude": 2188.4176584,
+    "time_from_previous": 31.903234,
+    "distance_from_previous": 19.978215,
+    "elevation_from_previous": -6.6157937,
+    "horizontal_speed": 0.6262128472618167,
+    "vertical_speed": -0.2073706289462692
+  },
+  {
+    "pass_at": 1747543342,
+    "coord": [139.3950871, 36.8089517],
+    "altitude": 2182.2635721,
+    "time_from_previous": 30.508931,
+    "distance_from_previous": 19.9175389,
+    "elevation_from_previous": -6.1540864,
+    "horizontal_speed": 0.652842897052014,
+    "vertical_speed": -0.201714258687071
+  },
+  {
+    "pass_at": 1747543370,
+    "coord": [139.3953033, 36.8089043],
+    "altitude": 2174.6804549,
+    "time_from_previous": 28.215694,
+    "distance_from_previous": 19.9957953,
+    "elevation_from_previous": -7.5831172,
+    "horizontal_speed": 0.7086763593339225,
+    "vertical_speed": -0.2687552962546305
+  },
+  {
+    "pass_at": 1747543408,
+    "coord": [139.3955102, 36.8088363],
+    "altitude": 2165.3988491,
+    "time_from_previous": 38.55911,
+    "distance_from_previous": 19.9485286,
+    "elevation_from_previous": -9.2816057,
+    "horizontal_speed": 0.517349300852639,
+    "vertical_speed": -0.2407110978443227
+  },
+  {
+    "pass_at": 1747543443,
+    "coord": [139.3956989, 36.8087405],
+    "altitude": 2154.7181692,
+    "time_from_previous": 35.076838,
+    "distance_from_previous": 19.9166821,
+    "elevation_from_previous": -10.6806799,
+    "horizontal_speed": 0.5678015247554525,
+    "vertical_speed": -0.3044938058555905
+  },
+  {
+    "pass_at": 1747543472,
+    "coord": [139.3959069, 36.8086875],
+    "altitude": 2145.9727796,
+    "time_from_previous": 28.232428,
+    "distance_from_previous": 19.4624556,
+    "elevation_from_previous": -8.7453896,
+    "horizontal_speed": 0.6893652788205109,
+    "vertical_speed": -0.3097639919598839
+  },
+  {
+    "pass_at": 1747543503,
+    "coord": [139.3961265, 36.8086525],
+    "altitude": 2139.6134776,
+    "time_from_previous": 31.242133,
+    "distance_from_previous": 19.9827009,
+    "elevation_from_previous": -6.359302,
+    "horizontal_speed": 0.6396074461369203,
+    "vertical_speed": -0.2035489062158464
+  },
+  {
+    "pass_at": 1747543529,
+    "coord": [139.3963463, 36.8086584],
+    "altitude": 2134.9962977,
+    "time_from_previous": 25.830957,
+    "distance_from_previous": 19.6207414,
+    "elevation_from_previous": -4.6171799,
+    "horizontal_speed": 0.7595824421061906,
+    "vertical_speed": -0.1787459868405185
+  },
+  {
+    "pass_at": 1747543546,
+    "coord": [139.3965674, 36.8086876],
+    "altitude": 2130.8102957,
+    "time_from_previous": 17.606097,
+    "distance_from_previous": 19.9977317,
+    "elevation_from_previous": -4.186002,
+    "horizontal_speed": 1.135841277030338,
+    "vertical_speed": -0.2377586582648046
+  },
+  {
+    "pass_at": 1747543562,
+    "coord": [139.3967885, 36.8086864],
+    "altitude": 2126.3300234,
+    "time_from_previous": 15.617185,
+    "distance_from_previous": 19.7297515,
+    "elevation_from_previous": -4.4802724,
+    "horizontal_speed": 1.263335966116813,
+    "vertical_speed": -0.2868809199609276
+  },
+  {
+    "pass_at": 1747543581,
+    "coord": [139.3970026, 36.8086368],
+    "altitude": 2122.9405768,
+    "time_from_previous": 19.099452,
+    "distance_from_previous": 19.879807,
+    "elevation_from_previous": -3.3894465,
+    "horizontal_speed": 1.040857454967818,
+    "vertical_speed": -0.1774630235464348
+  },
+  {
+    "pass_at": 1747543608,
+    "coord": [139.397216, 36.8085869],
+    "altitude": 2118.4322743,
+    "time_from_previous": 26.946923,
+    "distance_from_previous": 19.835385,
+    "elevation_from_previous": -4.5083025,
+    "horizontal_speed": 0.7360909072995087,
+    "vertical_speed": -0.1673030534877767
+  },
+  {
+    "pass_at": 1747543641,
+    "coord": [139.3974294, 36.808605],
+    "altitude": 2111.4046986,
+    "time_from_previous": 33.084451,
+    "distance_from_previous": 19.1490636,
+    "elevation_from_previous": -7.0275757,
+    "horizontal_speed": 0.5787934519451449,
+    "vertical_speed": -0.2124132481448762
+  },
+  {
+    "pass_at": 1747543676,
+    "coord": [139.3976092, 36.8087066],
+    "altitude": 2102.7247506,
+    "time_from_previous": 35.210851,
+    "distance_from_previous": 19.6072627,
+    "elevation_from_previous": -8.679948,
+    "horizontal_speed": 0.5568528491401699,
+    "vertical_speed": -0.2465134398484149
+  },
+  {
+    "pass_at": 1747543815,
+    "coord": [139.3977704, 36.8088299],
+    "altitude": 2093.1347349,
+    "time_from_previous": 138.349266,
+    "distance_from_previous": 19.8479514,
+    "elevation_from_previous": -9.5900157,
+    "horizontal_speed": 0.1434626433074101,
+    "vertical_speed": -0.0693174310010434
+  },
+  {
+    "pass_at": 1747544032,
+    "coord": [139.3979695, 36.8088985],
+    "altitude": 2082.1544061,
+    "time_from_previous": 217.611593,
+    "distance_from_previous": 19.3360825,
+    "elevation_from_previous": -10.9803288,
+    "horizontal_speed": 0.08885593930650561,
+    "vertical_speed": -0.05045838159918254
+  },
+  {
+    "pass_at": 1747544087,
+    "coord": [139.3981923, 36.8088959],
+    "altitude": 2069.9739562,
+    "time_from_previous": 55.160867,
+    "distance_from_previous": 19.8833182,
+    "elevation_from_previous": -12.1804499,
+    "horizontal_speed": 0.3604605815931066,
+    "vertical_speed": -0.2208168682337788
+  },
+  {
+    "pass_at": 1747544126,
+    "coord": [139.3984082, 36.8088985],
+    "altitude": 2062.338412,
+    "time_from_previous": 38.612312,
+    "distance_from_previous": 19.2672323,
+    "elevation_from_previous": -7.6355442,
+    "horizontal_speed": 0.4989919355256426,
+    "vertical_speed": -0.1977489511635563
+  },
+  {
+    "pass_at": 1747544169,
+    "coord": [139.3986165, 36.8089387],
+    "altitude": 2056.287552,
+    "time_from_previous": 42.866091,
+    "distance_from_previous": 19.1102667,
+    "elevation_from_previous": -6.05086,
+    "horizontal_speed": 0.4458131416741499,
+    "vertical_speed": -0.1411572611087864
+  },
+  {
+    "pass_at": 1747544207,
+    "coord": [139.3988359, 36.8089029],
+    "altitude": 2047.2785424,
+    "time_from_previous": 38.143978,
+    "distance_from_previous": 19.9852976,
+    "elevation_from_previous": -9.0090096,
+    "horizontal_speed": 0.5239437166202224,
+    "vertical_speed": -0.2361843224636927
+  },
+  {
+    "pass_at": 1747544249,
+    "coord": [139.3990574, 36.8088752],
+    "altitude": 2038.8771697,
+    "time_from_previous": 41.840892,
+    "distance_from_previous": 19.9955944,
+    "elevation_from_previous": -8.4013727,
+    "horizontal_speed": 0.4778959874947217,
+    "vertical_speed": -0.200793345897119
+  },
+  {
+    "pass_at": 1747544282,
+    "coord": [139.399278, 36.8088438],
+    "altitude": 2030.1272998,
+    "time_from_previous": 33.656494,
+    "distance_from_previous": 19.9917438,
+    "elevation_from_previous": -8.74987,
+    "horizontal_speed": 0.5939936524582744,
+    "vertical_speed": -0.2599756825532689
+  },
+  {
+    "pass_at": 1747544300,
+    "coord": [139.3994976, 36.8088143],
+    "altitude": 2021.9824153,
+    "time_from_previous": 17.519118,
+    "distance_from_previous": 19.8726214,
+    "elevation_from_previous": -8.1448845,
+    "horizontal_speed": 1.134339148808747,
+    "vertical_speed": -0.4649140727290039
+  },
+  {
+    "pass_at": 1747544322,
+    "coord": [139.3997003, 36.8087374],
+    "altitude": 2015.3656861,
+    "time_from_previous": 21.884034,
+    "distance_from_previous": 19.997557,
+    "elevation_from_previous": -6.6167292,
+    "horizontal_speed": 0.9137966519335512,
+    "vertical_speed": -0.3023541820488855
+  },
+  {
+    "pass_at": 1747544357,
+    "coord": [139.3999001, 36.8086567],
+    "altitude": 2009.7743662,
+    "time_from_previous": 35.363167,
+    "distance_from_previous": 19.9552902,
+    "elevation_from_previous": -5.5913199,
+    "horizontal_speed": 0.5642959014389182,
+    "vertical_speed": -0.1581114016173948
+  },
+  {
+    "pass_at": 1747544371,
+    "coord": [139.4001167, 36.8086104],
+    "altitude": 2006.0898976,
+    "time_from_previous": 13.78495,
+    "distance_from_previous": 19.9998613,
+    "elevation_from_previous": -3.6844686,
+    "horizontal_speed": 1.450847576523673,
+    "vertical_speed": -0.2672819705548443
+  },
+  {
+    "pass_at": 1747544412,
+    "coord": [139.400331, 36.8085588],
+    "altitude": 2002.842486,
+    "time_from_previous": 41.15048,
+    "distance_from_previous": 19.9610871,
+    "elevation_from_previous": -3.2474116,
+    "horizontal_speed": 0.4850754377591707,
+    "vertical_speed": -0.07891552176305112
+  },
+  {
+    "pass_at": 1747544483,
+    "coord": [139.4004915, 36.8084334],
+    "altitude": 2000.3668682,
+    "time_from_previous": 71.090504,
+    "distance_from_previous": 19.9690268,
+    "elevation_from_previous": -2.4756179,
+    "horizontal_speed": 0.2808958394780828,
+    "vertical_speed": -0.03482346812451913
+  },
+  {
+    "pass_at": 1747544506,
+    "coord": [139.4007079, 36.8083864],
+    "altitude": 2000.1235707,
+    "time_from_previous": 22.526806,
+    "distance_from_previous": 19.9999995,
+    "elevation_from_previous": -0.2432975,
+    "horizontal_speed": 0.8878311243946435,
+    "vertical_speed": -0.01080035491937916
+  },
+  {
+    "pass_at": 1747544528,
+    "coord": [139.4009236, 36.8083374],
+    "altitude": 1996.374601,
+    "time_from_previous": 22.278075,
+    "distance_from_previous": 19.9998673,
+    "elevation_from_previous": -3.7489696,
+    "horizontal_speed": 0.8977376770659043,
+    "vertical_speed": -0.1682806795470435
+  },
+  {
+    "pass_at": 1747544550,
+    "coord": [139.4011239, 36.8082576],
+    "altitude": 1991.8136115,
+    "time_from_previous": 22.375135,
+    "distance_from_previous": 19.9490683,
+    "elevation_from_previous": -4.5609895,
+    "horizontal_speed": 0.8915730921846952,
+    "vertical_speed": -0.2038418762613052
+  },
+  {
+    "pass_at": 1747544566,
+    "coord": [139.4013426, 36.8082265],
+    "altitude": 1988.3001486,
+    "time_from_previous": 15.77,
+    "distance_from_previous": 19.8177816,
+    "elevation_from_previous": -3.5134629,
+    "horizontal_speed": 1.256676068484464,
+    "vertical_speed": -0.2227940963855422
+  },
+  {
+    "pass_at": 1747544590,
+    "coord": [139.4015662, 36.8082152],
+    "altitude": 1984.7698146,
+    "time_from_previous": 24.076971,
+    "distance_from_previous": 19.9931798,
+    "elevation_from_previous": -3.530334,
+    "horizontal_speed": 0.8303860066118782,
+    "vertical_speed": -0.1466269988861971
+  },
+  {
+    "pass_at": 1747544625,
+    "coord": [139.4017764, 36.8081583],
+    "altitude": 1979.8585428,
+    "time_from_previous": 34.347261,
+    "distance_from_previous": 19.7939298,
+    "elevation_from_previous": -4.9112718,
+    "horizontal_speed": 0.5762884498999788,
+    "vertical_speed": -0.1429887466135946
+  },
+  {
+    "pass_at": 1747544645,
+    "coord": [139.4019629, 36.8080599],
+    "altitude": 1972.8170027,
+    "time_from_previous": 20.486153,
+    "distance_from_previous": 19.9040239,
+    "elevation_from_previous": -7.0415401,
+    "horizontal_speed": 0.9715842647470219,
+    "vertical_speed": -0.3437219325658653
+  },
+  {
+    "pass_at": 1747544673,
+    "coord": [139.4021697, 36.807996],
+    "altitude": 1966.0575538,
+    "time_from_previous": 27.61263,
+    "distance_from_previous": 19.7711324,
+    "elevation_from_previous": -6.7594489,
+    "horizontal_speed": 0.7160177208762801,
+    "vertical_speed": -0.2447955482690349
+  },
+  {
+    "pass_at": 1747544709,
+    "coord": [139.4023807, 36.8079354],
+    "altitude": 1959.9954539,
+    "time_from_previous": 36.594793,
+    "distance_from_previous": 19.9864057,
+    "elevation_from_previous": -6.0620999,
+    "horizontal_speed": 0.5461543586269226,
+    "vertical_speed": -0.1656547121334994
+  },
+  {
+    "pass_at": 1747544758,
+    "coord": [139.402595, 36.8078833],
+    "altitude": 1953.4108573,
+    "time_from_previous": 48.385595,
+    "distance_from_previous": 19.9801758,
+    "elevation_from_previous": -6.5845966,
+    "horizontal_speed": 0.4129364493709337,
+    "vertical_speed": -0.1360858867189708
+  },
+  {
+    "pass_at": 1747544794,
+    "coord": [139.4027908, 36.8078001],
+    "altitude": 1945.6452918,
+    "time_from_previous": 36.017228,
+    "distance_from_previous": 19.7605303,
+    "elevation_from_previous": -7.7655655,
+    "horizontal_speed": 0.5486410642151583,
+    "vertical_speed": -0.2156069728630976
+  },
+  {
+    "pass_at": 1747544831,
+    "coord": [139.4029977, 36.8077867],
+    "altitude": 1936.9138729,
+    "time_from_previous": 36.83671,
+    "distance_from_previous": 18.5285985,
+    "elevation_from_previous": -8.7314189,
+    "horizontal_speed": 0.5029927618400233,
+    "vertical_speed": -0.2370303672613542
+  },
+  {
+    "pass_at": 1747544881,
+    "coord": [139.4032195, 36.8077898],
+    "altitude": 1928.5335628,
+    "time_from_previous": 49.989001,
+    "distance_from_previous": 19.7901429,
+    "elevation_from_previous": -8.3803101,
+    "horizontal_speed": 0.3958899458702925,
+    "vertical_speed": -0.1676430801247659
+  },
+  {
+    "pass_at": 1747544924,
+    "coord": [139.4034393, 36.8077572],
+    "altitude": 1921.2945657,
+    "time_from_previous": 43.749577,
+    "distance_from_previous": 19.949001,
+    "elevation_from_previous": -7.238997,
+    "horizontal_speed": 0.4559815744047079,
+    "vertical_speed": -0.1654643883756865
+  },
+  {
+    "pass_at": 1747544963,
+    "coord": [139.4036329, 36.8076748],
+    "altitude": 1913.6036381,
+    "time_from_previous": 38.388187,
+    "distance_from_previous": 19.547106,
+    "elevation_from_previous": -7.6909276,
+    "horizontal_speed": 0.5091958627793493,
+    "vertical_speed": -0.2003462054615916
+  },
+  {
+    "pass_at": 1747545001,
+    "coord": [139.4037993, 36.8075546],
+    "altitude": 1906.3109331,
+    "time_from_previous": 38.325412,
+    "distance_from_previous": 19.9637776,
+    "elevation_from_previous": -7.292705,
+    "horizontal_speed": 0.5209018392287603,
+    "vertical_speed": -0.1902837991669861
+  },
+  {
+    "pass_at": 1747545034,
+    "coord": [139.4039657, 36.8074346],
+    "altitude": 1900.4769465,
+    "time_from_previous": 33.07616,
+    "distance_from_previous": 19.9421889,
+    "elevation_from_previous": -5.8339866,
+    "horizontal_speed": 0.6029172945106083,
+    "vertical_speed": -0.1763804081247642
+  },
+  {
+    "pass_at": 1747545072,
+    "coord": [139.4041562, 36.8073421],
+    "altitude": 1894.8447422,
+    "time_from_previous": 38.342346,
+    "distance_from_previous": 19.8544614,
+    "elevation_from_previous": -5.6322043,
+    "horizontal_speed": 0.517820724897741,
+    "vertical_speed": -0.1468925323453082
+  },
+  {
+    "pass_at": 1747545125,
+    "coord": [139.4043617, 36.8072707],
+    "altitude": 1889.5066459,
+    "time_from_previous": 52.096603,
+    "distance_from_previous": 19.9874874,
+    "elevation_from_previous": -5.3380963,
+    "horizontal_speed": 0.3836620095939844,
+    "vertical_speed": -0.1024653430858054
+  },
+  {
+    "pass_at": 1747545160,
+    "coord": [139.4045565, 36.8071826],
+    "altitude": 1884.8676676,
+    "time_from_previous": 35.347848,
+    "distance_from_previous": 19.9349691,
+    "elevation_from_previous": -4.6389783,
+    "horizontal_speed": 0.5639655658811252,
+    "vertical_speed": -0.1312379271292555
+  },
+  {
+    "pass_at": 1747545186,
+    "coord": [139.4047457, 36.8070892],
+    "altitude": 1880.6827008,
+    "time_from_previous": 26.16545,
+    "distance_from_previous": 19.8136088,
+    "elevation_from_previous": -4.1849668,
+    "horizontal_speed": 0.7572431890145211,
+    "vertical_speed": -0.159942473758334
+  },
+  {
+    "pass_at": 1747545207,
+    "coord": [139.4049522, 36.8070217],
+    "altitude": 1875.7278037,
+    "time_from_previous": 20.595693,
+    "distance_from_previous": 19.8929322,
+    "elevation_from_previous": -4.9548971,
+    "horizontal_speed": 0.9658782639651893,
+    "vertical_speed": -0.2405792851932683
+  },
+  {
+    "pass_at": 1747545236,
+    "coord": [139.4051491, 36.8069422],
+    "altitude": 1869.4822283,
+    "time_from_previous": 29.178317,
+    "distance_from_previous": 19.6620845,
+    "elevation_from_previous": -6.2455754,
+    "horizontal_speed": 0.6738594450118559,
+    "vertical_speed": -0.2140485141757833
+  },
+  {
+    "pass_at": 1747545271,
+    "coord": [139.4053719, 36.8069236],
+    "altitude": 1863.4015386,
+    "time_from_previous": 35.440093,
+    "distance_from_previous": 19.9841125,
+    "elevation_from_previous": -6.0806897,
+    "horizontal_speed": 0.5638843131703971,
+    "vertical_speed": -0.1715765728944334
+  },
+  {
+    "pass_at": 1747545298,
+    "coord": [139.4055621, 36.8069511],
+    "altitude": 1857.2592838,
+    "time_from_previous": 26.552232,
+    "distance_from_previous": 17.2448821,
+    "elevation_from_previous": -6.1422548,
+    "horizontal_speed": 0.6494701500047153,
+    "vertical_speed": -0.2313272496263214
+  },
+  {
+    "pass_at": 1747545344,
+    "coord": [139.4056224, 36.8071145],
+    "altitude": 1848.6296721,
+    "time_from_previous": 46.000882,
+    "distance_from_previous": 18.9135096,
+    "elevation_from_previous": -8.6296117,
+    "horizontal_speed": 0.4111553687166259,
+    "vertical_speed": -0.1875966573858301
+  },
+  {
+    "pass_at": 1747545427,
+    "coord": [139.4057939, 36.807213],
+    "altitude": 1834.6123,
+    "time_from_previous": 82.778743,
+    "distance_from_previous": 18.8030329,
+    "elevation_from_previous": -14.0173721,
+    "horizontal_speed": 0.2271480843820013,
+    "vertical_speed": -0.1693354065547963
+  },
+  {
+    "pass_at": 1747545484,
+    "coord": [139.4058258, 36.8073782],
+    "altitude": 1821.7277194,
+    "time_from_previous": 57.104172,
+    "distance_from_previous": 18.5633284,
+    "elevation_from_previous": -12.8845806,
+    "horizontal_speed": 0.3250783217730571,
+    "vertical_speed": -0.2256329117249087
+  },
+  {
+    "pass_at": 1747545549,
+    "coord": [139.4060409, 36.8074289],
+    "altitude": 1808.5333283,
+    "time_from_previous": 65.661968,
+    "distance_from_previous": 19.9993153,
+    "elevation_from_previous": -13.194391,
+    "horizontal_speed": 0.3045798947116541,
+    "vertical_speed": -0.2009441904025782
+  },
+  {
+    "pass_at": 1747545595,
+    "coord": [139.4062477, 36.8074886],
+    "altitude": 1794.4790265,
+    "time_from_previous": 46.092068,
+    "distance_from_previous": 19.6084667,
+    "elevation_from_previous": -14.0543018,
+    "horizontal_speed": 0.4254195472418378,
+    "vertical_speed": -0.3049180132251822
+  },
+  {
+    "pass_at": 1747545634,
+    "coord": [139.4062877, 36.8076659],
+    "altitude": 1777.1905284,
+    "time_from_previous": 38.61967,
+    "distance_from_previous": 19.9945503,
+    "elevation_from_previous": -17.2884982,
+    "horizontal_speed": 0.5177297035422623,
+    "vertical_speed": -0.4476604331419714
+  },
+  {
+    "pass_at": 1747545729,
+    "coord": [139.4064732, 36.807767],
+    "altitude": 1772.4761893,
+    "time_from_previous": 94.487387,
+    "distance_from_previous": 20.0000001,
+    "elevation_from_previous": -4.7143391,
+    "horizontal_speed": 0.2116684642787296,
+    "vertical_speed": -0.04989384561983919
+  },
+  {
+    "pass_at": 1747545799,
+    "coord": [139.4066839, 36.8078282],
+    "altitude": 1760.6625922,
+    "time_from_previous": 70.390604,
+    "distance_from_previous": 19.9905414,
+    "elevation_from_previous": -11.8135971,
+    "horizontal_speed": 0.2839944575557272,
+    "vertical_speed": -0.1678291764622449
+  },
+  {
+    "pass_at": 1747545845,
+    "coord": [139.4068795, 36.8079159],
+    "altitude": 1747.3559136,
+    "time_from_previous": 45.904674,
+    "distance_from_previous": 19.9833019,
+    "elevation_from_previous": -13.3066786,
+    "horizontal_speed": 0.435321725626458,
+    "vertical_speed": -0.2898763337258424
+  },
+  {
+    "pass_at": 1747545926,
+    "coord": [139.4070547, 36.808028],
+    "altitude": 1734.9029798,
+    "time_from_previous": 81.610755,
+    "distance_from_previous": 19.9821375,
+    "elevation_from_previous": -12.4529338,
+    "horizontal_speed": 0.2448468648525553,
+    "vertical_speed": -0.1525893713395986
+  },
+  {
+    "pass_at": 1747546015,
+    "coord": [139.4071539, 36.8082068],
+    "altitude": 1713.8361303,
+    "time_from_previous": 88.52091,
+    "distance_from_previous": 21.7211651,
+    "elevation_from_previous": -21.0668495,
+    "horizontal_speed": 0.2453789178172705,
+    "vertical_speed": -0.2379872676410579
+  },
+  {
+    "pass_at": 1747546570,
+    "coord": [139.4073696, 36.8082692],
+    "altitude": 1701.0936805,
+    "time_from_previous": 0,
+    "distance_from_previous": 20.4638985,
+    "elevation_from_previous": -12.7424499,
+    "horizontal_speed": null,
+    "vertical_speed": null
+  },
+  {
+    "pass_at": 1747546611,
+    "coord": [139.4075911, 36.8082415],
+    "altitude": 1695.4186362,
+    "time_from_previous": 40.700466,
+    "distance_from_previous": 20,
+    "elevation_from_previous": -5.6750443,
+    "horizontal_speed": 0.4913948651103897,
+    "vertical_speed": -0.1394343814146993
+  },
+  {
+    "pass_at": 1747546671,
+    "coord": [139.4078082, 36.8082859],
+    "altitude": 1687.2796313,
+    "time_from_previous": 60.566025,
+    "distance_from_previous": 19.9880972,
+    "elevation_from_previous": -8.1390049,
+    "horizontal_speed": 0.330021611951585,
+    "vertical_speed": -0.1343823521520522
+  },
+  {
+    "pass_at": 1747546723,
+    "coord": [139.4080191, 36.8083468],
+    "altitude": 1674.2512014,
+    "time_from_previous": 52.110893,
+    "distance_from_previous": 19.9989474,
+    "elevation_from_previous": -13.0284299,
+    "horizontal_speed": 0.3837767163191773,
+    "vertical_speed": -0.2500135605045187
+  },
+  {
+    "pass_at": 1747546763,
+    "coord": [139.4082372, 36.8083068],
+    "altitude": 1662.0420255,
+    "time_from_previous": 40.025602,
+    "distance_from_previous": 19.9617151,
+    "elevation_from_previous": -12.2091759,
+    "horizontal_speed": 0.4987236694153906,
+    "vertical_speed": -0.3050341603856452
+  },
+  {
+    "pass_at": 1747546829,
+    "coord": [139.4084599, 36.8083231],
+    "altitude": 1650.5893645,
+    "time_from_previous": 65.748153,
+    "distance_from_previous": 19.9573119,
+    "elevation_from_previous": -11.452661,
+    "horizontal_speed": 0.3035417877061885,
+    "vertical_speed": -0.1741898513863956
+  },
+  {
+    "pass_at": 1747546872,
+    "coord": [139.4086646, 36.8082522],
+    "altitude": 1643.0637742,
+    "time_from_previous": 42.50075,
+    "distance_from_previous": 19.8867165,
+    "elevation_from_previous": -7.5255903,
+    "horizontal_speed": 0.4679144838620495,
+    "vertical_speed": -0.1770695881837379
+  },
+  {
+    "pass_at": 1747546945,
+    "coord": [139.4088787, 36.8081993],
+    "altitude": 1634.3569783,
+    "time_from_previous": 73.730978,
+    "distance_from_previous": 19.9898211,
+    "elevation_from_previous": -8.7067959,
+    "horizontal_speed": 0.2711183500102223,
+    "vertical_speed": -0.1180887075714634
+  },
+  {
+    "pass_at": 1747546984,
+    "coord": [139.4090901, 36.8081395],
+    "altitude": 1623.7791637,
+    "time_from_previous": 38.739773,
+    "distance_from_previous": 19.9981631,
+    "elevation_from_previous": -10.5778146,
+    "horizontal_speed": 0.5162178699395064,
+    "vertical_speed": -0.2730479241579449
+  },
+  {
+    "pass_at": 1747547040,
+    "coord": [139.4093009, 36.8081877],
+    "altitude": 1612.5876943,
+    "time_from_previous": 56.270591,
+    "distance_from_previous": 19.552652,
+    "elevation_from_previous": -11.1914694,
+    "horizontal_speed": 0.3474755045668527,
+    "vertical_speed": -0.1988866511105241
+  },
+  {
+    "pass_at": 1747547092,
+    "coord": [139.409515, 36.8082408],
+    "altitude": 1600.1744638,
+    "time_from_previous": 51.804379,
+    "distance_from_previous": 19.9964056,
+    "elevation_from_previous": -12.4132305,
+    "horizontal_speed": 0.3859983651189024,
+    "vertical_speed": -0.2396173979809699
+  },
+  {
+    "pass_at": 1747547166,
+    "coord": [139.4097366, 36.8082646],
+    "altitude": 1590.3165108,
+    "time_from_previous": 73.794151,
+    "distance_from_previous": 19.9473915,
+    "elevation_from_previous": -9.857953,
+    "horizontal_speed": 0.2703112811745744,
+    "vertical_speed": -0.1335871863340497
+  },
+  {
+    "pass_at": 1747547201,
+    "coord": [139.4099345, 36.808192],
+    "altitude": 1584.2443747,
+    "time_from_previous": 34.981435,
+    "distance_from_previous": 19.4159096,
+    "elevation_from_previous": -6.0721361,
+    "horizontal_speed": 0.5550346805384055,
+    "vertical_speed": -0.1735816755373243
+  },
+  {
+    "pass_at": 1747547229,
+    "coord": [139.4101517, 36.8081864],
+    "altitude": 1579.7752579,
+    "time_from_previous": 27.778301,
+    "distance_from_previous": 19.3921792,
+    "elevation_from_previous": -4.4691168,
+    "horizontal_speed": 0.6981053016885375,
+    "vertical_speed": -0.1608851743668556
+  },
+  {
+    "pass_at": 1747547254,
+    "coord": [139.4103732, 36.8081664],
+    "altitude": 1576.5846353,
+    "time_from_previous": 25.198489,
+    "distance_from_previous": 19.8882227,
+    "elevation_from_previous": -3.1906226,
+    "horizontal_speed": 0.789262510938652,
+    "vertical_speed": -0.1266196000879259
+  },
+  {
+    "pass_at": 1747547282,
+    "coord": [139.4105718, 36.8080882],
+    "altitude": 1573.6490798,
+    "time_from_previous": 27.820817,
+    "distance_from_previous": 19.729237,
+    "elevation_from_previous": -2.9355555,
+    "horizontal_speed": 0.7091537606533985,
+    "vertical_speed": -0.1055165094540538
+  },
+  {
+    "pass_at": 1747547316,
+    "coord": [139.4106987, 36.8079465],
+    "altitude": 1571.072039,
+    "time_from_previous": 34.044388,
+    "distance_from_previous": 19.3884549,
+    "elevation_from_previous": -2.5770409,
+    "horizontal_speed": 0.5695051677827194,
+    "vertical_speed": -0.07569649658557528
+  },
+  {
+    "pass_at": 1747547341,
+    "coord": [139.4108637, 36.8078339],
+    "altitude": 1569.4190452,
+    "time_from_previous": 25.588245,
+    "distance_from_previous": 19.3060755,
+    "elevation_from_previous": -1.6529938,
+    "horizontal_speed": 0.7544900207106817,
+    "vertical_speed": -0.06459973319780235
+  },
+  {
+    "pass_at": 1747547365,
+    "coord": [139.4110668, 36.8077585],
+    "altitude": 1568.4422614,
+    "time_from_previous": 23.322605,
+    "distance_from_previous": 19.9580855,
+    "elevation_from_previous": -0.9767838,
+    "horizontal_speed": 0.855739978445804,
+    "vertical_speed": -0.0418814193354473
+  },
+  {
+    "pass_at": 1747547389,
+    "coord": [139.4112584, 36.8076669],
+    "altitude": 1567.0538155,
+    "time_from_previous": 24.761387,
+    "distance_from_previous": 19.8895926,
+    "elevation_from_previous": -1.3884459,
+    "horizontal_speed": 0.8032503429634212,
+    "vertical_speed": -0.05607302611925576
+  },
+  {
+    "pass_at": 1747547412,
+    "coord": [139.4114686, 36.8076322],
+    "altitude": 1565.1403325,
+    "time_from_previous": 22.344609,
+    "distance_from_previous": 19.1525341,
+    "elevation_from_previous": -1.913483,
+    "horizontal_speed": 0.8571433986605003,
+    "vertical_speed": -0.08563510777924108
+  },
+  {
+    "pass_at": 1747547431,
+    "coord": [139.4116918, 36.8076458],
+    "altitude": 1563.2626225,
+    "time_from_previous": 18.691967,
+    "distance_from_previous": 19.9693142,
+    "elevation_from_previous": -1.87771,
+    "horizontal_speed": 1.068336692441197,
+    "vertical_speed": -0.1004554523341497
+  },
+  {
+    "pass_at": 1747547449,
+    "coord": [139.4119137, 36.8076705],
+    "altitude": 1561.4593366,
+    "time_from_previous": 18.408106,
+    "distance_from_previous": 19.9974461,
+    "elevation_from_previous": -1.8032859,
+    "horizontal_speed": 1.08633914320137,
+    "vertical_speed": -0.09796151217295251
+  },
+  {
+    "pass_at": 1747547467,
+    "coord": [139.412134, 36.8077033],
+    "altitude": 1559.5676747,
+    "time_from_previous": 18.112233,
+    "distance_from_previous": 19.9912234,
+    "elevation_from_previous": -1.8916619,
+    "horizontal_speed": 1.103741509950761,
+    "vertical_speed": -0.1044411199878005
+  },
+  {
+    "pass_at": 1747547484,
+    "coord": [139.4123544, 36.8077354],
+    "altitude": 1557.5472494,
+    "time_from_previous": 17.152153,
+    "distance_from_previous": 19.9886765,
+    "elevation_from_previous": -2.0204253,
+    "horizontal_speed": 1.165374195297815,
+    "vertical_speed": -0.1177942675767876
+  },
+  {
+    "pass_at": 1747547503,
+    "coord": [139.4125727, 36.8077737],
+    "altitude": 1555.4895055,
+    "time_from_previous": 18.740601,
+    "distance_from_previous": 19.9329481,
+    "elevation_from_previous": -2.057744,
+    "horizontal_speed": 1.063623738641039,
+    "vertical_speed": -0.1098013879063964
+  },
+  {
+    "pass_at": 1747547532,
+    "coord": [139.4127605, 36.8078609],
+    "altitude": 1553.9588449,
+    "time_from_previous": 29.161108,
+    "distance_from_previous": 19.3512157,
+    "elevation_from_previous": -1.5306605,
+    "horizontal_speed": 0.6635967227308374,
+    "vertical_speed": -0.05248979222600184
+  },
+  {
+    "pass_at": 1747547566,
+    "coord": [139.4129345, 36.80796],
+    "altitude": 1552.656594,
+    "time_from_previous": 33.635437,
+    "distance_from_previous": 19.0299644,
+    "elevation_from_previous": -1.302251,
+    "horizontal_speed": 0.5657712846127136,
+    "vertical_speed": -0.03871663686129602
+  },
+  {
+    "pass_at": 1747547589,
+    "coord": [139.4131541, 36.8079946],
+    "altitude": 1551.0211311,
+    "time_from_previous": 23.066817,
+    "distance_from_previous": 19.9681553,
+    "elevation_from_previous": -1.6354629,
+    "horizontal_speed": 0.8656658307039068,
+    "vertical_speed": -0.07090110872254286
+  },
+  {
+    "pass_at": 1747547620,
+    "coord": [139.4133715, 36.8080279],
+    "altitude": 1549.4655875,
+    "time_from_previous": 31.130669,
+    "distance_from_previous": 19.7446926,
+    "elevation_from_previous": -1.5555436,
+    "horizontal_speed": 0.6342521132456228,
+    "vertical_speed": -0.04996820338168768
+  },
+  {
+    "pass_at": 1747547641,
+    "coord": [139.4135937, 36.808018],
+    "altitude": 1547.7005962,
+    "time_from_previous": 20.626499,
+    "distance_from_previous": 19.8654121,
+    "elevation_from_previous": -1.7649913,
+    "horizontal_speed": 0.9631014987080455,
+    "vertical_speed": -0.0855691166978943
+  },
+  {
+    "pass_at": 1747547661,
+    "coord": [139.4138075, 36.80805],
+    "altitude": 1545.9387053,
+    "time_from_previous": 20.066018,
+    "distance_from_previous": 19.404296,
+    "elevation_from_previous": -1.7618909,
+    "horizontal_speed": 0.9670227545893759,
+    "vertical_speed": -0.0878047104313372
+  },
+  {
+    "pass_at": 1747547681,
+    "coord": [139.413982, 36.8079369],
+    "altitude": 1544.886223,
+    "time_from_previous": 20.404827,
+    "distance_from_previous": 19.9999999,
+    "elevation_from_previous": -1.0524823,
+    "horizontal_speed": 0.9801602287537159,
+    "vertical_speed": -0.05158006485426218
+  },
+  {
+    "pass_at": 1747547704,
+    "coord": [139.4141771, 36.8078488],
+    "altitude": 1542.7753101,
+    "time_from_previous": 23.18845,
+    "distance_from_previous": 19.9705254,
+    "elevation_from_previous": -2.1109129,
+    "horizontal_speed": 0.8612272661605239,
+    "vertical_speed": -0.09103294528094807
+  },
+  {
+    "pass_at": 1747547725,
+    "coord": [139.4143959, 36.8078151],
+    "altitude": 1540.8802111,
+    "time_from_previous": 20.66402,
+    "distance_from_previous": 19.8759683,
+    "elevation_from_previous": -1.895099,
+    "horizontal_speed": 0.9618635822071407,
+    "vertical_speed": -0.0917100835171472
+  },
+  {
+    "pass_at": 1747547743,
+    "coord": [139.4145428, 36.8079276],
+    "altitude": 1539.8029052,
+    "time_from_previous": 18.548778,
+    "distance_from_previous": 18.10593,
+    "elevation_from_previous": -1.0773059,
+    "horizontal_speed": 0.9761252196775444,
+    "vertical_speed": -0.05807961581080975
+  },
+  {
+    "pass_at": 1747547769,
+    "coord": [139.4146344, 36.808091],
+    "altitude": 1539.4543044,
+    "time_from_previous": 25.976434,
+    "distance_from_previous": 19.88693,
+    "elevation_from_previous": -0.3486009,
+    "horizontal_speed": 0.7655758292304479,
+    "vertical_speed": -0.01341989050537114
+  },
+  {
+    "pass_at": 1747547794,
+    "coord": [139.41481, 36.8080901],
+    "altitude": 1538.0642522,
+    "time_from_previous": 24.300179,
+    "distance_from_previous": 15.6740044,
+    "elevation_from_previous": -1.3900522,
+    "horizontal_speed": 0.645016005849175,
+    "vertical_speed": -0.05720337286404351
+  },
+  {
+    "pass_at": 1747547812,
+    "coord": [139.4150285, 36.808086],
+    "altitude": 1535.8794873,
+    "time_from_previous": 18.244517,
+    "distance_from_previous": 19.4978447,
+    "elevation_from_previous": -2.1847649,
+    "horizontal_speed": 1.06869612936314,
+    "vertical_speed": -0.1197491224349759
+  },
+  {
+    "pass_at": 1747547827,
+    "coord": [139.4152507, 36.8080798],
+    "altitude": 1533.8328317,
+    "time_from_previous": 15.178807,
+    "distance_from_previous": 19.8383861,
+    "elevation_from_previous": -2.0466556,
+    "horizontal_speed": 1.306979270505251,
+    "vertical_speed": -0.1348363939274015
+  },
+  {
+    "pass_at": 1747547844,
+    "coord": [139.4154738, 36.8080644],
+    "altitude": 1532.1774956,
+    "time_from_previous": 17.0758,
+    "distance_from_previous": 19.9849674,
+    "elevation_from_previous": -1.6553361,
+    "horizontal_speed": 1.170367853921924,
+    "vertical_speed": -0.09694047131027535
+  },
+  {
+    "pass_at": 1747547862,
+    "coord": [139.4156902, 36.8080251],
+    "altitude": 1530.4831137,
+    "time_from_previous": 17.389247,
+    "distance_from_previous": 19.799542,
+    "elevation_from_previous": -1.6943819,
+    "horizontal_speed": 1.138608359522411,
+    "vertical_speed": -0.09743848597929514
+  },
+  {
+    "pass_at": 1747547879,
+    "coord": [139.4159002, 36.8079622],
+    "altitude": 1528.5472951,
+    "time_from_previous": 17.100467,
+    "distance_from_previous": 19.997977,
+    "elevation_from_previous": -1.9358186,
+    "horizontal_speed": 1.169440401832301,
+    "vertical_speed": -0.1132026745234502
+  },
+  {
+    "pass_at": 1747547896,
+    "coord": [139.4161098, 36.8078983],
+    "altitude": 1526.5490239,
+    "time_from_previous": 17.066749,
+    "distance_from_previous": 19.9994391,
+    "elevation_from_previous": -1.9982712,
+    "horizontal_speed": 1.171836481570099,
+    "vertical_speed": -0.1170856382782685
+  },
+  {
+    "pass_at": 1747547912,
+    "coord": [139.416321, 36.8078381],
+    "altitude": 1524.4956895,
+    "time_from_previous": 16.184809,
+    "distance_from_previous": 19.9979779,
+    "elevation_from_previous": -2.0533343,
+    "horizontal_speed": 1.235601723813979,
+    "vertical_speed": -0.1268679970211573
+  },
+  {
+    "pass_at": 1747547929,
+    "coord": [139.4165328, 36.8077792],
+    "altitude": 1522.6052351,
+    "time_from_previous": 16.856796,
+    "distance_from_previous": 19.9995424,
+    "elevation_from_previous": -1.8904544,
+    "horizontal_speed": 1.186437944672285,
+    "vertical_speed": -0.1121479075857595
+  },
+  {
+    "pass_at": 1747547945,
+    "coord": [139.4167442, 36.8077192],
+    "altitude": 1520.9023838,
+    "time_from_previous": 16.268238,
+    "distance_from_previous": 19.9999953,
+    "elevation_from_previous": -1.7028513,
+    "horizontal_speed": 1.229389150810309,
+    "vertical_speed": -0.1046733702814036
+  },
+  {
+    "pass_at": 1747547961,
+    "coord": [139.4169551, 36.8076584],
+    "altitude": 1519.2162924,
+    "time_from_previous": 15.732764,
+    "distance_from_previous": 19.9996529,
+    "elevation_from_previous": -1.6860913,
+    "horizontal_speed": 1.271210379816287,
+    "vertical_speed": -0.1071706980413613
+  },
+  {
+    "pass_at": 1747547977,
+    "coord": [139.4171654, 36.807596],
+    "altitude": 1517.316785,
+    "time_from_previous": 16.568878,
+    "distance_from_previous": 19.9998821,
+    "elevation_from_previous": -1.8995075,
+    "horizontal_speed": 1.207075222595036,
+    "vertical_speed": -0.1146430977402332
+  },
+  {
+    "pass_at": 1747547993,
+    "coord": [139.4173774, 36.8075379],
+    "altitude": 1515.1372426,
+    "time_from_previous": 15.266446,
+    "distance_from_previous": 19.9864667,
+    "elevation_from_previous": -2.1795424,
+    "horizontal_speed": 1.309176130449746,
+    "vertical_speed": -0.1427668495994418
+  },
+  {
+    "pass_at": 1747548008,
+    "coord": [139.4175909, 36.8074833],
+    "altitude": 1513.2334394,
+    "time_from_previous": 15.742049,
+    "distance_from_previous": 19.9878629,
+    "elevation_from_previous": -1.9038032,
+    "horizontal_speed": 1.269711643001492,
+    "vertical_speed": -0.1209374459449339
+  },
+  {
+    "pass_at": 1747548026,
+    "coord": [139.4177966, 36.8074128],
+    "altitude": 1511.8225306,
+    "time_from_previous": 17.405087,
+    "distance_from_previous": 19.9550568,
+    "elevation_from_previous": -1.4109089,
+    "horizontal_speed": 1.146507156212434,
+    "vertical_speed": -0.08106301910470197
+  },
+  {
+    "pass_at": 1747548043,
+    "coord": [139.4180002, 36.8073401],
+    "altitude": 1510.4953147,
+    "time_from_previous": 17.111,
+    "distance_from_previous": 19.8791191,
+    "elevation_from_previous": -1.3272159,
+    "horizontal_speed": 1.161774244637952,
+    "vertical_speed": -0.07756506925369644
+  },
+  {
+    "pass_at": 1747548060,
+    "coord": [139.4182161, 36.8072919],
+    "altitude": 1509.0007894,
+    "time_from_previous": 17.35386,
+    "distance_from_previous": 19.9985227,
+    "elevation_from_previous": -1.4945254,
+    "horizontal_speed": 1.152396221935638,
+    "vertical_speed": -0.0861206325278641
+  },
+  {
+    "pass_at": 1747548076,
+    "coord": [139.4184323, 36.8072447],
+    "altitude": 1507.4319092,
+    "time_from_previous": 16.131575,
+    "distance_from_previous": 19.9872661,
+    "elevation_from_previous": -1.5688802,
+    "horizontal_speed": 1.23901516745885,
+    "vertical_speed": -0.09725524011139643
+  },
+  {
+    "pass_at": 1747548092,
+    "coord": [139.4186522, 36.8072106],
+    "altitude": 1505.8756319,
+    "time_from_previous": 15.165818,
+    "distance_from_previous": 19.9892265,
+    "elevation_from_previous": -1.5562773,
+    "horizontal_speed": 1.318044730590859,
+    "vertical_speed": -0.1026174321754356
+  },
+  {
+    "pass_at": 1747548108,
+    "coord": [139.4188747, 36.8071893],
+    "altitude": 1504.5660131,
+    "time_from_previous": 16.284287,
+    "distance_from_previous": 19.9885885,
+    "elevation_from_previous": -1.3096188,
+    "horizontal_speed": 1.227477045817235,
+    "vertical_speed": -0.08042223770681517
+  },
+  {
+    "pass_at": 1747548125,
+    "coord": [139.4190978, 36.8071745],
+    "altitude": 1503.5360315,
+    "time_from_previous": 16.781194,
+    "distance_from_previous": 19.976163,
+    "elevation_from_previous": -1.0299815,
+    "horizontal_speed": 1.190389849494619,
+    "vertical_speed": -0.06137712846892779
+  },
+  {
+    "pass_at": 1747548142,
+    "coord": [139.4193188, 36.8071456],
+    "altitude": 1502.6444878,
+    "time_from_previous": 17.418934,
+    "distance_from_previous": 19.9867959,
+    "elevation_from_previous": -0.8915437,
+    "horizontal_speed": 1.147417855765456,
+    "vertical_speed": -0.05118244893746082
+  },
+  {
+    "pass_at": 1747548159,
+    "coord": [139.4195419, 36.8071284],
+    "altitude": 1501.7829672,
+    "time_from_previous": 16.933506,
+    "distance_from_previous": 19.9929416,
+    "elevation_from_previous": -0.8615206,
+    "horizontal_speed": 1.18067348840813,
+    "vertical_speed": -0.05087668200548663
+  },
+  {
+    "pass_at": 1747548177,
+    "coord": [139.4197635, 36.8071016],
+    "altitude": 1500.3101784,
+    "time_from_previous": 18.273895,
+    "distance_from_previous": 19.998145,
+    "elevation_from_previous": -1.4727888,
+    "horizontal_speed": 1.094355910439455,
+    "vertical_speed": -0.08059523161318373
+  },
+  {
+    "pass_at": 1747548197,
+    "coord": [139.4199861, 36.8070807],
+    "altitude": 1499.6055648,
+    "time_from_previous": 19.453967,
+    "distance_from_previous": 19.999724,
+    "elevation_from_previous": -0.7046136,
+    "horizontal_speed": 1.028053764047199,
+    "vertical_speed": -0.03621953301349796
+  },
+  {
+    "pass_at": 1747548214,
+    "coord": [139.4202087, 36.8070602],
+    "altitude": 1499.4418202,
+    "time_from_previous": 17.272084,
+    "distance_from_previous": 19.9919544,
+    "elevation_from_previous": -0.1637446,
+    "horizontal_speed": 1.157472045643132,
+    "vertical_speed": -0.009480303592780117
+  },
+  {
+    "pass_at": 1747548231,
+    "coord": [139.4204287, 36.807026],
+    "altitude": 1499.4040045,
+    "time_from_previous": 17.259002,
+    "distance_from_previous": 19.998877,
+    "elevation_from_previous": -0.0378157,
+    "horizontal_speed": 1.158750488585609,
+    "vertical_speed": -0.002191071071200988
+  },
+  {
+    "pass_at": 1747548248,
+    "coord": [139.4206502, 36.8069985],
+    "altitude": 1499.2835594,
+    "time_from_previous": 16.444861,
+    "distance_from_previous": 20.0000002,
+    "elevation_from_previous": -0.1204451,
+    "horizontal_speed": 1.216185421086867,
+    "vertical_speed": -0.007324178659825705
+  },
+  {
+    "pass_at": 1747548266,
+    "coord": [139.4208692, 36.8069604],
+    "altitude": 1498.4054858,
+    "time_from_previous": 18.306711,
+    "distance_from_previous": 19.9992617,
+    "elevation_from_previous": -0.8780735,
+    "horizontal_speed": 1.092455203995955,
+    "vertical_speed": -0.04796456884035587
+  },
+  {
+    "pass_at": 1747548283,
+    "coord": [139.421091, 36.8069342],
+    "altitude": 1497.1731847,
+    "time_from_previous": 16.973585,
+    "distance_from_previous": 19.9972201,
+    "elevation_from_previous": -1.2323012,
+    "horizontal_speed": 1.178137682758239,
+    "vertical_speed": -0.07260111520341754
+  },
+  {
+    "pass_at": 1747548299,
+    "coord": [139.421312, 36.8069045],
+    "altitude": 1495.7744018,
+    "time_from_previous": 15.855799,
+    "distance_from_previous": 19.9996182,
+    "elevation_from_previous": -1.3987829,
+    "horizontal_speed": 1.261344079853686,
+    "vertical_speed": -0.08821901059669085
+  },
+  {
+    "pass_at": 1747548318,
+    "coord": [139.4215359, 36.8069034],
+    "altitude": 1494.2959207,
+    "time_from_previous": 18.754785,
+    "distance_from_previous": 19.9787769,
+    "elevation_from_previous": -1.4784811,
+    "horizontal_speed": 1.065262912904627,
+    "vertical_speed": -0.0788322073540166
+  },
+  {
+    "pass_at": 1747548333,
+    "coord": [139.4217598, 36.8068967],
+    "altitude": 1492.7137329,
+    "time_from_previous": 15.869088,
+    "distance_from_previous": 19.9971429,
+    "elevation_from_previous": -1.5821878,
+    "horizontal_speed": 1.260131829882095,
+    "vertical_speed": -0.09970250338267707
+  },
+  {
+    "pass_at": 1747548352,
+    "coord": [139.4219802, 36.8069253],
+    "altitude": 1490.9936324,
+    "time_from_previous": 18.151559,
+    "distance_from_previous": 19.917446,
+    "elevation_from_previous": -1.7201005,
+    "horizontal_speed": 1.097285693201339,
+    "vertical_speed": -0.09476323769214536
+  },
+  {
+    "pass_at": 1747548367,
+    "coord": [139.4222032, 36.8069233],
+    "altitude": 1489.6658533,
+    "time_from_previous": 15.463671,
+    "distance_from_previous": 19.9000983,
+    "elevation_from_previous": -1.3277791,
+    "horizontal_speed": 1.2868935390568,
+    "vertical_speed": -0.08586441731720755
+  },
+  {
+    "pass_at": 1747548383,
+    "coord": [139.422427, 36.8069137],
+    "altitude": 1488.619919,
+    "time_from_previous": 16.128527,
+    "distance_from_previous": 19.9999318,
+    "elevation_from_previous": -1.0459343,
+    "horizontal_speed": 1.24003461692441,
+    "vertical_speed": -0.06484995808978714
+  },
+  {
+    "pass_at": 1747548400,
+    "coord": [139.4226295, 36.8068446],
+    "altitude": 1487.7355147,
+    "time_from_previous": 16.942722,
+    "distance_from_previous": 19.6363638,
+    "elevation_from_previous": -0.8844043,
+    "horizontal_speed": 1.158985185497348,
+    "vertical_speed": -0.05219965835477913
+  },
+  {
+    "pass_at": 1747548422,
+    "coord": [139.422735, 36.8066972],
+    "altitude": 1487.3017151,
+    "time_from_previous": 21.881871,
+    "distance_from_previous": 18.8684746,
+    "elevation_from_previous": -0.4337996,
+    "horizontal_speed": 0.8622879917352588,
+    "vertical_speed": -0.01982461188990649
+  },
+  {
+    "pass_at": 1747548443,
+    "coord": [139.4227715, 36.8065204],
+    "altitude": 1487.2787714,
+    "time_from_previous": 21.067265,
+    "distance_from_previous": 19.8872003,
+    "elevation_from_previous": -0.0229437,
+    "horizontal_speed": 0.9439858614775103,
+    "vertical_speed": -0.001089068751923897
+  },
+  {
+    "pass_at": 1747548510,
+    "coord": [139.4228028, 36.8063421],
+    "altitude": 1487.1190957,
+    "time_from_previous": 67.250354,
+    "distance_from_previous": 19.9822198,
+    "elevation_from_previous": -0.1596757,
+    "horizontal_speed": 0.2971318158414452,
+    "vertical_speed": -0.002374347352877875
+  },
+  {
+    "pass_at": 1747548564,
+    "coord": [139.4228226, 36.8061631],
+    "altitude": 1486.9214534,
+    "time_from_previous": 53.970859,
+    "distance_from_previous": 19.9414538,
+    "elevation_from_previous": -0.1976424,
+    "horizontal_speed": 0.3694855736870892,
+    "vertical_speed": -0.003662020647105135
+  },
+  {
+    "pass_at": 1747548583,
+    "coord": [139.4228855, 36.8059965],
+    "altitude": 1486.5759137,
+    "time_from_previous": 19.109786,
+    "distance_from_previous": 19.3262127,
+    "elevation_from_previous": -0.3455397,
+    "horizontal_speed": 1.011325438181254,
+    "vertical_speed": -0.01808181944057354
+  },
+  {
+    "pass_at": 1747548603,
+    "coord": [139.4229951, 36.8058394],
+    "altitude": 1486.0072775,
+    "time_from_previous": 19.748266,
+    "distance_from_previous": 19.9888935,
+    "elevation_from_previous": -0.5686362,
+    "horizontal_speed": 1.01218474067546,
+    "vertical_speed": -0.02879423438999657
+  },
+  {
+    "pass_at": 1747548622,
+    "coord": [139.4230762, 36.8056727],
+    "altitude": 1485.7834009,
+    "time_from_previous": 19.206531,
+    "distance_from_previous": 19.8719647,
+    "elevation_from_previous": -0.2238766,
+    "horizontal_speed": 1.034646220080034,
+    "vertical_speed": -0.01165627462866668
+  },
+  {
+    "pass_at": 1747548633,
+    "coord": [139.4231077, 36.8055726],
+    "altitude": 1485.8337968,
+    "time_from_previous": 10.647651,
+    "distance_from_previous": 11.4494504,
+    "elevation_from_previous": 0.050396,
+    "horizontal_speed": 1.075302937708984,
+    "vertical_speed": 0.004733062719655256
+  }
+]
