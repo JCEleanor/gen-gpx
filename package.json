@@ -1,0 +1,35 @@
+{
+  "name": "gen-gpx-from-yamap-activity",
+  "version": "1.0.0",
+  "description": "A web-based tool to convert YAMAP activity to GPX",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s . -l 3000",
+    "serve": "npx serve -s .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linting configured'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "gpx",
+    "json",
+    "YAMAP"
+  ],
+  "author": "JSON to GPX Converter",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JCEleanor/gen-gpx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JCEleanor/gen-gpx/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
