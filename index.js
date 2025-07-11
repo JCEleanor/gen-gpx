@@ -3,338 +3,125 @@
  * Handles both Yamap API fetching and file upload functionality
  */
 
-// Global state
-let trackData = null;
-let currentDataSource = null; // 'yamap' or 'file'
+// DOM elements
+const yamapLinkInput = document.getElementById("yamapLink");
+const convertBtn = document.getElementById("convertBtn");
+const statusDiv = document.getElementById("status");
+const previewDiv = document.getElementById("preview");
 
-// DOM element references
-let yamapIdInput,
-  fetchBtn,
-  fileInput,
-  uploadArea,
-  convertBtn,
-  statusDiv,
-  previewDiv;
-let tabBtns, tabContents;
-
-// API Configuration
-const YAMAP_API_BASE = "https://api.yamap.com/v3/activities";
-
-/**
- * Initialize the application when DOM is loaded
- */
-document.addEventListener("DOMContentLoaded", function () {
-  initializeElements();
-  setupEventListeners();
-});
-
-/**
- * Get references to DOM elements
- */
-function initializeElements() {
-  // Yamap elements
-  yamapIdInput = document.getElementById("yamapId");
-  fetchBtn = document.getElementById("fetchBtn");
-
-  // File upload elements
-  fileInput = document.getElementById("fileInput");
-  uploadArea = document.querySelector(".upload-area");
-
-  // Common elements
-  convertBtn = document.getElementById("convertBtn");
-  statusDiv = document.getElementById("status");
-  previewDiv = document.getElementById("preview");
-
-  // Tab elements
-  tabBtns = document.querySelectorAll(".tab-btn");
-  tabContents = document.querySelectorAll(".tab-content");
+// Extract activity ID from YAMAP URL
+function extractActivityId(url) {
+  const match = url.match(/yamap\.com\/activities\/(\d+)/);
+  return match ? match[1] : null;
 }
 
-/**
- * Set up all event listeners
- */
-function setupEventListeners() {
-  // Tab switching
-  tabBtns.forEach((btn) => {
-    btn.addEventListener("click", () => switchTab(btn.dataset.tab));
-  });
+// Validate YAMAP URL
+function validateYamapUrl(url) {
+  if (!url) return false;
 
-  // Yamap functionality
-  fetchBtn.addEventListener("click", fetchYamapData);
-  yamapIdInput.addEventListener("keypress", (e) => {
-    if (e.key === "Enter") fetchYamapData();
-  });
-  yamapIdInput.addEventListener("input", validateYamapId);
-
-  // File upload functionality
-  uploadArea.addEventListener("dragover", handleDragOver);
-  uploadArea.addEventListener("dragleave", handleDragLeave);
-  uploadArea.addEventListener("drop", handleDrop);
-  fileInput.addEventListener("change", handleFileInputChange);
-
-  // Convert button
-  convertBtn.addEventListener("click", convertToGPX);
-}
-
-/**
- * Switch between tabs
- * @param {string} tabName - Name of the tab to switch to
- */
-function switchTab(tabName) {
-  // Update tab buttons
-  tabBtns.forEach((btn) => {
-    btn.classList.toggle("active", btn.dataset.tab === tabName);
-  });
-
-  // Update tab contents
-  tabContents.forEach((content) => {
-    content.classList.toggle("active", content.id === `${tabName}-tab`);
-  });
-
-  // Clear previous data when switching tabs
-  clearData();
-}
-
-/**
- * Validate Yamap ID input (numbers only)
- */
-function validateYamapId() {
-  const value = yamapIdInput.value;
-  const numbersOnly = value.replace(/[^0-9]/g, "");
-
-  if (value !== numbersOnly) {
-    yamapIdInput.value = numbersOnly;
-  }
-
-  fetchBtn.disabled = numbersOnly.length === 0;
-}
-
-/**
- * Fetch track data from Yamap API
- */
-async function fetchYamapData() {
-  const activityId = yamapIdInput.value.trim();
-
+  const activityId = extractActivityId(url);
   if (!activityId) {
-    showStatus("Please enter a Yamap Activity ID", "error");
-    return;
+    showStatus(
+      "Invalid YAMAP URL. Please use format: https://yamap.com/activities/39755763",
+      "error"
+    );
+    return false;
   }
 
-  if (!/^\d+$/.test(activityId)) {
-    showStatus("Activity ID must contain only numbers", "error");
-    return;
-  }
+  return activityId;
+}
 
-  fetchBtn.disabled = true;
-  fetchBtn.textContent = "Fetching...";
-  showStatus("Fetching track data from Yamap API...", "info");
+// Fetch activity data from YAMAP API
+async function fetchActivityData(activityId) {
+  const apiUrl = `https://api.yamap.com/v4/activities/${activityId}/activity_regularized_track`;
 
   try {
-    const apiUrl = `${YAMAP_API_BASE}/${activityId}/activity_regularized_track`;
-
-    const response = await fetch(apiUrl, {
-      method: "GET",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-    });
+    const response = await fetch(apiUrl);
 
     if (!response.ok) {
-      if (response.status === 404) {
-        throw new Error(
-          `Activity ${activityId} not found. Please check the ID and try again.`
-        );
-      } else if (response.status === 403) {
-        throw new Error(
-          "Access denied. The activity might be private or require authentication."
-        );
-      } else if (response.status >= 500) {
-        throw new Error("Yamap server error. Please try again later.");
-      } else {
-        throw new Error(
-          `Failed to fetch data: ${response.status} ${response.statusText}`
-        );
-      }
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
 
     const data = await response.json();
-    console.log(data?.activity_regularized_track?.points);
-
-    if (
-      !data?.activity_regularized_track?.points ||
-      !Array.isArray(data?.activity_regularized_track?.points) ||
-      data?.activity_regularized_track?.points.length === 0
-    ) {
-      throw new Error("No track data found for this activity");
-    }
-
-    // Validate and process Yamap data
-    validateYamapData(data?.activity_regularized_track?.points);
-
-    trackData = data?.activity_regularized_track?.points;
-    currentDataSource = "yamap";
-
-    showStatus(
-      `Successfully loaded ${data?.activity_regularized_track?.points.length} trackpoints from Yamap`,
-      "success"
-    );
-    convertBtn.disabled = false;
-    showPreview(data?.activity_regularized_track?.points, "yamap");
+    return data;
   } catch (error) {
-    console.error("Yamap API Error:", error);
-    showStatus(`Error: ${error.message}`, "error");
-    trackData = null;
-    convertBtn.disabled = true;
-  } finally {
-    fetchBtn.disabled = false;
-    fetchBtn.textContent = "Fetch Track Data";
+    throw new Error(`Failed to fetch activity data: ${error.message}`);
   }
 }
 
-/**
- * Validate Yamap API response data
- * @param {Array} data - The API response data
- * @throws {Error} If validation fails
- */
-function validateYamapData(data) {
-  if (!Array.isArray(data)) {
-    throw new Error("Invalid data format: expected array");
-  }
+// Handle YAMAP link input
+async function handleYamapLink() {
+  const url = yamapLinkInput.value.trim();
 
-  const firstPoint = data[0];
-  if (!firstPoint) {
-    throw new Error("No trackpoints found");
-  }
-
-  // Check for required fields (adjust based on actual Yamap API response)
-  if (!firstPoint.coord && !firstPoint.coordinates) {
-    throw new Error("Trackpoints missing coordinate data");
-  }
-
-  if (!firstPoint.pass_at && !firstPoint.timestamp && !firstPoint.time) {
-    throw new Error("Trackpoints missing timestamp data");
-  }
-}
-
-/**
- * Handle drag over event for file upload
- * @param {DragEvent} e - The drag event
- */
-function handleDragOver(e) {
-  e.preventDefault();
-  uploadArea.classList.add("dragover");
-}
-
-/**
- * Handle drag leave event for file upload
- */
-function handleDragLeave() {
-  uploadArea.classList.remove("dragover");
-}
-
-/**
- * Handle drop event for file upload
- * @param {DragEvent} e - The drop event
- */
-function handleDrop(e) {
-  e.preventDefault();
-  uploadArea.classList.remove("dragover");
-  const files = e.dataTransfer.files;
-  if (files.length > 0) {
-    handleFile(files[0]);
-  }
-}
-
-/**
- * Handle file input change event
- * @param {Event} e - The change event
- */
-function handleFileInputChange(e) {
-  if (e.target.files.length > 0) {
-    handleFile(e.target.files[0]);
-  }
-}
-
-/**
- * Process the uploaded JSON file
- * @param {File} file - The uploaded file
- */
-async function handleFile(file) {
-  if (!file.name.toLowerCase().endsWith(".json")) {
-    showStatus("Please select a JSON file.", "error");
+  if (!url) {
+    showStatus("Please enter a YAMAP activity link", "error");
     return;
   }
 
+  const activityId = validateYamapUrl(url);
+  if (!activityId) return;
+
+  showStatus("Fetching activity data...", "success");
+  convertBtn.disabled = true;
+
   try {
-    const text = await file.text();
-    const data = JSON.parse(text);
+    const response = await fetchActivityData(activityId);
 
-    validateJsonData(data);
+    // Extract points from the nested structure
+    if (
+      !response.activity_regularized_track ||
+      !response.activity_regularized_track.points
+    ) {
+      throw new Error(
+        "Invalid response format - missing activity_regularized_track.points"
+      );
+    }
 
-    trackData = data;
-    currentDataSource = "file";
+    jsonData = response.activity_regularized_track.points;
+
+    if (!Array.isArray(jsonData)) {
+      throw new Error("Invalid response format - points should be an array");
+    }
+
+    if (jsonData.length === 0) {
+      throw new Error("No trackpoints found in activity");
+    }
+
+    // Validate data structure
+    const firstPoint = jsonData[0];
+    if (!firstPoint.coord || !firstPoint.pass_at) {
+      throw new Error('Trackpoints must have "coord" and "pass_at" properties');
+    }
 
     showStatus(
-      `Successfully loaded ${data.length} trackpoints from file`,
+      `Successfully loaded ${jsonData.length} trackpoints from activity ${activityId}`,
       "success"
     );
     convertBtn.disabled = false;
     showPreview(data, "file");
   } catch (error) {
-    showStatus(`Error reading file: ${error.message}`, "error");
-    trackData = null;
+    showStatus(`Error: ${error.message}`, "error");
+    jsonData = null;
     convertBtn.disabled = true;
   }
 }
 
-/**
- * Validate the structure of JSON file data
- * @param {Array} data - The JSON data to validate
- * @throws {Error} If validation fails
- */
-function validateJsonData(data) {
-  if (!Array.isArray(data)) {
-    throw new Error("JSON file must contain an array of objects");
+// Handle input events
+yamapLinkInput.addEventListener("input", () => {
+  const url = yamapLinkInput.value.trim();
+  if (url && validateYamapUrl(url)) {
+    convertBtn.disabled = false;
+  } else {
+    convertBtn.disabled = true;
   }
+});
 
-  if (data.length === 0) {
-    throw new Error("JSON array is empty");
+yamapLinkInput.addEventListener("keypress", (e) => {
+  if (e.key === "Enter") {
+    handleYamapLink();
   }
+});
 
-  const firstPoint = data[0];
-  if (!firstPoint.coord || !firstPoint.pass_at) {
-    throw new Error('JSON objects must have "coord" and "pass_at" properties');
-  }
-
-  if (!Array.isArray(firstPoint.coord) || firstPoint.coord.length < 2) {
-    throw new Error(
-      "Coordinate must be an array with at least 2 elements [longitude, latitude]"
-    );
-  }
-}
-
-/**
- * Clear all data and reset UI
- */
-function clearData() {
-  trackData = null;
-  currentDataSource = null;
-  convertBtn.disabled = true;
-  statusDiv.innerHTML = "";
-  previewDiv.innerHTML = "";
-
-  // Reset inputs
-  yamapIdInput.value = "";
-  fileInput.value = "";
-  fetchBtn.disabled = true;
-}
-
-/**
- * Display status message to user
- * @param {string} message - The message to display
- * @param {string} type - The type of message ('success', 'error', or 'info')
- */
 function showStatus(message, type) {
   const statusClass = type === "info" ? "success" : type;
   statusDiv.innerHTML = `<div class="status ${statusClass}">${message}</div>`;
@@ -353,16 +140,21 @@ function showPreview(data, source) {
     JSON.stringify(samplePoints, null, 2);
 
   previewDiv.innerHTML = `
-        <div class="preview">
-            <h3>Data Preview</h3>
-            <div class="preview-content">${previewText}</div>
-        </div>
-    `;
+    <div class="preview">
+      <h3>Data Preview</h3>
+      <div class="preview-content">${previewText}</div>
+    </div>
+  `;
 }
 
-/**
- * Convert track data to GPX and trigger download
- */
+convertBtn.addEventListener("click", () => {
+  if (jsonData) {
+    convertToGPX();
+  } else {
+    handleYamapLink();
+  }
+});
+
 function convertToGPX() {
   if (!trackData) {
     showStatus(
@@ -398,22 +190,8 @@ function convertToGPX() {
  * @returns {string} GPX XML content
  */
 function generateGPX(data, name, description) {
-  const header = generateGPXHeader(name, description);
-  const trackpoints = generateTrackpoints(data);
-  const footer = generateGPXFooter();
-
-  return header + "\n" + trackpoints + footer;
-}
-
-/**
- * Generate GPX header with metadata
- * @param {string} name - Track name
- * @param {string} description - Track description
- * @returns {string} GPX header XML
- */
-function generateGPXHeader(name, description) {
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="JSON to GPX Converter with Yamap API"
+  const header = `<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="YAMAP to GPX Converter" 
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
      xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">

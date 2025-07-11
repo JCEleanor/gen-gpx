@@ -25,6 +25,34 @@ h1 {
     font-weight: 700;
 }
 
+.input-area {
+    margin-bottom: 20px;
+}
+
+.link-input {
+    width: 100%;
+    padding: 15px;
+    border: 3px solid #e2e8f0;
+    border-radius: 12px;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    background: linear-gradient(45deg, #f7fafc, #edf2f7);
+}
+
+.link-input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    background: white;
+}
+
+.input-hint {
+    color: #718096;
+    font-size: 0.9em;
+    margin-top: 8px;
+    text-align: center;
+}
+
 .upload-area {
     border: 3px dashed #cbd5e0;
     border-radius: 15px;
