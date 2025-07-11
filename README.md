@@ -12,3 +12,5 @@ This tool is just for personal use.
 2. Run `npm install` to install the dependencies
 3. Run `npm start` to start the development server
 4. Open `http://localhost:3000` in your browser 
+
+![Screenshot of YAMAP to GPX Converter](assets/demo.png)
